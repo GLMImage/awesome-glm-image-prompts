@@ -1,0 +1,218 @@
+[
+ {
+  "id": "window-light-film-portrait",
+  "title_en": "Window-Light Film Portrait",
+  "title_zh": "窗影胶片人像",
+  "category": "portrait",
+  "tags": [
+   "portrait",
+   "film",
+   "natural-light"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "室内人像摄影：一位二十五六岁的亚洲女性，身着素色轻薄衣衫，长发被穿堂风轻轻扬起。她微微侧身、目光安静地望向镜头，神情慵懒而温柔。午后阳光穿过窗外摇曳的枝叶，在脸颊与肩头投下斑驳树影，形成柔和的轮廓光。肤质清透细腻，高光与暗部的强对比中保留真实的中画幅胶片颗粒感。背景为简洁室内，身后垂落一层薄纱，整体氛围朦胧诗意，如哈苏相机出片质感。",
+  "prompt_en": "An indoor portrait of an Asian woman in her mid-twenties wearing light, plain-colored clothes, her long hair lifted slightly by a breeze through the window. She turns gently toward the camera with a soft, dreamy gaze. Afternoon sunlight filters through swaying leaves, casting dappled shadows across her face and shoulders and rimming her silhouette. Realistic medium-format film grain, delicate skin texture, a sheer curtain in the background, quiet and poetic Hasselblad-like rendering.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/portrait/window-light-film-portrait.webp"
+ },
+ {
+  "id": "rainy-store-giraffe",
+  "title_en": "Giraffe at the Rainy Convenience Store",
+  "title_zh": "雨后便利店的长颈鹿",
+  "category": "anime-illustration",
+  "tags": [
+   "anime",
+   "slice-of-life",
+   "rain"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "生活系动漫插画：雨停后的清晨街角，一只拟人化长颈鹿安静地蜷坐在便利店门口的台阶旁，身穿干净的浅色衬衫，长长的脖子弯下来，专注地翻看一本漫画书。玻璃门内的货架透出稳定的暖黄灯光，与清冷的晨色形成温柔反差；地面未干的水洼映出它修长的轮廓和门头霓虹的倒影，遮雨棚边缘还挂着几颗残雨。配色柔和克制，笔触细腻，安静温暖的画面里带一丝雨后特有的清新与孤独感。",
+  "prompt_en": "A slice-of-life anime illustration: the morning after rain, an anthropomorphic giraffe in a crisp light shirt sits quietly outside a convenience store, long neck curved down as it reads a manga. Warm yellow light from the glass door contrasts the cool dawn air; a puddle mirrors its tall silhouette and the shop sign, a few raindrops still cling to the awning. Soft restrained palette, delicate linework, a calm warmth touched with gentle solitude.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/anime-illustration/rainy-store-giraffe.webp"
+ },
+ {
+  "id": "velvet-letter-cube",
+  "title_en": "Velvet Letter Cube in Roses",
+  "title_zh": "天鹅绒字母方块",
+  "category": "product-still",
+  "tags": [
+   "macro",
+   "still-life",
+   "luxury"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "电影感微距静物摄影：一枚触感细腻的白色天鹅绒立方体居中摆放，顶面立着一个闪着金色光泽的字母「A」。立方体被层层簇拥的深红色玫瑰花环绕，浅景深把四周花瓣虚化成奶油般的柔和光斑，视线被牢牢锁在中央字母上。柔和的漫射光细致勾勒出绒面纹理与花瓣脉络，画面奢华而浪漫，写实摄影风格，细节丰富如 8K 画质。",
+  "prompt_en": "A cinematic macro still life: a white velvet cube at center, a golden letter \"A\" gleaming on its top face, nestled among clusters of deep-red roses. Shallow depth of field melts the surrounding petals into creamy bokeh, locking focus on the letter. Soft diffused light traces the velvet texture and petal veins, luxurious and romantic, photorealistic, 8K-level detail.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/product-still/velvet-letter-cube.webp"
+ },
+ {
+  "id": "tnr-cat-care-card",
+  "title_en": "What is TNR? Classroom Card",
+  "title_zh": "流浪猫 TNR 科普挂图",
+  "category": "education-cards",
+  "tags": [
+   "infographic",
+   "classroom",
+   "cats"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "面向中学生的科普教学挂图，活泼的彩色涂鸦风格：纯净浅蓝底色，四周绘制黑色粗线条外框，模拟幻灯片版式。顶部中央用粗壮的手写感黑色字体书写标题「What is TNR?」。主体是四张横向排列的圆角矩形卡片：第一张画一只卡通猫走进笼门微开的诱捕笼，标注「1. Trap」；第二张画戴口罩手套的卡通兽医为猫做检查，标注「2. Neuter」；第三张画一只耳朵带有缺角标记的猫在阳光下伸懒腰，标注「3. Return」；第四张画几只健康的猫在社区草坪上晒太阳，标注「Healthy Cats」。全部文字为清晰的黑色无衬线体，笔触带厚重铅笔质感，色彩明快，信息通俗，适合课堂展示。",
+  "prompt_en": "A colorful doodle-style teaching poster for middle-schoolers on a pale blue background framed by bold black lines like a slide. Hand-lettered title \"What is TNR?\" at top. Four rounded cards in a row: a cartoon cat entering a humane trap (\"1. Trap\"), a masked vet examining the cat (\"2. Neuter\"), an ear-tipped cat stretching in sunshine (\"3. Return\"), and healthy cats on a community lawn (\"Healthy Cats\"). Clean black sans-serif labels, thick pencil-like strokes, bright friendly palette.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/education-cards/tnr-cat-care-card.webp"
+ },
+ {
+  "id": "golden-retriever-shoulder",
+  "title_en": "Golden Retriever on My Shoulder",
+  "title_zh": "金毛搭肩的午后",
+  "category": "pets-animals",
+  "tags": [
+   "pet",
+   "warm",
+   "cinematic"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "治愈系写实摄影：一位性别难辨的成年人背对镜头而立，身穿米色粗针织毛衣，织纹立体、点缀细小杂色。一只金毛寻回犬把头轻轻搭上主人的肩膀，柔顺的金色毛发根根分明，棕色眼睛望向远方，神情温和。肩后视角近景特写，浅景深营造出蓝色散景背景，窗边自然漫射光从侧后方照亮人犬轮廓。氛围安静亲密，电影感摄影风格，如 85mm 镜头拍摄，突出犬毛与羊毛的真实质感，8K 清晰度。",
+  "prompt_en": "A heartwarming photorealistic shot from behind the shoulder: an adult in a chunky beige knit sweater stands facing away, while a golden retriever rests its head on their shoulder, silky fur rendered strand by strand, brown eyes gazing into the distance. Close framing, shallow depth of field with soft blue bokeh, window light rimming both silhouettes. Quiet and intimate, cinematic 85mm look, tactile fur and wool textures, 8K clarity.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/pets-animals/golden-retriever-shoulder.webp"
+ },
+ {
+  "id": "mooncake-steps-journal",
+  "title_en": "Mooncake Steps: Journal Card",
+  "title_zh": "月饼制作步骤手账",
+  "category": "tutorial-infographics",
+  "tags": [
+   "recipe",
+   "hand-drawn",
+   "tutorial"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "温馨手账风教学长图：米白色带纸纤维纹理的底色，边缘点缀浅色和纸胶带、手绘星星和小花，色调柔和治愈。顶部用深棕色马克笔手写体写标题「月饼制作步骤」，下加一条浅色波浪装饰线。画面自上而下分五步，每步由一幅小插画加一行圆润手写体说明组成：一、面粉、糖浆与植物油在玻璃碗中混合成光滑面团；二、面团与馅料分别分成均匀小剂子；三、用面团裹住馅料轻轻搓圆；四、放入木柄月饼模具按压成型；五、烤盘中排好的月饼烤至表面金黄、冒着细细热气。文字横排、大小适中、清晰易读，整体轻松易上手。",
+  "prompt_en": "A cozy journal-style step-by-step infographic on cream paper with visible fiber texture, decorated with washi tape, tiny stars and flowers. Marker-handwritten title \"How to Make Mooncakes\" over a wavy underline. Five steps from top to bottom, each with a small illustration and one rounded handwritten line: mixing flour, syrup and oil into a smooth dough; dividing dough and filling into even portions; wrapping and rolling; pressing in a wooden mold; baking to a golden finish with wisps of steam. Gentle palette, easy and beginner-friendly.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/tutorial-infographics/mooncake-steps-journal.webp"
+ },
+ {
+  "id": "water-cycle-poster",
+  "title_en": "The Water Cycle for Kids",
+  "title_zh": "自然界的水循环",
+  "category": "education-cards",
+  "tags": [
+   "science",
+   "watercolor",
+   "kids"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "为小学生设计的水彩手绘知识卡片：米白纸张质感打底，线条柔和、色彩通透。画面中心是一张由蓝色箭头首尾相连构成的圆形水循环流程图。顶部手写体主标题「自然界的水循环」，笔画圆润、边缘带淡淡水彩晕染。四个分区各配小标题、一句说明和一条趣味知识点：橙黄色水彩太阳下的「蒸发」——水分子化作微笑小水滴升上天空；高空棉絮状云朵的「凝结」；灰色乌云同落雨雪的「降水」；雨水汇成蜿蜒小河流回大海的「径流」。循环中央写「水的奇妙旅行」，底部一行总结语与趣味冷知识。整体以蓝色系为主、暖橙点缀，童趣盎然又知识完整。",
+  "prompt_en": "A hand-painted watercolor knowledge card for primary-school students on cream paper. At center, a circular water-cycle diagram linked by blue arrows. Rounded handwritten title \"The Water Cycle\" with soft color bleeding. Four labeled zones — evaporation under a warm sun with smiling droplets rising, condensation into cotton-candy clouds, rain and snow falling together as precipitation, runoff weaving a stream back to the sea — each with a mini caption and one fun fact. Center label \"Water's Amazing Journey\", blue palette with warm orange accents.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/education-cards/water-cycle-poster.webp"
+ },
+ {
+  "id": "waste-sorting-hero",
+  "title_en": "Waste Sorting Little Hero",
+  "title_zh": "垃圾分类小能手",
+  "category": "education-cards",
+  "tags": [
+   "infographic",
+   "kids",
+   "environment"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "儿童环保教育知识卡片：可爱手绘卡通风，浅色纸张质感底，线条圆润、纹理柔和。顶部是活泼跳色的大号手写标题「垃圾分类小能手！给地球洗个澡」。主体为 2×2 的四格彩色面板，每格里一只拟人化垃圾桶角色表情友善：蓝色面板「可回收物」，塑料瓶、旧报纸、压扁纸箱与汽水罐沿弧形箭头轻快飘入，配口诀「能卖钱的，洗净擦干」；红色面板「有害垃圾」，废电池、碎灯泡、过期药丸小心飘入，旁缀可爱小骷髅警示标，口诀「有毒有害，小心轻放」；绿色面板「厨余垃圾」与灰色面板「其他垃圾」同样各配角色、物品与口诀。字体圆润醒目、信息分区清晰，童趣十足又易记。",
+  "prompt_en": "A hand-drawn cartoon recycling card for kids on light paper. Bouncy multicolor title \"Waste Sorting Heroes — Give Earth a Bath!\". A 2x2 grid of colored panels, each with a friendly anthropomorphic bin: blue recyclables with bottles and newspapers floating in on curved arrows, red hazardous waste with batteries and bulbs plus cute skull warnings, green kitchen waste and grey other waste, each with a catchy one-line rhyme. Rounded type, clear zones, playful and memorable.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/education-cards/waste-sorting-hero.webp"
+ },
+ {
+  "id": "pixel-wizard-fire",
+  "title_en": "Pixel Wizard by the Fire",
+  "title_zh": "像素魔法师与篝火",
+  "category": "pixel-retro",
+  "tags": [
+   "pixel-art",
+   "retro-game",
+   "wizard"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "复古 8-bit 像素风游戏场景：一位身穿紫色长袍、头戴尖帽的像素魔法师伫立在熊熊燃烧的魔法篝火旁施法，火星与法术光点用经典像素粒子表现。画面边缘配一条复古游戏风格的英文标语像素字，明快的高饱和配色，粗颗粒像素网格，整体还原老式家用主机 RPG 的画面质感，除此之外不出现任何其他文字。",
+  "prompt_en": "A retro 8-bit pixel-art game scene: a wizard in a purple robe and pointed hat casts spells beside a blazing magical fire, sparks and arcane motes rendered as classic pixel particles. A short retro-game slogan in chunky pixel lettering sits at the screen edge, vibrant saturated palette, chunky pixel grid, faithful vintage console RPG feel; no other text anywhere.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/pixel-retro/pixel-wizard-fire.webp"
+ },
+ {
+  "id": "artisan-pizza-oven",
+  "title_en": "Artisan Pizza out of the Oven",
+  "title_zh": "窑烤披萨出炉",
+  "category": "food",
+  "tags": [
+   "food",
+   "editorial",
+   "warm-light"
+  ],
+  "aspectRatio": "4:3",
+  "prompt": "美食杂志风格摄影：刚出炉的手工披萨搁在木柄披萨铲上，新鲜罗勒叶点缀其间，马苏里拉芝士仍在缓缓拉丝融化，边缘饼底烤出诱人的虎皮斑。画面一角可见砖窑炉膛，暖红的火光映亮蒸汽腾起的方向，质朴乡村氛围。浅景深让焦点落在芝士气泡与酱汁光泽上，暖色调、食欲感强烈。",
+  "prompt_en": "Editorial food photography: a freshly baked artisan pizza on a wooden peel, fresh basil leaves, mozzarella still melting in slow strings, leopard-spotted crust. The brick oven glows warm red in one corner, steam rising through the firelight, rustic atmosphere. Shallow depth of field focuses on bubbling cheese and glossy sauce, rich warm tones, mouth-watering.",
+  "source": "original",
+  "featured": true,
+  "generate": false,
+  "image": "images/food/artisan-pizza-oven.webp"
+ },
+ {
+  "id": "bilingual-summit-poster",
+  "title_en": "Bilingual Tech Summit Poster",
+  "title_zh": "中英双语峰会海报",
+  "category": "poster-typography",
+  "tags": [
+   "poster",
+   "typography",
+   "bilingual"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "简洁现代的活动海报设计：大面积留白的白色底，配以克制的蓝色几何色块点缀。版面自上而下——顶部为大号加粗无衬线英文主标题「AI IMAGE SUMMIT」，其下对应中文副标题「AI 图像峰会」，两行文字字重对比明确、字距舒展；中部留白区一条细线分隔，底部按网格对齐排布日期、地点与主办方信息，中英混排、层级清晰。整体呈现专业会议视觉，文字边缘锐利、无变形、无错字。",
+  "prompt_en": "A clean modern event poster with generous white space and restrained blue geometric accents. Bold sans-serif English title \"AI IMAGE SUMMIT\" at top, Chinese subtitle \"AI 图像峰会\" beneath with clear weight contrast; a thin rule divides the middle, and date, venue and organizer lines align to a grid at the bottom in mixed Chinese-English. Professional conference look, crisp undistorted lettering.",
+  "source": "original",
+  "featured": false,
+  "generate": false,
+  "image": "images/poster-typography/bilingual-summit-poster.webp"
+ },
+ {
+  "id": "floating-isles-sunset",
+  "title_en": "Floating Isles at Sunset",
+  "title_zh": "暮色浮空群岛",
+  "category": "fantasy-concept",
+  "tags": [
+   "fantasy",
+   "concept-art",
+   "epic"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "史诗奇幻概念画：黄昏天空中的浮空群岛群，瀑布从岛沿直坠下方翻涌的云海。中央大岛上，一座古老石庙的山门透出符文蓝光，石阶两侧蔓延着生物荧光植物与异色花朵。金色夕阳与紫色暮霭交织的戏剧性光线勾勒出岛屿轮廓，画面纵深远阔。手绘动画质感与高细节数字绘画结合，色彩层次丰富，规模宏大。",
+  "prompt_en": "Epic fantasy concept art: floating islands drifting in a sunset sky, waterfalls plunging off their rims into a churning cloud sea below. On the central isle, the stone gate of an ancient temple glows with runic blue light, bioluminescent plants and exotic flowers lining the stairways. Dramatic gold-and-violet light sculpts the islands' silhouettes with deep atmospheric perspective, painterly detail at epic scale.",
+  "source": "original",
+  "featured": true,
+  "generate": false,
+  "image": "images/fantasy-concept/floating-isles-sunset.webp"
+ }
+]

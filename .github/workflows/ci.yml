@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate prompts.json & regenerate site
+        run: node scripts/build.mjs
+      - name: Ensure generated files are in sync
+        run: |
+          git diff --exit-code README.md README.zh-CN.md docs/ || {
+            echo "::error::Generated files out of date — run node scripts/build.mjs and commit"
+            exit 1
+          }

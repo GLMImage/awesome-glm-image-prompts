@@ -1,0 +1,36 @@
+{
+  "repo": "awesome-glm-image-prompts",
+  "repo_badge_name": "Awesome GLM-Image Prompts",
+  "org": "GLMImage",
+  "tagline_en": "A curated library of long-form prompts for GLM-Image — bilingual, with preview images and one-click generation.",
+  "tagline_zh": "为 GLM-Image 精心整理的长文提示词库 —— 中英双语、配示例图、一键生成。",
+  "site": "https://gmimage.app",
+  "site_host": "gmimage.app",
+  "model": { "name": "GLM-Image", "vendor": "Zhipu AI (Z.ai)" },
+  "ctaBase": "https://gmimage.app/general/image-generation",
+  "utm": { "source": "github", "campaign": "awesome-glm-image-prompts" },
+  "about": {
+    "description": "Curated GLM-Image prompt library — bilingual long-form prompts with preview images, one-click generation at gmimage.app",
+    "website": "https://gmimage.app",
+    "topics": [
+      "prompts", "ai-prompts", "prompt-engineering", "image-generation",
+      "ai-image-generation", "awesome", "awesome-list", "glm", "glm-image",
+      "cogview", "chatglm", "zhipu", "z-ai", "text-to-image", "image-prompts",
+      "prompt-collection", "multilingual"
+    ]
+  },
+  "grid": { "columns": 3, "featured": 9 },
+  "generation": { "model": "grok-imagine-image-2.0" },
+  "categories": [
+    { "id": "education-cards", "icon": "📚", "label_en": "Educational Cards", "label_zh": "教育知识卡片", "desc_en": "Kid-friendly knowledge cards and classroom posters.", "desc_zh": "面向课堂与儿童的知识卡片、科普挂图。" },
+    { "id": "tutorial-infographics", "icon": "🧭", "label_en": "Tutorial Infographics", "label_zh": "步骤教程信息图", "desc_en": "Step-by-step how-to infographics and recipe cards.", "desc_zh": "分步教程长图、流程说明与食谱卡。" },
+    { "id": "portrait", "icon": "📸", "label_en": "Portrait", "label_zh": "人像摄影", "desc_en": "Cinematic and editorial portraits.", "desc_zh": "电影感与杂志感人像。" },
+    { "id": "product-still", "icon": "📦", "label_en": "Product & Still Life", "label_zh": "产品与静物", "desc_en": "Commercial product shots and macro still life.", "desc_zh": "商业产品图与微距静物。" },
+    { "id": "anime-illustration", "icon": "🎌", "label_en": "Anime & Manga", "label_zh": "动漫插画", "desc_en": "Slice-of-life and narrative anime illustration.", "desc_zh": "生活系与叙事系动漫插画。" },
+    { "id": "poster-typography", "icon": "🖼️", "label_en": "Poster & Typography", "label_zh": "海报与文字排版", "desc_en": "Posters and layouts with crisp text rendering.", "desc_zh": "海报设计与精准文字排版。" },
+    { "id": "pets-animals", "icon": "🐾", "label_en": "Pets & Animals", "label_zh": "宠物与动物", "desc_en": "Heartwarming pets and wildlife scenes.", "desc_zh": "治愈系宠物与动物场景。" },
+    { "id": "pixel-retro", "icon": "🕹️", "label_en": "Pixel & Retro", "label_zh": "像素与复古", "desc_en": "8-bit pixel art and retro game aesthetics.", "desc_zh": "8-bit 像素风与复古游戏质感。" },
+    { "id": "fantasy-concept", "icon": "🧙", "label_en": "Fantasy & Concept", "label_zh": "奇幻与概念", "desc_en": "Epic fantasy worlds and concept art.", "desc_zh": "史诗奇幻世界与概念设计。" },
+    { "id": "food", "icon": "🍽️", "label_en": "Food", "label_zh": "美食", "desc_en": "Editorial food photography and culinary scenes.", "desc_zh": "美食大片与烹饪场景。" }
+  ]
+}

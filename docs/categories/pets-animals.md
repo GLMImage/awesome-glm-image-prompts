@@ -1,0 +1,53 @@
+# 🐾 Pets & Animals · 宠物与动物
+
+Heartwarming pets and wildlife scenes.
+
+1 prompts · [← README](../../README.md)
+
+## 1. Golden Retriever on My Shoulder
+
+Pets & Animals · `3:4` · `golden-retriever-shoulder`
+
+<p align="center"><a href="https://gmimage.app/general/image-generation?prompt=%E6%B2%BB%E6%84%88%E7%B3%BB%E5%86%99%E5%AE%9E%E6%91%84%E5%BD%B1%EF%BC%9A%E4%B8%80%E4%BD%8D%E6%80%A7%E5%88%AB%E9%9A%BE%E8%BE%A8%E7%9A%84%E6%88%90%E5%B9%B4%E4%BA%BA%E8%83%8C%E5%AF%B9%E9%95%9C%E5%A4%B4%E8%80%8C%E7%AB%8B%EF%BC%8C%E8%BA%AB%E7%A9%BF%E7%B1%B3%E8%89%B2%E7%B2%97%E9%92%88%E7%BB%87%E6%AF%9B%E8%A1%A3%EF%BC%8C%E7%BB%87%E7%BA%B9%E7%AB%8B%E4%BD%93%E3%80%81%E7%82%B9%E7%BC%80%E7%BB%86%E5%B0%8F%E6%9D%82%E8%89%B2%E3%80%82%E4%B8%80%E5%8F%AA%E9%87%91%E6%AF%9B%E5%AF%BB%E5%9B%9E%E7%8A%AC%E6%8A%8A%E5%A4%B4%E8%BD%BB%E8%BD%BB%E6%90%AD%E4%B8%8A%E4%B8%BB%E4%BA%BA%E7%9A%84%E8%82%A9%E8%86%80%EF%BC%8C%E6%9F%94%E9%A1%BA%E7%9A%84%E9%87%91%E8%89%B2%E6%AF%9B%E5%8F%91%E6%A0%B9%E6%A0%B9%E5%88%86%E6%98%8E%EF%BC%8C%E6%A3%95%E8%89%B2%E7%9C%BC%E7%9D%9B%E6%9C%9B%E5%90%91%E8%BF%9C%E6%96%B9%EF%BC%8C%E7%A5%9E%E6%83%85%E6%B8%A9%E5%92%8C%E3%80%82%E8%82%A9%E5%90%8E%E8%A7%86%E8%A7%92%E8%BF%91%E6%99%AF%E7%89%B9%E5%86%99%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%E8%90%A5%E9%80%A0%E5%87%BA%E8%93%9D%E8%89%B2%E6%95%A3%E6%99%AF%E8%83%8C%E6%99%AF%EF%BC%8C%E7%AA%97%E8%BE%B9%E8%87%AA%E7%84%B6%E6%BC%AB%E5%B0%84%E5%85%89%E4%BB%8E%E4%BE%A7%E5%90%8E%E6%96%B9%E7%85%A7%E4%BA%AE%E4%BA%BA%E7%8A%AC%E8%BD%AE%E5%BB%93%E3%80%82%E6%B0%9B%E5%9B%B4%E5%AE%89%E9%9D%99%E4%BA%B2%E5%AF%86%EF%BC%8C%E7%94%B5%E5%BD%B1%E6%84%9F%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%A6%82%2085mm%20%E9%95%9C%E5%A4%B4%E6%8B%8D%E6%91%84%EF%BC%8C%E7%AA%81%E5%87%BA%E7%8A%AC%E6%AF%9B%E4%B8%8E%E7%BE%8A%E6%AF%9B%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%B4%A8%E6%84%9F%EF%BC%8C8K%20%E6%B8%85%E6%99%B0%E5%BA%A6%E3%80%82&amp;utm_source=github&amp;utm_content=golden-retriever-shoulder&amp;utm_campaign=awesome-glm-image-prompts"><img src="images/pets-animals/golden-retriever-shoulder.webp" alt="Golden Retriever on My Shoulder" width="640" /></a></p>
+
+```text
+治愈系写实摄影：一位性别难辨的成年人背对镜头而立，身穿米色粗针织毛衣，织纹立体、点缀细小杂色。一只金毛寻回犬把头轻轻搭上主人的肩膀，柔顺的金色毛发根根分明，棕色眼睛望向远方，神情温和。肩后视角近景特写，浅景深营造出蓝色散景背景，窗边自然漫射光从侧后方照亮人犬轮廓。氛围安静亲密，电影感摄影风格，如 85mm 镜头拍摄，突出犬毛与羊毛的真实质感，8K 清晰度。
+```
+
+**English version**
+
+```text
+A heartwarming photorealistic shot from behind the shoulder: an adult in a chunky beige knit sweater stands facing away, while a golden retriever rests its head on their shoulder, silky fur rendered strand by strand, brown eyes gazing into the distance. Close framing, shallow depth of field with soft blue bokeh, window light rimming both silhouettes. Quiet and intimate, cinematic 85mm look, tactile fur and wool textures, 8K clarity.
+```
+
+🎨 [Try this prompt →](https://gmimage.app/general/image-generation?prompt=%E6%B2%BB%E6%84%88%E7%B3%BB%E5%86%99%E5%AE%9E%E6%91%84%E5%BD%B1%EF%BC%9A%E4%B8%80%E4%BD%8D%E6%80%A7%E5%88%AB%E9%9A%BE%E8%BE%A8%E7%9A%84%E6%88%90%E5%B9%B4%E4%BA%BA%E8%83%8C%E5%AF%B9%E9%95%9C%E5%A4%B4%E8%80%8C%E7%AB%8B%EF%BC%8C%E8%BA%AB%E7%A9%BF%E7%B1%B3%E8%89%B2%E7%B2%97%E9%92%88%E7%BB%87%E6%AF%9B%E8%A1%A3%EF%BC%8C%E7%BB%87%E7%BA%B9%E7%AB%8B%E4%BD%93%E3%80%81%E7%82%B9%E7%BC%80%E7%BB%86%E5%B0%8F%E6%9D%82%E8%89%B2%E3%80%82%E4%B8%80%E5%8F%AA%E9%87%91%E6%AF%9B%E5%AF%BB%E5%9B%9E%E7%8A%AC%E6%8A%8A%E5%A4%B4%E8%BD%BB%E8%BD%BB%E6%90%AD%E4%B8%8A%E4%B8%BB%E4%BA%BA%E7%9A%84%E8%82%A9%E8%86%80%EF%BC%8C%E6%9F%94%E9%A1%BA%E7%9A%84%E9%87%91%E8%89%B2%E6%AF%9B%E5%8F%91%E6%A0%B9%E6%A0%B9%E5%88%86%E6%98%8E%EF%BC%8C%E6%A3%95%E8%89%B2%E7%9C%BC%E7%9D%9B%E6%9C%9B%E5%90%91%E8%BF%9C%E6%96%B9%EF%BC%8C%E7%A5%9E%E6%83%85%E6%B8%A9%E5%92%8C%E3%80%82%E8%82%A9%E5%90%8E%E8%A7%86%E8%A7%92%E8%BF%91%E6%99%AF%E7%89%B9%E5%86%99%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%E8%90%A5%E9%80%A0%E5%87%BA%E8%93%9D%E8%89%B2%E6%95%A3%E6%99%AF%E8%83%8C%E6%99%AF%EF%BC%8C%E7%AA%97%E8%BE%B9%E8%87%AA%E7%84%B6%E6%BC%AB%E5%B0%84%E5%85%89%E4%BB%8E%E4%BE%A7%E5%90%8E%E6%96%B9%E7%85%A7%E4%BA%AE%E4%BA%BA%E7%8A%AC%E8%BD%AE%E5%BB%93%E3%80%82%E6%B0%9B%E5%9B%B4%E5%AE%89%E9%9D%99%E4%BA%B2%E5%AF%86%EF%BC%8C%E7%94%B5%E5%BD%B1%E6%84%9F%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%A6%82%2085mm%20%E9%95%9C%E5%A4%B4%E6%8B%8D%E6%91%84%EF%BC%8C%E7%AA%81%E5%87%BA%E7%8A%AC%E6%AF%9B%E4%B8%8E%E7%BE%8A%E6%AF%9B%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%B4%A8%E6%84%9F%EF%BC%8C8K%20%E6%B8%85%E6%99%B0%E5%BA%A6%E3%80%82&utm_source=github&utm_content=golden-retriever-shoulder&utm_campaign=awesome-glm-image-prompts)
+
+[⬆ Back to top](#categories)
+
+
+---
+
+# 宠物与动物
+
+治愈系宠物与动物场景。
+
+## 1. 金毛搭肩的午后
+
+宠物与动物 · `3:4` · `golden-retriever-shoulder`
+
+<p align="center"><a href="https://gmimage.app/general/image-generation?prompt=%E6%B2%BB%E6%84%88%E7%B3%BB%E5%86%99%E5%AE%9E%E6%91%84%E5%BD%B1%EF%BC%9A%E4%B8%80%E4%BD%8D%E6%80%A7%E5%88%AB%E9%9A%BE%E8%BE%A8%E7%9A%84%E6%88%90%E5%B9%B4%E4%BA%BA%E8%83%8C%E5%AF%B9%E9%95%9C%E5%A4%B4%E8%80%8C%E7%AB%8B%EF%BC%8C%E8%BA%AB%E7%A9%BF%E7%B1%B3%E8%89%B2%E7%B2%97%E9%92%88%E7%BB%87%E6%AF%9B%E8%A1%A3%EF%BC%8C%E7%BB%87%E7%BA%B9%E7%AB%8B%E4%BD%93%E3%80%81%E7%82%B9%E7%BC%80%E7%BB%86%E5%B0%8F%E6%9D%82%E8%89%B2%E3%80%82%E4%B8%80%E5%8F%AA%E9%87%91%E6%AF%9B%E5%AF%BB%E5%9B%9E%E7%8A%AC%E6%8A%8A%E5%A4%B4%E8%BD%BB%E8%BD%BB%E6%90%AD%E4%B8%8A%E4%B8%BB%E4%BA%BA%E7%9A%84%E8%82%A9%E8%86%80%EF%BC%8C%E6%9F%94%E9%A1%BA%E7%9A%84%E9%87%91%E8%89%B2%E6%AF%9B%E5%8F%91%E6%A0%B9%E6%A0%B9%E5%88%86%E6%98%8E%EF%BC%8C%E6%A3%95%E8%89%B2%E7%9C%BC%E7%9D%9B%E6%9C%9B%E5%90%91%E8%BF%9C%E6%96%B9%EF%BC%8C%E7%A5%9E%E6%83%85%E6%B8%A9%E5%92%8C%E3%80%82%E8%82%A9%E5%90%8E%E8%A7%86%E8%A7%92%E8%BF%91%E6%99%AF%E7%89%B9%E5%86%99%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%E8%90%A5%E9%80%A0%E5%87%BA%E8%93%9D%E8%89%B2%E6%95%A3%E6%99%AF%E8%83%8C%E6%99%AF%EF%BC%8C%E7%AA%97%E8%BE%B9%E8%87%AA%E7%84%B6%E6%BC%AB%E5%B0%84%E5%85%89%E4%BB%8E%E4%BE%A7%E5%90%8E%E6%96%B9%E7%85%A7%E4%BA%AE%E4%BA%BA%E7%8A%AC%E8%BD%AE%E5%BB%93%E3%80%82%E6%B0%9B%E5%9B%B4%E5%AE%89%E9%9D%99%E4%BA%B2%E5%AF%86%EF%BC%8C%E7%94%B5%E5%BD%B1%E6%84%9F%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%A6%82%2085mm%20%E9%95%9C%E5%A4%B4%E6%8B%8D%E6%91%84%EF%BC%8C%E7%AA%81%E5%87%BA%E7%8A%AC%E6%AF%9B%E4%B8%8E%E7%BE%8A%E6%AF%9B%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%B4%A8%E6%84%9F%EF%BC%8C8K%20%E6%B8%85%E6%99%B0%E5%BA%A6%E3%80%82&amp;utm_source=github&amp;utm_content=golden-retriever-shoulder&amp;utm_campaign=awesome-glm-image-prompts"><img src="images/pets-animals/golden-retriever-shoulder.webp" alt="金毛搭肩的午后" width="640" /></a></p>
+
+```text
+治愈系写实摄影：一位性别难辨的成年人背对镜头而立，身穿米色粗针织毛衣，织纹立体、点缀细小杂色。一只金毛寻回犬把头轻轻搭上主人的肩膀，柔顺的金色毛发根根分明，棕色眼睛望向远方，神情温和。肩后视角近景特写，浅景深营造出蓝色散景背景，窗边自然漫射光从侧后方照亮人犬轮廓。氛围安静亲密，电影感摄影风格，如 85mm 镜头拍摄，突出犬毛与羊毛的真实质感，8K 清晰度。
+```
+
+**英文版 · English**
+
+```text
+A heartwarming photorealistic shot from behind the shoulder: an adult in a chunky beige knit sweater stands facing away, while a golden retriever rests its head on their shoulder, silky fur rendered strand by strand, brown eyes gazing into the distance. Close framing, shallow depth of field with soft blue bokeh, window light rimming both silhouettes. Quiet and intimate, cinematic 85mm look, tactile fur and wool textures, 8K clarity.
+```
+
+🎨 [用这个提示词一键生成 →](https://gmimage.app/general/image-generation?prompt=%E6%B2%BB%E6%84%88%E7%B3%BB%E5%86%99%E5%AE%9E%E6%91%84%E5%BD%B1%EF%BC%9A%E4%B8%80%E4%BD%8D%E6%80%A7%E5%88%AB%E9%9A%BE%E8%BE%A8%E7%9A%84%E6%88%90%E5%B9%B4%E4%BA%BA%E8%83%8C%E5%AF%B9%E9%95%9C%E5%A4%B4%E8%80%8C%E7%AB%8B%EF%BC%8C%E8%BA%AB%E7%A9%BF%E7%B1%B3%E8%89%B2%E7%B2%97%E9%92%88%E7%BB%87%E6%AF%9B%E8%A1%A3%EF%BC%8C%E7%BB%87%E7%BA%B9%E7%AB%8B%E4%BD%93%E3%80%81%E7%82%B9%E7%BC%80%E7%BB%86%E5%B0%8F%E6%9D%82%E8%89%B2%E3%80%82%E4%B8%80%E5%8F%AA%E9%87%91%E6%AF%9B%E5%AF%BB%E5%9B%9E%E7%8A%AC%E6%8A%8A%E5%A4%B4%E8%BD%BB%E8%BD%BB%E6%90%AD%E4%B8%8A%E4%B8%BB%E4%BA%BA%E7%9A%84%E8%82%A9%E8%86%80%EF%BC%8C%E6%9F%94%E9%A1%BA%E7%9A%84%E9%87%91%E8%89%B2%E6%AF%9B%E5%8F%91%E6%A0%B9%E6%A0%B9%E5%88%86%E6%98%8E%EF%BC%8C%E6%A3%95%E8%89%B2%E7%9C%BC%E7%9D%9B%E6%9C%9B%E5%90%91%E8%BF%9C%E6%96%B9%EF%BC%8C%E7%A5%9E%E6%83%85%E6%B8%A9%E5%92%8C%E3%80%82%E8%82%A9%E5%90%8E%E8%A7%86%E8%A7%92%E8%BF%91%E6%99%AF%E7%89%B9%E5%86%99%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%E8%90%A5%E9%80%A0%E5%87%BA%E8%93%9D%E8%89%B2%E6%95%A3%E6%99%AF%E8%83%8C%E6%99%AF%EF%BC%8C%E7%AA%97%E8%BE%B9%E8%87%AA%E7%84%B6%E6%BC%AB%E5%B0%84%E5%85%89%E4%BB%8E%E4%BE%A7%E5%90%8E%E6%96%B9%E7%85%A7%E4%BA%AE%E4%BA%BA%E7%8A%AC%E8%BD%AE%E5%BB%93%E3%80%82%E6%B0%9B%E5%9B%B4%E5%AE%89%E9%9D%99%E4%BA%B2%E5%AF%86%EF%BC%8C%E7%94%B5%E5%BD%B1%E6%84%9F%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%A6%82%2085mm%20%E9%95%9C%E5%A4%B4%E6%8B%8D%E6%91%84%EF%BC%8C%E7%AA%81%E5%87%BA%E7%8A%AC%E6%AF%9B%E4%B8%8E%E7%BE%8A%E6%AF%9B%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%B4%A8%E6%84%9F%EF%BC%8C8K%20%E6%B8%85%E6%99%B0%E5%BA%A6%E3%80%82&utm_source=github&utm_content=golden-retriever-shoulder&utm_campaign=awesome-glm-image-prompts)
+
+[⬆ Back to top](#目录)
+
