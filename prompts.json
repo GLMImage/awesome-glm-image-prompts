@@ -103,7 +103,7 @@
   "prompt": "温馨手账风教学长图：米白色带纸纤维纹理的底色，边缘点缀浅色和纸胶带、手绘星星和小花，色调柔和治愈。顶部用深棕色马克笔手写体写标题「月饼制作步骤」，下加一条浅色波浪装饰线。画面自上而下分五步，每步由一幅小插画加一行圆润手写体说明组成：一、面粉、糖浆与植物油在玻璃碗中混合成光滑面团；二、面团与馅料分别分成均匀小剂子；三、用面团裹住馅料轻轻搓圆；四、放入木柄月饼模具按压成型；五、烤盘中排好的月饼烤至表面金黄、冒着细细热气。文字横排、大小适中、清晰易读，整体轻松易上手。",
   "prompt_en": "A cozy journal-style step-by-step infographic on cream paper with visible fiber texture, decorated with washi tape, tiny stars and flowers. Marker-handwritten title \"How to Make Mooncakes\" over a wavy underline. Five steps from top to bottom, each with a small illustration and one rounded handwritten line: mixing flour, syrup and oil into a smooth dough; dividing dough and filling into even portions; wrapping and rolling; pressing in a wooden mold; baking to a golden finish with wisps of steam. Gentle palette, easy and beginner-friendly.",
   "source": "showcase-inspired",
-  "featured": true,
+  "featured": false,
   "generate": false,
   "image": "images/tutorial-infographics/mooncake-steps-journal.webp"
  },
@@ -175,7 +175,7 @@
   "prompt": "美食杂志风格摄影：刚出炉的手工披萨搁在木柄披萨铲上，新鲜罗勒叶点缀其间，马苏里拉芝士仍在缓缓拉丝融化，边缘饼底烤出诱人的虎皮斑。画面一角可见砖窑炉膛，暖红的火光映亮蒸汽腾起的方向，质朴乡村氛围。浅景深让焦点落在芝士气泡与酱汁光泽上，暖色调、食欲感强烈。",
   "prompt_en": "Editorial food photography: a freshly baked artisan pizza on a wooden peel, fresh basil leaves, mozzarella still melting in slow strings, leopard-spotted crust. The brick oven glows warm red in one corner, steam rising through the firelight, rustic atmosphere. Shallow depth of field focuses on bubbling cheese and glossy sauce, rich warm tones, mouth-watering.",
   "source": "original",
-  "featured": true,
+  "featured": false,
   "generate": false,
   "image": "images/food/artisan-pizza-oven.webp"
  },
@@ -214,5 +214,851 @@
   "featured": true,
   "generate": false,
   "image": "images/fantasy-concept/floating-isles-sunset.webp"
+ },
+ {
+  "id": "vaccine-fire-drill-card",
+  "title_en": "How Vaccines Work: Body Fire Drill",
+  "title_zh": "身体的防火演习：疫苗原理",
+  "category": "education-cards",
+  "tags": [
+   "infographic",
+   "health",
+   "kids"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "卡通科普信息图，横向构图，明亮干净的扁平插画风格，适合健康教育课堂。\n【标题】顶部居中粗体黑色大标题：「身体的防火演习：疫苗是如何工作的？」\n【左区·演习阶段】黄色说明条：「疫苗送来『通缉令』和『假人靶子』，白细胞警察提前练兵，定制专属武器！」画面：卡通护士为手臂注射疫苗；旁边是「身体警察局」训练室——几位穿蓝色警服的圆滚滚白细胞警察，围着贴有「通缉令」的弹簧假人靶（标注「灭活病毒（假人靶子）」）训练 Y 形武器（标注「抗体（专属武器）」）；右下角黄色提示框：「身体记住了！武器准备就绪！」\n【右区·实战阶段】白色说明条：「真病毒来袭！警察瞬间识别，用定制武器轻松获胜！」背景为粉橙渐变的人体通道剖面，几只穿紫红衣服、表情凶恶的拟人病毒（标注「真病毒（入侵者）」）被白细胞警察用 Y 形抗体围攻制服；右上角插一面黄色「WIN!」小旗。\n【风格】色彩明快、线条干净、无医学恐怖感，拟人化比喻直观易懂，高分辨率清晰排版。",
+  "prompt_en": "Cartoon educational infographic, landscape, bright clean flat illustration for health class.\n[TITLE] Bold black header centered: \"The Body's Fire Drill: How Vaccines Work\".\n[LEFT · TRAINING] Yellow banner: \"The vaccine delivers a 'wanted poster' and a dummy target; white-cell police train early and craft custom weapons.\" A cartoon nurse gives an arm shot; beside it a 'Body Police Academy' training room — round blue-uniformed white-cell cops surround a spring dummy labeled \"inactivated virus (dummy target)\" and train Y-shaped weapons tagged \"antibodies\"; corner box: \"Body memorized! Weapons ready!\"\n[RIGHT · BATTLE] Banner: \"Real virus attacks! Police recognize it instantly and win with custom weapons.\" A pink-orange cross-section of a body passage; anthropomorphic purple-red viruses get surrounded and cuffed by white-cell police with Y-shaped antibodies; a small yellow \"WIN!\" flag top-right.\n[STYLE] Cheerful palette, clean linework, no medical horror, metaphor-driven, crisp high-resolution layout.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/education-cards/vaccine-fire-drill-card.webp"
+ },
+ {
+  "id": "newton-prism-chalkboard",
+  "title_en": "Newton's Prism on a Chalkboard",
+  "title_zh": "黑板粉笔风：牛顿三棱镜实验",
+  "category": "education-cards",
+  "tags": [
+   "chalkboard",
+   "science",
+   "classroom"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "黑板粉笔风格科学信息图，横向构图。\n【背景】深色黑板，带粉笔灰、擦痕与手写颗粒质感，像中学科学教室的板书。\n【标题】顶部居中彩色粉笔手写大标题：「牛顿的三棱镜实验：光的『七十二变』」，红蓝绿黄紫多色混用，边缘粗糙自然。\n【主体】左侧白粉笔画矩形光源，射出一束水平白光，标注「一束白光（大礼包）」；中央白色粉笔线条勾勒透明三棱镜，带轻透视；右侧白光分解为红橙黄绿青蓝紫七道扇形彩束（粉笔质感渲染，非真实光效），右侧大括号标注「七色光谱（真相大白！）」，上下注「红光：拐弯最小」「紫光：拐弯最大」。\n【趣味元素】三棱镜上方加两个红、紫拟人小粉笔人，像滑滑梯一样沿折射路径滑下，表情夸张。\n【底部】粉笔讲解框，多行中文说明：「白光不是『单身』，而是七色合体的复色光——不同颜色性格不同（折射率不同），过三棱镜拐弯角度就不同！」\n【风格】手绘抖动线条、粉笔颗粒感、信息结构清晰，教学感强、带幽默，非摄影非3D。",
+  "prompt_en": "Chalkboard-style science infographic, landscape.\n[BACKGROUND] Dark blackboard with chalk dust, eraser smudges and hand-drawn grain.\n[TITLE] Multicolor hand-lettered chalk header: \"Newton's Prism: White Light's Seven Disguises\".\n[BODY] Left: a chalk-drawn rectangular light source emitting a horizontal white beam labeled \"a beam of white light\"; center: a transparent prism outlined in white chalk with slight perspective; right: the beam fanning into red-orange-yellow-green-cyan-blue-violet chalk-textured rays, bracketed \"the seven-color spectrum\", with notes \"red bends least / violet bends most\".\n[PLAYFUL BIT] Two tiny anthropomorphic chalk doodles (red and violet) slide down the refraction paths like a playground slide.\n[BOTTOM] A chalk speech box explaining that white light is a combo of seven colors, each bending differently.\n[STYLE] Quivering hand-drawn lines, chalk grain, clear teaching logic, a touch of humor; not photographic, not 3D.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/education-cards/newton-prism-chalkboard.webp"
+ },
+ {
+  "id": "cpu-8bit-factory",
+  "title_en": "CPU Explained: an 8-bit Game Factory",
+  "title_zh": "CPU 工作原理：8-bit 游戏工厂",
+  "category": "education-cards",
+  "tags": [
+   "pixel",
+   "computer-science",
+   "infographic"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "像素风格 8-bit 科普信息图，横向构图，模仿复古红白机说明书的视觉。\n【标题】顶部粗体白色像素字、深色描边：「CPU 工作原理：冯·诺依曼架构（8-bit 游戏工厂）」，下方是深蓝到青绿的电路板底纹，布满像素电路线与发光节点。\n【区域划分】左侧「控制单元（指挥官）」：像素机器人指挥官坐镇控制台，气泡「1. 取指（FETCH）」，台前像素卷轴标注「指令」；左下「解码器（翻译官）」：红色齿轮机器人展开卷轴，气泡「2. 解码（DECODE）」，卷轴分标「操作码」「地址」；中部横向像素传送带，标注「总线（传送带）」，载着「数据」「操作码」彩色方块流动；右上「寄存器（临时仓库）」：像素货架分 A、B 格存放彩色方块，旁注「快速存取」；右下「算术逻辑单元 ALU（计算器）」：红色机器人胸前带加减乘除面板、手持扳手，气泡「3. 执行（EXECUTE）」，传送带末端输出彩色方块，标注「结果」；中央偏上像素循环箭头，标注「循环（LOOP）」。\n【风格】经典 8-bit 像素艺术，边缘清晰块状分明，信息密集但结构直观，中英对照标注，高分辨率。",
+  "prompt_en": "8-bit pixel-art infographic, landscape, styled like a vintage console manual.\n[TITLE] Chunky white pixel font with dark outline: \"How a CPU Works: The Von Neumann Factory\", over a deep-blue-to-teal circuit-board backdrop with pixel traces and glowing nodes.\n[ZONES] Left: a pixel robot 'commander' at a console (Control Unit), speech bubble \"1. FETCH\"; below-left a red gear robot unrolls a scroll (Decoder), \"2. DECODE\", scroll split into 'opcode' and 'address'; across the middle a pixel conveyor belt labeled 'Bus' carrying data blocks; top-right a pixel shelf rack (Registers) with A/B slots, note 'fast access'; bottom-right a red robot with an arithmetic panel (ALU), \"3. EXECUTE\", outputting a result block; center-top a circular pixel arrow marked 'LOOP'.\n[STYLE] Classic 8-bit pixels, crisp blocky edges, dense but readable, bilingual labels, high resolution.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/education-cards/cpu-8bit-factory.webp"
+ },
+ {
+  "id": "deep-sea-angler-poster",
+  "title_en": "Deep Sea Angler Spec Sheet",
+  "title_zh": "深海鮟鱇鱼档案图",
+  "category": "education-cards",
+  "tags": [
+   "infographic",
+   "ocean",
+   "english"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "深海主题英文科普信息图，深蓝色调。\n【标题】顶部居中白色粗体大标题「DEEP SEA ANGLER」。\n【主体】画面中央一条大鮟鱇鱼：身体蓝紫渐变纹理，背部覆尖锐棘状背鳍，头部伸出发光的钓竿状诱球（esca），满口尖牙；周围均匀分布六个白边圆形信息框：上「HABITAT」含深海剖面小图（潜水器与小鱼）与文字「DEEP SEA 500m」；左上「REPRODUCTION」母鱼与幼鱼插画，文字「FEMALE LARGE-BODIED」；右上「DIET」鱼虾图标，文字「FISH & CRUSTACEANS」；左下「BIOLUMINESCENCE」灯泡图标，文字「ESCA (LURE ORGAN)」；右下「SIZE」鱼与直尺图标，文字「MAX LENGTH 1.2m」；底部「CONSERVATION」盾形对勾图标，文字「LEAST CONCERN」。\n【背景】浮游生物、珊瑚与虚化小生物点缀深海环境，底部绘波浪状微光线模拟水流。",
+  "prompt_en": "Deep-blue ocean infographic in English.\n[TITLE] Bold white header centered: \"DEEP SEA ANGLER\".\n[SUBJECT] A large anglerfish at center: blue-to-purple gradient skin, spiny dorsal fins, a long glowing lure (esca) extending from the head, a mouth full of fangs; six evenly spaced white-ringed circular frames around it: \"HABITAT\" with a deep-sea cross-section (submersible and small fish), text \"DEEP SEA 500m\"; \"REPRODUCTION\" with a female and juveniles, \"FEMALE LARGE-BODIED\"; \"DIET\" with fish and shrimp icons, \"FISH & CRUSTACEANS\"; \"BIOLUMINESCENCE\" with a bulb icon, \"ESCA (LURE ORGAN)\"; \"SIZE\" with fish-and-ruler icons, \"MAX LENGTH 1.2m\"; bottom \"CONSERVATION\" with a shield-check icon, \"LEAST CONCERN\".\n[BACKGROUND] Plankton, corals and blurred creatures; wavy glimmering lines at the bottom suggest currents.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/education-cards/deep-sea-angler-poster.webp"
+ },
+ {
+  "id": "muscle-imbalance-guide",
+  "title_en": "What is Muscle Imbalance?",
+  "title_zh": "什么是「肌肉失衡」？",
+  "category": "education-cards",
+  "tags": [
+   "health",
+   "infographic",
+   "rehab"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "竖向卡通医学科普信息图，三段式分区布局，运动康复风格。\n【标题区】顶部粗体黑色主标题「什么是『肌肉失衡』？」，下衬一行小字副标题「就像身体里的『拔河比赛』出了 bug！」。\n【第一段·理想状态】浅绿渐变底：拟人化「关节君」（小机器人质感）站姿笔直表情开心，左右两块对称的橙色微笑肌肉向内均衡拉住它；气泡文案「左右力量相当」「关节稳定，活动自如！」。\n【第二段·现实情况】偏黄橙的紧张底色：关节君表情惊慌身体被拉歪；左侧深红色异常壮硕的愤怒肌肉紧绷发力，气泡「这一侧：太强、太紧、太短！」；右侧瘦长蓝色肌肉被拉到变形、冒汗无力，气泡「另一侧：被迫拉长、无力！」；箭头标注「关节被拉歪，卡住了！」。\n【第三段·后果】深灰蓝底：左侧简化人体剪影含胸驼背，肩颈腰髋以红色光点标出疼痛区；右侧白字说明「长期失衡导致体态变差、关节磨损、各种酸痛。」\n【风格】卡通化、无写实解剖、无恐怖元素，色彩分区明确，文字层级清晰。",
+  "prompt_en": "Vertical cartoon medical infographic in three stacked zones, rehab-education style.\n[HEADER] Bold black title \"What Is Muscle Imbalance?\" with sub-line \"like a tug-of-war inside your body gone wrong\".\n[ZONE 1 · IDEAL] Soft green gradient: a cheerful robot-like 'Joint-kun' standing straight, two symmetric smiling orange muscles pulling evenly from both sides; bubbles: \"balanced strength\" / \"joint stable, moves freely\".\n[ZONE 2 · REALITY] Tense yellow-orange: Joint-kun alarmed and tilted; a bulky deep-red angry muscle yanks from the left (\"too strong, too tight, too short!\"), a stretched blue muscle strains weakly on the right (\"forced long and powerless!\"); arrow note \"the joint gets dragged off-center and stuck\".\n[ZONE 3 · CONSEQUENCE] Deep gray-blue: a simplified hunched body silhouette with glowing red pain dots at neck, shoulder, lower back and hip; caption \"long-term imbalance: worse posture, worn joints, chronic aches\".\n[STYLE] Fully cartoon, no realistic anatomy, no horror, clear color-coded zones and type hierarchy.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/education-cards/muscle-imbalance-guide.webp"
+ },
+ {
+  "id": "cloud-platform-diagram",
+  "title_en": "Cloud Platform Architecture Diagram",
+  "title_zh": "云平台架构图",
+  "category": "education-cards",
+  "tags": [
+   "tech",
+   "diagram",
+   "isometric"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "科技感云平台架构示意图，浅灰网格底纹配发光粒子。\n【中心】一枚大型立体云朵标注「Cloud Platform」，置于蓝紫渐变的圆形基座中央。\n【左侧】「Compute Engine」由一簇编号立方体组成，向下依次为「Object Storage」（服务器阵列）与「SQL Database」（圆柱数据库）。\n【右侧】「API Gateway」代码接口图标，其上下各一台带箭头的圆形「Network Router」。\n【顶部】「Cloud」与「Multi-cloud」图标，彩色光束与下方相连。\n【外围】台式机、笔记本、平板与手机围成一圈，各以彩色光束连入中央云；底部与右侧标注「User Access Layer」。整体为清爽的 3D 图标风格，科技蓝紫配色。",
+  "prompt_en": "A tech-style cloud platform architecture diagram on a light-gray grid with glowing particles.\n[CENTER] A large 3D cloud labeled \"Cloud Platform\" on a blue-purple gradient circular base.\n[LEFT] \"Compute Engine\" as a cluster of numbered cubes, with \"Object Storage\" (server rack array) and \"SQL Database\" (cylinder DB) below.\n[RIGHT] An \"API Gateway\" code-interface icon and two arrowed circular \"Network Routers\" above and below it.\n[TOP] \"Cloud\" and \"Multi-cloud\" icons connected by colored beams.\n[RIM] Desktops, laptops, tablets and phones arranged in a ring, each linked to the central cloud; \"User Access Layer\" labeled at bottom right. Clean 3D-icon style, techy blue-violet palette.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/education-cards/cloud-platform-diagram.webp"
+ },
+ {
+  "id": "pour-over-coffee-poster",
+  "title_en": "The Golden Pour-Over Formula",
+  "title_zh": "手冲咖啡的黄金萃取公式",
+  "category": "tutorial-infographics",
+  "tags": [
+   "coffee",
+   "hand-drawn",
+   "lifestyle"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "手绘水冲咖啡教学海报，米白微黄纸张底，带纸纹与水彩晕染痕迹，温暖干净的生活气息。\n【标题】顶部手写体中文标题「手冲咖啡的黄金萃取公式」，下方小字副标题「简单两步，解锁风味密码」。\n【版式】左右分栏，中间以咖啡豆图案作装饰分隔。\n【左栏】标题「1. 黄金粉水比」：天平插画——左盘标注「1」的滤杯与咖啡粉，右盘标注「15」的玻璃分享壶与清水；下方说明「推荐比例 1:15，即 1 份咖啡粉配 15 份水」，配「20g 咖啡粉」「300ml 水」小图标。\n【右栏】标题「2. 关键闷蒸」：滤杯闷蒸特写，咖啡粉如汉堡状鼓起释放二氧化碳，热气上升，旁有手持细口壶注水图；配「30 秒」秒表图标与说明「注入少量 90°C 热水，浸润 30 秒，为萃取做好准备！」\n【风格】水彩+墨线手绘，浅棕咖啡色米色淡蓝主色，成人审美，无摄影感。",
+  "prompt_en": "A hand-drawn pour-over coffee teaching poster on cream, slightly aged paper with fiber texture and watercolor blooms.\n[TITLE] Hand-lettered Chinese header \"The Golden Pour-Over Formula\" with sub-line \"two simple steps to unlock flavor\".\n[LAYOUT] Two columns split by a coffee-bean motif.\n[LEFT] \"1. Golden Ratio\": a balance-scale illustration — a dripper with grounds marked \"1\" vs. a carafe of water marked \"15\"; caption \"1:15 — one part coffee to fifteen parts water\", with tiny \"20g grounds\" / \"300ml water\" icons.\n[RIGHT] \"2. The Bloom\": a close-up of the dripper as grounds swell like a bun releasing CO₂, steam rising, a hand pouring from a gooseneck kettle; a stopwatch icon \"30s\" and caption \"add a little 90°C water, wait 30 seconds, then extract\".\n[STYLE] Watercolor and ink linework, soft browns, cream and pale blue, adult-friendly, no photographic feel.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/tutorial-infographics/pour-over-coffee-poster.webp"
+ },
+ {
+  "id": "mind-reading-magic-comic",
+  "title_en": "Mind-Reading Magic: 4-Panel Comic",
+  "title_zh": "读心魔术四格漫画",
+  "category": "tutorial-infographics",
+  "tags": [
+   "comic",
+   "magic",
+   "tutorial"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "四格漫画，浅蓝底色，2×2 网格排布，每格左上角有圆形步骤序号（1–4），序号下方为步骤文字。\n第 1 格「Step 1: Think of a two-digit number.」：绿衣男子坐椅上托腮思考，头顶思维泡泡里写着「47」；旁边一位戴黑色高顶礼帽（红帽带）、黑西装红斗篷系领结的魔术师抬手示意。\n第 2 格「Step 2: The prediction is written.」：双手持黑笔在白色记事本上书写，本上画着波浪线；木桌上放着一卷卷轴和另一支笔。\n第 3 格「Step 3: State the number aloud.」：绿衣男子对麦克风说出「47」（对话框），魔术师侧耳倾听。\n第 4 格「Step 4: The prediction matches!」：聚光灯下魔术师举起写着「47」的白纸，彩色纸屑飘落，绿衣男子兴奋指向白纸。\n整体为明快活泼的漫画风格，所有文字清晰无错字。",
+  "prompt_en": "A four-panel comic on a light blue background, arranged in a 2×2 grid. Each panel has a circular step number (1–4) at its top-left with the step text beneath.\nPanel 1, \"Step 1: Think of a two-digit number.\": a man in a green shirt sits on a chair, chin in hand, a thought bubble showing \"47\"; beside him a magician in a black top hat with red band, black suit, red cape and bow tie gestures.\nPanel 2, \"Step 2: The prediction is written.\": hands write with a black pen on a white notepad with a wavy line; a rolled scroll and another pen rest on a wooden table.\nPanel 3, \"Step 3: State the number aloud.\": the green-shirted man speaks \"47\" into a microphone (speech bubble) while the magician listens, hand to ear.\nPanel 4, \"Step 4: The prediction matches!\": under a spotlight the magician holds up a white paper reading \"47\" as colorful confetti falls; the man points excitedly.\nBright playful comic style, all text crisp and correctly spelled.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/tutorial-infographics/mind-reading-magic-comic.webp"
+ },
+ {
+  "id": "red-silk-fashion-portrait",
+  "title_en": "Red Silk Studio Portrait",
+  "title_zh": "红色丝绒时尚人像",
+  "category": "portrait",
+  "tags": [
+   "fashion",
+   "studio",
+   "bold-color"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "都市时尚人像：一位极具气场的女性，身穿鲜艳的红色丝质上衣，搭配同色皮质手套与带微闪光泽的长筒袜，黑色长卷发蓬松如云般垂落肩头。她优雅地坐在黑色毛绒座椅上，绒面柔软质感与丝质服饰形成对比。背景是一整片高饱和纯红空间，将她包裹在热烈气场中。灯光柔而集中，侧面暖光与微弱冷光交织出梦幻层次；画面经轻度失焦与多重曝光处理，人物轮廓在纯色背景中透出抽象韵味；略微仰角的电影式构图，赋予她红毯明星般的舞台存在感。",
+  "prompt_en": "An urban fashion portrait: a magnetic woman in a vivid red silk blouse with matching leather gloves and subtly shimmering stockings, her long black curls voluminous and loose. She sits elegantly on a black plush chair, the fuzzy fabric contrasting the silk. The background is a full field of saturated pure red wrapping her in heat. Soft focused lighting mixes warm side light with a whisper of cool fill; mild defocus and double-exposure lend the silhouette an abstract aura on the monochrome field; a slightly low, cinematic angle gives her red-carpet presence.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/red-silk-fashion-portrait.webp"
+ },
+ {
+  "id": "linen-backlight-editorial",
+  "title_en": "Linen Shirt in Backlight",
+  "title_zh": "亚麻衬衫逆光大片",
+  "category": "portrait",
+  "tags": [
+   "editorial",
+   "minimal",
+   "backlight"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "时尚商业广告摄影：一位东方女性的侧光轮廓全身像，大广角镜头拉伸出空间层次。她身穿质感细腻的亚麻衬衫，面料自然垂坠，唇上一点透明唇蜜增添轻盈光泽。背景为低饱和的暖白渐变，逆光剪影让人物轮廓清晰锐利、边缘分明；夸张的明暗对比拉开人物与背景的空间关系，带出克制的科技感与未来感。画面极简，聚焦人物本身：皮肤质感细腻，边缘碎发与镜片反射清晰可见，呈现大牌级表现力。",
+  "prompt_en": "A fashion commercial shot: a full-length silhouette of an East Asian woman in side light, a wide-angle lens stretching the spatial depth. She wears a finely textured linen shirt draping naturally, a touch of clear lip gloss adding light. The backdrop is a desaturated warm-white gradient; backlit rim makes her outline crisp; exaggerated tonal contrast separates figure from ground with a restrained futuristic edge. Minimal composition focused on the person: delicate skin texture, visible flyaway hairs and lens reflections, high-end campaign presence.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/linen-backlight-editorial.webp"
+ },
+ {
+  "id": "basketball-teen-portrait",
+  "title_en": "Basketball Teen Close-Up",
+  "title_zh": "篮球少年特写",
+  "category": "portrait",
+  "tags": [
+   "sports",
+   "documentary",
+   "close-up"
+  ],
+  "aspectRatio": "9:16",
+  "prompt": "写实人像特写：一名非裔美国少年身穿红黑配色篮球服，双手紧握一颗深棕色皮革纹理清晰的篮球，身体微微前倾，蓄势待发。激烈训练后的汗水挂满面庞，深褐色肌肤在柔和光线下生动真实；眼神坚定直视镜头，透出无畏与决心。浓密的面部轮廓毛发与细腻肤质形成对比；篮球侧卧身前，皮革表面在光影交错中立体真实。光线柔和自然，突出神情与肌理，画面充满力量与激情。",
+  "prompt_en": "A photorealistic close-up portrait: an African American teenager in a red-and-black basketball uniform grips a dark-brown leather basketball with both hands, leaning slightly forward, poised to move. Sweat from a hard session beads on his face; deep brown skin glows lifelike under soft light; his gaze locks onto the camera, fearless and determined. Dense facial hair contrasts fine skin texture; the ball rests in front, its grained leather dimensional in the crossing light. Soft natural lighting foregrounds expression and texture, radiating strength and passion.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/basketball-teen-portrait.webp"
+ },
+ {
+  "id": "white-space-multi-exposure",
+  "title_en": "Motion in White Space",
+  "title_zh": "白色空间的多重曝光",
+  "category": "portrait",
+  "tags": [
+   "experimental",
+   "multi-exposure",
+   "minimal"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "极简超现实人像：一位亚洲男模立于纯白背景中，超广角近景捕捉上半身，侧身姿态夸张而富有张力。凌乱短发随动态模糊与延时重影交错，胡茬增添粗犷质感；白色高领打底衫与黑色牛仔裤在冷白光线下形成利落对比。多重曝光与抽象延时效果让人物轮廓在留白中若隐若现，强胶片颗粒与高噪点塑造朦胧美学；浅景深虚化背景强化主体，仿佛一个静止瞬间在时空里被层层拉伸与分解。",
+  "prompt_en": "A minimalist surreal portrait: an Asian male model in a pure white space, upper body caught in an ultra-wide close-up, his side-posed stance exaggerated and tense. Messy short hair dissolves into motion blur and time-lapse ghosting, stubble adding rugged texture; a white turtleneck and black jeans cut clean against cool white light. Multiple exposure and abstracted long-exposure effects make his outline flicker in and out of the negative space; heavy film grain and noise build a hazy aesthetic; shallow depth isolates the subject, as if one still moment were stretched and decomposed in time.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/white-space-multi-exposure.webp"
+ },
+ {
+  "id": "daisy-meadow-run",
+  "title_en": "Running Through a Daisy Field",
+  "title_zh": "雏菊花田奔跑",
+  "category": "portrait",
+  "tags": [
+   "lifestyle",
+   "pastoral",
+   "cinematic"
+  ],
+  "aspectRatio": "9:16",
+  "prompt": "田园感人像：一位二十出头的年轻女性，短发利落，身穿飘逸的复古白色亚麻长裙，裙摆与面料轻盈自然。她沐浴在金色阳光里，于齐腰深的金色草甸中奔跑，双手紧抱一大束野生白雏菊于胸前，表情喜悦舒展。浅景深与动态模糊让草浪化为流动光斑，光线温暖柔和，怀旧而自由，充满电影摄影美学。",
+  "prompt_en": "A pastoral portrait: a woman in her early twenties with neat short hair, wearing a flowing vintage white linen dress, the fabric light and natural. She runs through waist-high golden grass bathed in sunlight, hugging a huge bouquet of white wild daisies to her chest, her face open with joy. Shallow depth of field and motion blur melt the meadow into flowing bokeh; the light is warm and soft, nostalgic and free, pure cinematic photography.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/daisy-meadow-run.webp"
+ },
+ {
+  "id": "summer-sky-gaze",
+  "title_en": "35mm Summer Sky Gaze",
+  "title_zh": "夏日仰望·胶片颗粒",
+  "category": "portrait",
+  "tags": [
+   "film",
+   "summer",
+   "profile"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "35mm 胶片风人像：一位棕色卷发的年轻男子，身穿复古白底蓝红条纹衬衫，仰望姿态，侧脸轮廓清晰利落。鼻梁与颧骨顶着强烈高光，颈部沉入深影，明暗雕塑感十足。背景是明亮湛蓝的夏日天空，光线强烈，午后气息扑面。画面带重颗粒、光晕与边缘漏光，梦幻而怀旧。",
+  "prompt_en": "A 35mm film-style portrait: a young man with brown curls in a retro white shirt with blue and red stripes, head tilted skyward, his profile crisp and sculptural. Strong highlights sit on the nose bridge and cheekbones while the neck falls into deep shadow. The background is a brilliant deep-blue summer sky, the light intense, pure late afternoon. Heavy grain, halation and edge light leaks render the frame dreamy and nostalgic.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/summer-sky-gaze.webp"
+ },
+ {
+  "id": "summer-girl-documentary",
+  "title_en": "A Sunlit Summer Portrait",
+  "title_zh": "夏日纪实少女",
+  "category": "portrait",
+  "tags": [
+   "documentary",
+   "natural-light",
+   "youth"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "清新纪实人像：一位十八到二十岁出头的亚洲女孩，身材纤细，内搭白色短裤，外穿明黄色背带式长裤与印有趣味卡通图案的短袖上衣，整体青春靓丽。五官柔和、皮肤自然健康、素颜无浓妆，嘴角上扬笑容灿烂，眼睛明亮有神。她站在开阔的户外，姿态放松自然，直望镜头；背景隐约可见草地与树影，阳光从侧前方洒下，光线柔和温暖。中近景构图，色彩自然真实，生活感强。",
+  "prompt_en": "A fresh documentary portrait: an Asian girl around eighteen, slender, wearing white shorts under bright yellow dungaree-style pants and a short-sleeve tee with a fun cartoon print — youthful and bright. Soft features, naturally healthy bare skin, a beaming upturned smile and lively eyes. She stands outdoors relaxed, looking straight at the camera; grass and tree shadows blur behind her while sunlight falls from the front side, soft and warm. Medium close-up, true-to-life colors, everyday authenticity.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/summer-girl-documentary.webp"
+ },
+ {
+  "id": "street-panning-film",
+  "title_en": "Street Panning Shot",
+  "title_zh": "街头摇拍·胶片",
+  "category": "portrait",
+  "tags": [
+   "street",
+   "film",
+   "motion"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "街头胶片人像：一位高颜值亚洲年轻女性，表情傲娇中带慵懒，秀发凌乱自然，身着前卫街头风格服饰，姿态张扬有力。背景是动态模糊的街道，穿行的人流车流拉出强烈动感；摇拍技法让主体清晰而环境飞逝，低饱和暗调叠一层红朦光晕，光的美学与高反差交织，胶片颗粒丰富，情绪氛围浓烈，视觉冲击独特。",
+  "prompt_en": "A street film portrait: a striking young Asian woman, pride and languor mixing in her expression, hair artfully disheveled, dressed in avant-garde streetwear, her stance bold and powerful. Behind her the street smears into motion blur — crowds and traffic streaking past; panning keeps her sharp while the world rushes, low-saturation darks layered with a red hazy glow, light aesthetics crossing high contrast, rich grain, moody and visually punchy.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/street-panning-film.webp"
+ },
+ {
+  "id": "parkour-90s-punk",
+  "title_en": "90s Punk Parkour Crew",
+  "title_zh": "90年代朋克跑酷",
+  "category": "portrait",
+  "tags": [
+   "parkour",
+   "retro",
+   "surreal"
+  ],
+  "aspectRatio": "9:16",
+  "prompt": "超现实街头时尚摄影：一群年轻人身穿红蓝格纹长裤与白衬衫，在湛蓝天空下腾跃翻转，展现跑酷的活力。画面融合九十年代朋克风格与浮夸时尚大片美学：低角度广角镜头夸张透视，明亮自然光带来太阳耀斑与体积光，柯达胶片颗粒质感细腻，电影感构图里透出超现实主义街头时尚的精髓。",
+  "prompt_en": "A surreal street-fashion photograph: a crew of young people in red-and-blue checkered pants and white shirts leaping and flipping against a deep blue sky, radiating parkour energy. The frame fuses 90s punk styling with flamboyant editorial aesthetics: low-angle wide lens exaggerating perspective, bright daylight bringing sun flares and volumetric rays, fine Kodak-like film grain, and a cinematic composition channeling surrealist street fashion.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/portrait/parkour-90s-punk.webp"
+ },
+ {
+  "id": "ink-wash-river-poem",
+  "title_en": "Ink-Wash River with Calligraphy",
+  "title_zh": "水墨江河·诗意题字",
+  "category": "chinese-aesthetic",
+  "tags": [
+   "watercolor",
+   "ink",
+   "calligraphy"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "写意山水水彩画：湿画法让颜料随水分自然晕染，大块笔触自由舒展。远处群山以倾斜透视层层展开，轮廓松散而有节奏，淡雅的蓝绿与灰青为主，局部留白让山势若隐若现。中前景一条碧绿江水自右上流向左下，于画面中央回旋，水势澎湃却不失诗意，深浅笔触表现旋涌之力。光线自上方斜落，在水面与山体转折处形成柔美光影。画面左侧留出大幅空白，其上以黑色书法竖写诗句「碧水东流至此回」，笔势流畅、墨色浓淡相间，与山水气韵呼应。印象派手法融合东方意境，含蓄自由而富诗性。",
+  "prompt_en": "A freehand landscape watercolor: wet-on-wet washes bloom naturally, bold brushstrokes roaming freely. Distant mountains unfold in tilted layers, outlines loose and rhythmic in pale blue-green and gray-cyan, strategic blanks letting peaks shimmer through. A jade river sweeps from upper right to lower left, eddying at center — turbulent yet poetic, its swirls built from layered strokes. Light falls obliquely, softly modeling water and rock. The left side stays largely empty, carrying a vertical line of black calligraphy reading \"碧水东流至此回\" in fluent, tonally varied ink, echoing the landscape's breath. Impressionist method meets Eastern mood: restrained, free, poetic.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/chinese-aesthetic/ink-wash-river-poem.webp"
+ },
+ {
+  "id": "hanfu-lady-still",
+  "title_en": "Hanfu Lady at the Table",
+  "title_zh": "汉服少女·案前端坐",
+  "category": "chinese-aesthetic",
+  "tags": [
+   "hanfu",
+   "traditional",
+   "portrait"
+  ],
+  "aspectRatio": "4:3",
+  "prompt": "国风写实人像：一位十八至二十二岁的少女，身着绣有细腻蓝色纹样的汉服长裙，衣料柔顺垂坠；头戴华美发簪，耳畔垂坠精致耳环。面容秀美，肤色白皙细腻，红唇明艳，眼眸清澈有神，妆容典雅。她端坐于木案前，身姿端正，双手自然置于案上，神情安静从容。案几四周点缀盛放的鲜花与古雅花瓶，淡淡烟气在身旁缭绕；光线柔和而有层次，高清写实摄影呈现出电影画幅般的质感，承袭传统中国肖像画的含蓄与诗意。",
+  "prompt_en": "A Chinese-style realistic portrait: a young woman of eighteen to twenty-two in a Hanfu gown embroidered with fine blue patterns, the fabric draping softly; an ornate hairpin crowns her head, delicate earrings at her ears. Her face is lovely, skin fair and fine, lips vivid red, eyes clear and spirited, makeup elegant. She sits upright at a wooden table, hands resting naturally, calm and composed. Blooming flowers and antique vases dot the surroundings as thin incense smoke curls beside her; soft layered lighting and high-definition photography yield a film-frame texture, inheriting the restraint and poetry of classical Chinese portraiture.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/chinese-aesthetic/hanfu-lady-still.webp"
+ },
+ {
+  "id": "hanfu-fan-neon-night",
+  "title_en": "Hanfu & Round Fan in Neon",
+  "title_zh": "汉服团扇·霓虹夜景",
+  "category": "chinese-aesthetic",
+  "tags": [
+   "hanfu",
+   "neon",
+   "cinematic"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "古今交融的电影感人像：一位二十岁出头的东亚女子，身着宽袖如意的汉服，上半身特写；面料厚润光滑，刺绣繁复精美。长发挽成高髻，簪一支垂坠流苏步摇。五官精致，鹅蛋脸，肤白如瓷，妆容素雅、眼神含蓄；右手执一柄团扇半掩面庞，姿态婉约。背景是现代都市夜景：高饱和的钴蓝与品红霓虹在湿润空气里晕成朦胧光雾；侧后方光线勾勒人物轮廓，古今气质在光影里交融，写实电影质感。",
+  "prompt_en": "A cinematic portrait fusing past and present: an East Asian woman in her early twenties wearing a wide-sleeved Ruyi Hanfu, upper-body close-up; the fabric thick, smooth and richly embroidered. Her hair rises into a high bun set with a tasseled dangling step-shake hairpin. Delicate oval face, porcelain skin, understated makeup and a reserved gaze; in her right hand a round fan half-veils her face, the posture graceful. Behind her a modern city night: saturated cobalt and magenta neon blooming into hazy light mist in humid air; rim light from the side rear traces her silhouette as ancient grace meets modern glow, photoreal and cinematic.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/chinese-aesthetic/hanfu-fan-neon-night.webp"
+ },
+ {
+  "id": "palace-harvest-moon",
+  "title_en": "Palace Under a Harvest Moon",
+  "title_zh": "古宫·巨月",
+  "category": "chinese-aesthetic",
+  "tags": [
+   "architecture",
+   "moon",
+   "epic"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "宏伟中国古宫殿的黄昏影像：夕阳余晖为飞檐斗拱勾勒细腻的金色轮廓，映衬古建筑的庄严肃穆。前方天际悬着一轮巨大的金黄圆月，月光柔和朦胧，与暖色天幕交相辉映，营造梦幻而神秘的氛围。宫殿在橙红天色下巍然矗立，斗拱细部与恢宏气势兼具；四周绿树葱郁，枝叶在余晖中轻摇。微距级画质捕捉建筑与自然的每一处细节，高清细腻，画面厚重且富有文化韵味。",
+  "prompt_en": "A dusk image of a majestic Chinese palace: the setting sun gilds the flying eaves and bracket sets in fine outline, underscoring the architecture's solemnity. A huge golden moon hangs in the foreground sky, its glow soft and hazy, interplaying with the warm dusk to dreamlike, mysterious effect. The palace rises grand against orange-red heavens, craftsmanship and monumentality together; verdant trees sway lightly in the afterglow. Macro-grade fidelity captures every detail of wood and leaf — rich, layered, steeped in cultural gravitas.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/chinese-aesthetic/palace-harvest-moon.webp"
+ },
+ {
+  "id": "watertown-misty-morning",
+  "title_en": "Misty Morning in a Water Town",
+  "title_zh": "江南水乡晨雾",
+  "category": "landscape-travel",
+  "tags": [
+   "travel",
+   "mist",
+   "documentary"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "清晨的江南古镇笼罩在轻柔通透的薄雾里，空气湿润清新。白墙黛瓦在雾中若隐若现，线条柔化、层次朦胧，勾勒出水乡的静谧气质。青石板路沿河道延展，古石桥横跨其上，木质门楼与临水民居错落，屋檐窗棂与斑驳墙面留着岁月痕迹。天空布满柔和散射光，均匀温暖，为雾气、水面与墙面镀上细腻的明暗过渡。中画幅相机级画质，纹理清晰克制，从青石的微润到空气中的雾丝皆被精准捕捉；写实商业摄影风格，构图严谨而有呼吸感，色调温润含蓄。",
+  "prompt_en": "A Jiangnan water town at dawn wrapped in soft, translucent mist, the air moist and fresh. Whitewashed walls and dark-tiled roofs flicker through fog, lines softened, layers hushed into the town's quiet character. Flagstone paths trace the canal, an old stone bridge spans it, wooden gatehouses and waterside homes jostle gently, eaves, lattice windows and mottled walls wearing the patina of years. A diffuse sky lays even warmth over mist, water and plaster in delicate tonal steps. Medium-format fidelity, restrained texture — from the damp sheen of stone to drifting filaments of fog; realistic commercial photography, rigorous yet breathing composition, mellow understated color.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/landscape-travel/watertown-misty-morning.webp"
+ },
+ {
+  "id": "wetland-two-trees",
+  "title_en": "Wetland with Two Lone Trees",
+  "title_zh": "湿地·孤树·积云",
+  "category": "landscape-travel",
+  "tags": [
+   "landscape",
+   "minimal",
+   "pastel"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "宁静的自然风光摄影，写实且带复古胶片质感。前景高草与芦苇贴近镜头，明显虚化成柔软朦胧的线条，形成天然框景与纵深。中景是开阔平坦的湿地草甸，低饱和的泥色与灰绿铺陈；两棵孤立的阔叶树静静伫立，枝叶疏朗、轮廓清晰，在空旷中显得克制安定。远景群山在薄雾中层层延展，柔和的蓝调与天空自然过渡；浅蓝天上漂浮着体量感十足的大朵白色积云，边缘松软。光线柔和漫射，低对比营造梦境般的粉彩氛围，安静、空灵、富有诗意。",
+  "prompt_en": "A serene nature photograph, realistic with a vintage-film feel. Foreground tall grasses and reeds hug the lens, heavily defocused into soft blurred lines that frame the scene and deepen space. Midground spreads a wide flat wet meadow in desaturated earth and sage; two lone broadleaf trees stand quietly, canopies sparse, outlines crisp, restrained and steady in the openness. Distant ridges layer through haze into soft blues meeting a pale sky, where voluminous white cumulus drifts with fluffy edges. Diffused light and low contrast conjure a dreamlike pastel mood — still, airy, poetic.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/landscape-travel/wetland-two-trees.webp"
+ },
+ {
+  "id": "seoul-river-sunset",
+  "title_en": "City Sunset over the River",
+  "title_zh": "江畔都市落日",
+  "category": "landscape-travel",
+  "tags": [
+   "cityscape",
+   "sunset",
+   "travel"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "夕阳金光洒落繁华的城市天际线，一条大河如蓝丝带蜿蜒穿城，为钢筋森林披上梦幻光彩。取景自山顶高塔俯瞰：大桥的优雅弧线与平静水面交相辉映，构成壮阔的城市画卷。暖金橙主调，光晕在云层与楼宇间流转；远处高楼林立，近处江面泛起粼粼波光，呈现都市与自然和谐共存的壮美。全画幅相机画质，光影通透柔和，色调温暖而富有张力。",
+  "prompt_en": "Golden sunset light washes over a bustling skyline as a great river winds through the city like a blue ribbon, draping the concrete forest in dreamlike radiance. Seen from a mountaintop tower: the elegant arc of a bridge answers its own reflection on calm water, composing a grand urban panorama. Warm gold-orange dominates, halation drifting between clouds and towers; skyscrapers crowd the distance while the near river shimmers — a magnificent harmony of city and nature. Full-frame fidelity, translucent soft light, warm yet tensile color.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/landscape-travel/seoul-river-sunset.webp"
+ },
+ {
+  "id": "harbor-fog-dawn",
+  "title_en": "Foggy Harbor at Dawn",
+  "title_zh": "晨雾港口",
+  "category": "landscape-travel",
+  "tags": [
+   "documentary",
+   "harbor",
+   "mood"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "清晨港口被薄雾轻笼，湿润清新的气息弥漫，柔和散射光洒在水面与码头上，勾勒朦胧而宁静的氛围。视平线视角，真实客观的透视展现港口开阔的尺度与纵深：前景栈桥沿水面延伸，木质与金属结构在微光中呈现自然质感；中景几艘船只静泊，船体微潮，隐约反射灰蓝晨光，缆绳松弛垂落；几名码头工人散布忙碌，身影在雾中柔和地融入环境。远处海面与天际线渐渐隐入流动雾霭，天空由冷灰过渡到淡蓝。写实摄影，光影过渡细腻，捕捉港口清晨静谧而富有生活气息的瞬间。",
+  "prompt_en": "A harbor at first light veiled in thin fog, the air moist and fresh, soft scattered light brushing water and quays into a hushed, tranquil mood. Eye-level perspective lays out the port's breadth and depth with honest geometry: a plank pier runs into the water, its wood and metal grain honest in half-light; mid-distance boats rest at their moorings, hulls faintly damp, mirroring gray-blue dawn, ropes slack ashore; a few dockers move through the mist, their figures gently dissolving into the scene. Farther out, sea and skyline sink into drifting haze as the sky shifts cold gray to pale blue. Realistic photography, delicate tonal transitions, catching the harbor's quiet, lived-in early hour.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/landscape-travel/harbor-fog-dawn.webp"
+ },
+ {
+  "id": "night-highway-light-trails",
+  "title_en": "Night Highway Light Trails",
+  "title_zh": "城市高速·光轨",
+  "category": "landscape-travel",
+  "tags": [
+   "long-exposure",
+   "night",
+   "city"
+  ],
+  "aspectRatio": "4:3",
+  "prompt": "现代都市夜幕下的高速公路车流如织，两侧高楼林立、灯火通明。长曝光让疾驰车辆在路面拖出明亮光轨，动感与速度感十足。广角镜头收纳色彩各异、轮廓清晰的摩天大楼群，灯光璀璨，展现都市繁华与活力。高清画质、层次分明；背景隐约可见城市夜色与交通标识，增强真实感与氛围。纪实摄影风格，色彩鲜明，光线柔和自然。",
+  "prompt_en": "A modern city expressway weaving under night, traffic streaming between towers ablaze with light. Long exposure drags speeding cars into bright ribbons, charged with motion and speed. A wide lens gathers skyscrapers of varied hue and crisp outline, glittering, broadcasting the city's prosperity and energy. High definition, well-layered; the background hints at night city and signage for realism. Documentary style, vivid color, soft naturalistic light.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/landscape-travel/night-highway-light-trails.webp"
+ },
+ {
+  "id": "pagoda-morning-clear",
+  "title_en": "Pagoda in the Morning Air",
+  "title_zh": "青山宝塔·雨后清晨",
+  "category": "landscape-travel",
+  "tags": [
+   "architecture",
+   "travel",
+   "documentary"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "雨后初晴的清晨，山间空气清新湿润，天空湛蓝通透，几缕白云轻缓漂浮。画面以一座古塔为绝对视觉中心：塔身巍然矗立于群山之间，金碧辉煌的外观在柔和晨光下微微泛光，塔体结构与装饰细节清晰可辨，散发庄严古朴的气韵。大光圈拍摄令前景宝塔锐利，背景山林与缭绕云雾自然虚化，形成柔和过渡的空间层次。色彩真实自然，明暗克制，光线温润通透，呈现宁静、肃穆而略带神圣感的纪实风格画面。",
+  "prompt_en": "A clear morning after rain, mountain air fresh and damp, sky deep blue and translucent with a few slow clouds. An ancient pagoda anchors the frame: rising solemn among hills, its gilded and glazed skin faintly luminous in soft dawn light, structure and ornament crisply readable, exuding an antique dignity. Shot wide open, the pagoda stays razor-sharp while forests and wreathing mist melt into gentle background layers. Faithful color, restrained contrast, warm translucent light — a documentary image that feels serene, solemn, faintly sacred.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/landscape-travel/pagoda-morning-clear.webp"
+ },
+ {
+  "id": "rooftop-billboard-dusk",
+  "title_en": "Rooftop Billboard at Dusk",
+  "title_zh": "屋顶高炮·黄昏",
+  "category": "landscape-travel",
+  "tags": [
+   "urban",
+   "dusk",
+   "minimal"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "城市高楼屋顶上，一座巨型柱式广告牌巍然矗立，是画面最醒目的视觉核心。夕阳西沉，金色余晖自低角度洒落，柔和包裹广告牌与周边建筑，金属结构边缘泛起温暖光泽，带出怀旧而安静的情绪。广告牌结构简洁克制：立柱挺拔，横向支架线条利落，比例干净有力，呈现鲜明的现代工业美感。视平线视角，透视自然，前中远景层次分明；城市天际线在背景渐次展开，窗灯渐暗，与未散的晚霞形成对比。写实摄影，暖色主调，光影细腻，克制而高级的城市黄昏氛围。",
+  "prompt_en": "Atop a city rooftop a giant column-mounted billboard stands as the frame's commanding core. The sun sinks low, gold afterglow raking across board and towers, warming the metal edges into a wistful, quiet mood. The structure is spare and restrained: a stout mast, crisp horizontal trusses, clean forceful proportions — modern industrial beauty at a glance. Eye-level perspective, natural parallax, layered fore-mid-background; the skyline unfolds behind, windows dimming against lingering sunset. Realistic photography, warm palette, delicate light — a restrained, high-grade urban dusk.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/landscape-travel/rooftop-billboard-dusk.webp"
+ },
+ {
+  "id": "orchid-luxury-poster",
+  "title_en": "Opulent Orchid Poster",
+  "title_zh": "兰之绮想·奢华花卉海报",
+  "category": "fashion-editorial",
+  "tags": [
+   "luxury",
+   "floral",
+   "poster"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "高端奢华花卉主题海报：深酒红色底，带精致复古植物暗纹的肌理质感。画面布满蝴蝶兰元素——大朵深酒红蝴蝶兰、鲜艳正红蝴蝶兰、花瓣泛虹彩幻光的白色蝴蝶兰，穿插白红相间的迷你兰与绿色花茎、未绽花苞，所有花朵表面点缀细碎星光特效。画面中央放置金色奢华衬线体的虚构品牌标识「MAISON ÉCLAT」。整体复古华丽，花卉细腻写实而带梦幻光泽，色调浓郁典雅，契合高端时尚氛围。",
+  "prompt_en": "A high-end floral poster: a deep burgundy ground textured with fine vintage botanical motifs. Phalaenopsis orchids fill the frame — large wine-red blooms, vivid scarlet ones, white petals flashing iridescent sheen — interlaced with miniature red-and-white orchids, green stems and unopened buds, every flower dusted with fine sparkling starlight. At center, a gold serif fictional wordmark \"MAISON ÉCLAT\". Retro-opulent overall, blooms delicately realistic yet dreamlike, palette rich and elegant, befitting luxury fashion.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/fashion-editorial/orchid-luxury-poster.webp"
+ },
+ {
+  "id": "equestrian-relief-poster",
+  "title_en": "Equestrian Relief in Orange",
+  "title_zh": "马术浮雕·橙金海报",
+  "category": "fashion-editorial",
+  "tags": [
+   "relief",
+   "equestrian",
+   "poster"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "马术主题浮雕风海报：底色为纯正的暖橙色，采用多层同心圆布局。核心区域橙色打底，居中放置金色立体浮雕质感的标识——一辆金色马车图案加衬线体「HERITAGE」字样；外层是白色环形装饰带，带细腻浮雕纹理（古典建筑、树木、车轮等复古元素）；环带上均匀分布多匹立体浮雕质感的马（黑、白、橙三色），马匹姿态生动，鞍具装饰精致——织纹面料与金色金属配件。整体复古优雅的浮雕艺术风，质感细腻写实，橙、金、白三色主调，马术基因与奢华质感交融。",
+  "prompt_en": "An equestrian relief-style poster on a ground of pure warm orange in concentric layout. The core disc holds a gold embossed emblem — a gilded carriage above the serif word \"HERITAGE\"; around it a white ornamental band with delicate bas-relief of classical buildings, trees and wheels; along the band, sculpted horses in black, white and orange strike lively poses, their saddlery finely decorated with patterned textile and gold fittings. Retro-elegant relief artistry, finely realistic texture, orange-gold-white palette, equestrian heritage fused with luxury.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/fashion-editorial/equestrian-relief-poster.webp"
+ },
+ {
+  "id": "checker-horses-poster",
+  "title_en": "Checkered Horses Study",
+  "title_zh": "格纹之马·艺术海报",
+  "category": "fashion-editorial",
+  "tags": [
+   "fine-art",
+   "horses",
+   "poster"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "暗黑艺术感品牌风海报：低饱和深灰暗调背景，配色以黑白（两匹马）与经典红黑格纹（间以白色、浅棕线条）为主，文字用白色。主体是两匹写实细腻的马——左白右黑，头部均被红黑格纹丝巾蒙住双眼，丝巾呈现自然垂坠的面料纹理；右上角放置白色骑士图形徽标，底部以大号白色无衬线体标注「ATELIER」。低调柔和的布光突出马匹毛发的细腻质感与格纹细节，高级艺术时尚感，氛围神秘优雅。",
+  "prompt_en": "A dark fine-art fashion poster: low-saturation deep-gray ground, the palette carried by black and white (two horses) and a classic red-black check (threaded with white and pale tan), lettering in white. The subjects are two meticulously rendered horses — one white, one black — their eyes blindfolded by red-black checkered scarves that drape with natural fabric folds; a white equestrian crest sits top-right, and \"ATELIER\" runs large in white sans-serif at the base. Low-key soft light lifts the sheen of every hair and the weave of the check — refined, mysterious, gallery-grade.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/fashion-editorial/checker-horses-poster.webp"
+ },
+ {
+  "id": "perfume-red-lips-ad",
+  "title_en": "Perfume & Red Lips",
+  "title_zh": "香水与红唇·复古广告",
+  "category": "fashion-editorial",
+  "tags": [
+   "perfume",
+   "retro",
+   "advertising"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "胶片质感创意香氛广告海报：复古棕色调叠加胶片颗粒做旧，背景为模糊的浅蓝灰。特写画面——一只涂着浓郁红色指甲油的手，握着透明方形玻璃香水瓶，瓶身贴黑白标签，清晰印着「L'ESSENCE · PARIS · EAU DE PARFUM」；瓶口贴近女性的亮红双唇（唇釉光泽浓郁），仿佛有香液自瓶口溢出、轻触唇边。光线柔和朦胧，突出瓶身透明质感、红唇的明艳与手部肤色的对比；大胆迷幻的复古时尚创意广告风。",
+  "prompt_en": "A film-textured fragrance ad: retro brown tone layered with aged grain over a blurred pale blue-gray field. A close-up — a hand in rich red nail polish grips a transparent square glass flacon, its black-and-white label reading \"L'ESSENCE · PARIS · EAU DE PARFUM\"; the bottle's mouth nears a woman's glossy vermilion lips, a thread of liquid seeming to spill and touch them. Soft hazy light spotlights the glass clarity, the lips' brilliance and the skin's warmth — a bold, psychedelic retro-fashion campaign.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/fashion-editorial/perfume-red-lips-ad.webp"
+ },
+ {
+  "id": "winter-ootd-collage",
+  "title_en": "Winter OOTD Collage Cover",
+  "title_zh": "冬季 OOTD 拼贴封面",
+  "category": "fashion-editorial",
+  "tags": [
+   "outfit",
+   "collage",
+   "social"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "冬季穿搭封面，复古拼贴风。\n【主图】女生的主穿搭：浅蓝宽松毛衣 + 黄格衬衫内搭 + 酒红半裙 + 粉白花纹围巾 + 粉调手提包。\n【拼贴】周围拼贴 2–3 张同系列冬季搭配小图（蓝羽绒服配黑阔腿裤、棕外套配藏青裤等）。\n【背景】浅灰方格墙面融合户外街景局部。\n【文字与装饰】大尺寸浅蓝艺术字「OOTD」，手写风标注「autumn/winter」「work/date」；点缀星星、手绘箭头、咖啡杯与播放键小图标。\n【风格】色调柔和温暖，元素错落排版，活泼的冬日穿搭参考感。",
+  "prompt_en": "A winter outfit cover in vintage collage style.\n[MAIN] The girl's key look: a loose light-blue sweater over a yellow plaid shirt, burgundy midi skirt, pink-white floral scarf and a pink-toned handbag.\n[COLLAGE] Two or three smaller shots of matching winter looks — a blue puffer with black wide-leg pants, a brown coat with navy trousers.\n[BACKGROUND] Light-gray gingham wall blending into a slice of street.\n[TYPE & DECOR] Oversized pale-blue display word \"OOTD\", handwritten tags \"autumn/winter\", \"work/date\"; stars, hand-drawn arrows, coffee-cup and play-button doodles.\n[STYLE] Soft warm palette, staggered layout, lively winter-reference energy.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/fashion-editorial/winter-ootd-collage.webp"
+ },
+ {
+  "id": "lollipop-acid-bg",
+  "title_en": "Lollipop Acid Pattern",
+  "title_zh": "棒棒糖酸性设计背景",
+  "category": "poster-typography",
+  "tags": [
+   "acid-design",
+   "playful",
+   "background"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "儿童节主题七彩棒棒糖背景，高饱和酸性设计风格，色彩大胆跳跃，视觉冲击力强。画面中央密集分布多支造型各异的棒棒糖——心形、星星、卡通动物等童趣轮廓，糖体覆细腻糖霜，高光下泛晶莹光泽，颜色鲜艳纯净、层次分明；前景与中景借大小与角度变化形成立体空间。背景融合手绘涂鸦线条、剪贴纸片纹理与不规则色块，自由随性的拼贴感；四周采用纸张撕裂式锯齿边缘，粗粝中带实验感，童真与前卫艺术碰撞。数字插画与平面设计结合，明快而富创造力。",
+  "prompt_en": "A Children's Day lollipop backdrop in high-saturation acid design — bold, jumpy colors with strong visual punch. The center teems with lollipops of playful silhouettes — hearts, stars, cartoon animals — their candy frosted with fine sugar crystals glittering under highlights, hues vivid and pure with clear layering; size and angle shifts build depth between fore and middle ground. The background blends doodle linework, cut-paper scraps and irregular color blocks in a free collage; torn-paper serrated edges roughen the rim, experimental yet childlike. Digital illustration meets graphic design — bright and inventive.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/poster-typography/lollipop-acid-bg.webp"
+ },
+ {
+  "id": "poetic-film-poster",
+  "title_en": "Poetic Film Poster",
+  "title_zh": "诗意电影艺术海报",
+  "category": "poster-typography",
+  "tags": [
+   "movie",
+   "abstract",
+   "typography"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "艺术电影海报，抽象艺术与经典电影海报美学融合。画面以象征手法呈现「讲台、诗集与觉醒的少年」这一幕：抽象化的人物轮廓围绕摊开的书本与讲台延展，流畅而富节奏的曲线让人物与物件彼此呼应，暗示思想的传递。暖红、深蓝与米白叠加出丰富层次，局部柔光晕与渐变笔触交织，诗意与激情并存。画面中央偏上是虚构片名「群鸟与诗」，流动感极强的艺术手写字体、纤细拉丝笔画、象牙白略带暖调，深色背景上格外醒目；其下为英文片名「POEMS IN THE WIND」与极小字副题，字距拉开、层级清晰；底部以低调灰白小字标注虚构信息行。构图张力十足，文字与抽象元素平衡，气质浓厚。",
+  "prompt_en": "An art-house film poster wedding abstraction to classic poster craft. A symbolic scene of 'lectern, verse and an awakening youth': abstracted figures swirl around an open book and podium, their fluid rhythmic curves echoing one another to imply the passing of ideas. Warm red, deep blue and ivory stack into rich layers, softened by halation and gradient brushwork — poetry and fervor entwined. Upper-center sits the fictional title \"群鸟与诗\" in flowing hairline script, ivory-warm against the dark field; beneath it \"POEMS IN THE WIND\" and a tiny wide-tracked subtitle define the hierarchy; discreet gray-white credit lines rest at the bottom. Taut composition, typography in balance with abstraction, deeply cinematic.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/poster-typography/poetic-film-poster.webp"
+ },
+ {
+  "id": "pop-art-horse-poster",
+  "title_en": "Pop-Art Horse Screen Print",
+  "title_zh": "波普骏马·丝网海报",
+  "category": "poster-typography",
+  "tags": [
+   "pop-art",
+   "screen-print",
+   "retro"
+  ],
+  "aspectRatio": "9:16",
+  "prompt": "波普艺术风格海报：鲜艳的黄红渐变背景，中央是以半调网点与点绘技法构成的抽象马头特写轮廓；文字元素随机排布「AI IMAGE」「2026」「PROMPTS」，整体呈现丝网印刷的复古质感与随机撞色，街头而醒目。",
+  "prompt_en": "A pop-art poster on a vivid yellow-red gradient: at center an abstract horse-head close-up built from halftone dots and stippling; the words \"AI IMAGE\", \"2026\" and \"PROMPTS\" scatter randomly across the sheet. The whole reads as retro screen print with chance color separations — street-smart and loud.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/poster-typography/pop-art-horse-poster.webp"
+ },
+ {
+  "id": "quote-sea-boat-poster",
+  "title_en": "Quiet Quote, Blue Sea",
+  "title_zh": "语录海报·蓝海小舟",
+  "category": "poster-typography",
+  "tags": [
+   "quote",
+   "minimal",
+   "healing"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "简约治愈系语录海报：浅白色肌理墙面背景，叠柔和的植物枝叶投影。深灰蓝衬线字体竖向排版原创语录「每往前一步，都算数。」，下方小字署名「——写给自己」。海报下半部嵌入航拍视角的蓝色海面（云朵倒影浮动），一艘小小的木船漂浮其上。整体色调柔和清新，简约文艺，安静而励志。",
+  "prompt_en": "A minimal healing quote poster: a pale textured wall washed with soft leaf shadows. In slate-blue serif type, an original line reads \"每往前一步，都算数。\" with a small attribution \"— a note to myself\". The lower half of the sheet holds an aerial view of blue sea, clouds mirrored on its skin, a single small wooden boat adrift. Soft, fresh palette; simple, literary, quietly uplifting.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/poster-typography/quote-sea-boat-poster.webp"
+ },
+ {
+  "id": "beijing-isometric-weather",
+  "title_en": "Isometric Beijing Weather Card",
+  "title_zh": "北京·等距微缩天气卡",
+  "category": "isometric-3d",
+  "tags": [
+   "isometric",
+   "3d",
+   "weather"
+  ],
+  "aspectRatio": "1:1",
+  "prompt": "45° 俯视等距微缩 3D 卡通城市场景，以北京的地标建筑与经典元素为主：软性细腻的贴图质感、写实的 PBR 材质、温和逼真的光照与投影；将「雪」的天气状态直接融进城市环境，营造沉浸氛围。构图干净极简，背景为柔和的纯色。顶部居中大号粗体标题「BEIJING」，其下是醒目的天气图标，再下依次为日期「2026-01-14」与气温「0°C」；所有文字居中、间距统一，可轻微压在建筑顶部之上。",
+  "prompt_en": "A 45° top-down isometric miniature 3D cartoon scene of Beijing with its landmark buildings: soft refined textures, realistic PBR materials, gentle lifelike lighting and shadows; the snowy weather woven directly into the city for immersive mood. Clean minimal composition on a soft solid background. Top-center: a large bold \"BEIJING\", a prominent weather icon beneath, then the date \"2026-01-14\" and \"0°C\". All text centered with even spacing, may subtly overlap the rooftops.",
+  "source": "showcase-inspired",
+  "featured": true,
+  "generate": false,
+  "image": "images/isometric-3d/beijing-isometric-weather.webp"
+ },
+ {
+  "id": "plush-isometric-island",
+  "title_en": "Plush Island Diorama",
+  "title_zh": "毛绒织物·江心小岛",
+  "category": "isometric-3d",
+  "tags": [
+   "plush",
+   "isometric",
+   "cute"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "3D Q 版微缩旅行概念场景，以一座江中小岛为主题，整体用毛绒织物质感塑造：岛屿、古塔、小桥与绿树仿佛由柔软绒面与织物拼接而成，表面细腻蓬松，触感温暖治愈。江水环绕小岛，低饱和柔和配色，水面带轻微起伏的立体纹理；岛上古迹与植被经 Q 版比例化处理，造型圆润可爱；其间点缀体量小巧、姿态自然的微缩游客，平添生活气息。构图紧凑而有纵深，前中后景层次清晰；经典三点布光：主光刻画细节、辅光柔化阴影、背光勾出轮廓高光。C4D 渲染风格，画面干净通透、细节丰富，专业级视觉品质。",
+  "prompt_en": "A 3D chibi miniature travel diorama of a river island rendered entirely in plush-fabric textures: the isle, its old pagoda, small bridges and greenery all seem stitched from soft felt and velvet, surfaces fine and fuzzy, warm and healing to the eye. The river loops around in low-saturation hues with gently undulating 3D ripples; landmarks are proportioned cute and round, dotted with tiny relaxed tourist figures. Compact yet deep composition with clear fore-mid-back layers; classic three-point lighting — key sculpting detail, fill softening shadow, back rimming highlights. C4D-render look, clean and translucent, richly detailed, portfolio-grade.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/isometric-3d/plush-isometric-island.webp"
+ },
+ {
+  "id": "acrylic-gate-diorama",
+  "title_en": "Acrylic Gate City Diorama",
+  "title_zh": "亚克力之门·园林微缩",
+  "category": "isometric-3d",
+  "tags": [
+   "isometric",
+   "acrylic",
+   "garden"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "3D Q 版微缩城市概念场景，主角是一座拱形「门」形地标建筑：结构准确精致，表面采用亚克力渐变材质，半透明带光泽，在柔光下呈现清晰细腻的光影层次与十足立体感。背景融入古典园林元素：小桥横跨潺潺流水，水面清澈柔亮，亭台楼阁错落，配低矮绿植，营造温润雅致的江南水乡氛围。Q 版造型语言圆润饱满，比例精巧，童话梦幻。整体色彩明亮不刺眼，柔和暖调；大面积柔光箱照明令画面几乎无生硬阴影，干净治愈。OC 渲染风格结合光线追踪，细节清晰锐利、质感通透，超高清。",
+  "prompt_en": "A 3D chibi miniature city scene starring an arched gate-shaped landmark: precise and refined structure clad in gradient acrylic — translucent, lustrous, catching soft light in fine layered reflections with full dimensionality. Classical garden motifs fill the background: tiny bridges over babbling water, glassy-bright streams, pavilions and low greenery evoking a Jiangnan water town. The chibi language is round and plump, delicately scaled, fairytale-sweet. Bright yet gentle warm palette; broad softbox lighting leaves almost no harsh shadow — clean and healing. Octane-render style with ray tracing, crisp detail, translucent materials, ultra HD.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/isometric-3d/acrylic-gate-diorama.webp"
+ },
+ {
+  "id": "zodiac-plush-grid",
+  "title_en": "Zodiac Plush Toy Grid",
+  "title_zh": "生肖毛绒玩具全家福",
+  "category": "product-still",
+  "tags": [
+   "plush",
+   "grid",
+   "still-life"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "干净明亮的浅米色背景前，十二只毛绒玩具整齐排成 3×4 网格：第一行是鼠、牛、虎、兔，第二行是龙、蛇、马、羊，第三行是猴、鸡、狗、猪。每只玩具都由柔软绒布制成，表面带细腻绒毛质感，表情温和友善；配色柔和分层，采用和谐的粉彩色系。柔和的漫射影棚光提亮织物纹理，营造温暖可亲的氛围，高质量写实静物摄影风格。",
+  "prompt_en": "Against a clean light-beige backdrop, twelve plush toys line up in a 3×4 grid: row one a rat, ox, tiger and rabbit; row two a dragon, snake, horse and sheep; row three a monkey, rooster, dog and pig. Each toy is cut from soft fabric with a fuzzy finish and gentle, friendly faces; colors are soft and layered in a harmonious pastel palette. Diffused studio light lifts the fabric texture into a warm, inviting mood — high-quality realistic still-life photography.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/product-still/zodiac-plush-grid.webp"
+ },
+ {
+  "id": "soda-bottle-zero-g",
+  "title_en": "Soda Bottle in Zero Gravity",
+  "title_zh": "零重力汽水瓶·商业CG",
+  "category": "product-still",
+  "tags": [
+   "cgi",
+   "commercial",
+   "dynamic"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "电影级写实 3D 商业视觉：一支经典曲线玻璃汽水瓶为唯一主体，瓶身比例真实，透明厚壁上密布细小清晰的冷凝水珠，强背光下折射出锐利高光，质感冰冷诱人。场景是抽象的零重力冰域空间：多面体冰晶与锋利碎冰漂浮于前后景，边缘泛冷蓝光泽，空间层次深远。瓶内深焦糖色汽水剧烈翻涌成漩涡，自瓶口迸发，与细密气泡、飞散冰屑交织，动势张力十足；周围点缀数枚红色金属球，镜面反射出瓶身与光束的扭曲倒影；冷雾自瓶口升腾。高速环绕机位带来景深变化与动感模糊，强背光在暗环境中切出体积光束；高对比红金主调，冷冽锋利的 8K 级商业 CG 质感。",
+  "prompt_en": "Cinematic photoreal 3D commercial art: a single classic curvy glass soda bottle as the only subject, true to proportion, its thick transparent walls beaded with fine condensation throwing sharp highlights under strong backlight — icy and enticing. The set is an abstract zero-gravity ice field: polyhedral crystals and blade-like shards drifting fore and aft with cold-blue glints, deep spatial layers. Inside, dark caramel soda surges into a vortex bursting from the mouth, weaving with fine bubbles and flying ice chips; several red chrome spheres float nearby, their mirrors warping bottle and beams; cold mist exhales from the neck. A fast orbiting camera delivers shifting focus and motion blur; hard backlight carves volumetric beams through the dark. High-contrast red-and-gold, razor-sharp 8K commercial CG.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/product-still/soda-bottle-zero-g.webp"
+ },
+ {
+  "id": "minimal-interior-vase",
+  "title_en": "Minimal Interior, Dried Flowers",
+  "title_zh": "极简室内·桌与干花",
+  "category": "product-still",
+  "tags": [
+   "interior",
+   "minimal",
+   "still-life"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "极简风格室内场景：空间开阔、布局简洁，氛围宁静舒适。画面中央一张深色木质餐桌，桌面光滑细腻、木纹清晰，散发自然温暖质感；桌上置一只优雅的白色陶瓷花瓶，瓶身光洁、线条利落，瓶中几支干花，花瓣微微蜷曲，沉淀着岁月的美感。自然光自窗外洒入，柔和均匀，为空间添一层通透与宁静；墙面被投下柔和的矩形光影，与浅色墙面形成和谐对比；墙上隐约可见植物剪影，牵起室内外的自然联系。中性色主调，深色家具与浅色墙面对比，现代极简主义，低调而高级。",
+  "prompt_en": "A minimalist interior: open, uncluttered, quietly comfortable. Center frame, a dark wood dining table — its top smooth and fine-grained, warm with natural texture; upon it an elegant white ceramic vase, glossy and clean-lined, holding a few dried flowers whose petals curl faintly with time. Daylight leans in through the window, soft and even, lending the room translucence and calm; a gentle rectangular shadow rests on the pale wall in harmonious contrast, a ghost of foliage hinted above it. Neutral palette, dark furniture against light walls — modern minimalism, understated and premium.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/product-still/minimal-interior-vase.webp"
+ },
+ {
+  "id": "girl-and-white-dog",
+  "title_en": "Girl and Her White Dog",
+  "title_zh": "女孩与小白狗",
+  "category": "pets-animals",
+  "tags": [
+   "pet",
+   "warm",
+   "film"
+  ],
+  "aspectRatio": "3:4",
+  "prompt": "治愈系特写：一位年轻女孩闭着双眼，温柔地把脸颊贴在怀中毛茸茸的白狗身上，身穿柔软的粉色毛绒针织毛衣，身体倚着芥末黄质感的沙发靠垫。金色阳光洒满画面，光线柔和温暖，毛衣的织纹与狗狗的绒毛都被细腻照亮。35mm 胶片的电影感特写，色调温馨，氛围亲密安静。",
+  "prompt_en": "A healing close-up: a young girl, eyes closed, gently presses her cheek against the fluffy white dog in her arms; she wears a soft pink fuzzy knit sweater, leaning into mustard-yellow cushions. Golden sunlight floods the frame, soft and warm, delicately lighting the sweater's weave and the pup's downy fur. A cinematic 35mm-film close-up — warm palette, intimate and still.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/pets-animals/girl-and-white-dog.webp"
+ },
+ {
+  "id": "astronaut-guitar-moon",
+  "title_en": "Astronaut's Guitar on the Moon",
+  "title_zh": "月面吉他手",
+  "category": "fantasy-concept",
+  "tags": [
+   "sci-fi",
+   "cinematic",
+   "concept"
+  ],
+  "aspectRatio": "21:9",
+  "prompt": "写实概念摄影：一位人类宇航员身着细节丰富的白色 EVA 宇航服，面容隐在反光金色面罩之后，随意地坐在崎岖的月球车上弹奏原声吉他。背景是灰尘与岩石遍布的月面，深蓝虚空中悬着巨大的地球，柔和虚化。电影感低角度构图，定向阳光强烈，明暗对比真实锐利，孤独又浪漫。",
+  "prompt_en": "A photoreal concept shot: a human astronaut in a richly detailed white EVA suit, face hidden behind a reflective gold visor, sits casually on a rugged lunar rover strumming an acoustic guitar. The moon spreads gray dust and rock behind, a vast Earth hanging in deep blue void, softly defocused. Cinematic low-angle composition, hard directional sunlight, crisp truthful contrast — lonely and romantic at once.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/fantasy-concept/astronaut-guitar-moon.webp"
+ },
+ {
+  "id": "kitchen-friends-soup",
+  "title_en": "Cooking Together, Sunday Light",
+  "title_zh": "厨房闺蜜·周日时光",
+  "category": "food",
+  "tags": [
+   "lifestyle",
+   "cooking",
+   "warm"
+  ],
+  "aspectRatio": "4:3",
+  "prompt": "温馨生活摄影：两位二十多岁的年轻女性在整洁温暖的厨房里。一人穿淡蓝色围裙、棕色长发挽成松散发髻，正专注搅拌锅中的汤；另一人穿白色上衣配深色短裤、蓬松马尾，微笑端着一杯热饮，目光温柔地望向对方。木质地板被窗外阳光照亮，橱柜与厨具环绕四周。写实摄影风格，色调柔和，氛围亲密安宁。",
+  "prompt_en": "A warm slice-of-life photograph: two women in their twenties share a tidy, cozy kitchen. One, in a pale-blue apron with brown hair in a loose bun, stirs a pot of soup with focus; the other, in a white top and dark shorts with a voluminous ponytail, smiles over a cup of hot drink, gazing tenderly at her friend. Sunlight from the window pools on the wooden floor, cabinets and cookware around them. Realistic style, soft tones, intimate and peaceful.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/food/kitchen-friends-soup.webp"
+ },
+ {
+  "id": "sixteen-panel-cartoon-grid",
+  "title_en": "Sixteen-Panel Cartoon Grid",
+  "title_zh": "十六格卡通拼贴",
+  "category": "anime-illustration",
+  "tags": [
+   "comic",
+   "grid",
+   "fun"
+  ],
+  "aspectRatio": "16:9",
+  "prompt": "4×4 网格的活力卡通拼贴：每格由三部分组成——醒目的大写标题（如「BEEP!」「COOL CAT!」）、一幅奇想插画（如拉响警报的小机器人、踩滑板的猫）、一行描述小字（如「Emergency Mood!」「Extreme Fun!」）。题材横跨紧急状况、乐趣瞬间、食物翻车、天气乌龙、笨拙时刻、晨间日常、美梦被打断、水花惊喜、灵感爆发、夏日融化、派对机器人、扫兴鬼、晕头猫头鹰、雨天心情、太空失误与甜蜜灾难。色彩明亮，画风俏皮，文字排版清晰统一。",
+  "prompt_en": "A 4×4 grid of zesty cartoon panels, each built from three parts — a bold uppercase title (e.g., \"BEEP!\", \"COOL CAT!\"), a whimsical illustration (a little robot with a blaring siren, a cat on a skateboard), and a one-line subtitle (\"Emergency Mood!\", \"Extreme Fun!\"). Themes sweep from emergencies and fun to food mishaps, weather fails, clumsy moments, morning routines, interrupted dreams, water surprises, idea bursts, summer meltdowns, party bots, party poopers, dizzy owls, rainy moods, space fails and sweet disasters. Bright colors, playful art, consistent clean type.",
+  "source": "showcase-inspired",
+  "featured": false,
+  "generate": false,
+  "image": "images/anime-illustration/sixteen-panel-cartoon-grid.webp"
  }
 ]

@@ -10,7 +10,7 @@
   "ctaBase": "https://gmimage.app/general/image-generation",
   "utm": { "source": "github", "campaign": "awesome-glm-image-prompts" },
   "about": {
-    "description": "Curated GLM-Image prompt library — bilingual long-form prompts with preview images, one-click generation at gmimage.app",
+    "description": "59 curated GLM-Image prompts — bilingual long-form prompts with preview images, one-click generation at gmimage.app",
     "website": "https://gmimage.app",
     "topics": [
       "prompts", "ai-prompts", "prompt-engineering", "image-generation",
@@ -24,13 +24,17 @@
   "categories": [
     { "id": "education-cards", "icon": "📚", "label_en": "Educational Cards", "label_zh": "教育知识卡片", "desc_en": "Kid-friendly knowledge cards and classroom posters.", "desc_zh": "面向课堂与儿童的知识卡片、科普挂图。" },
     { "id": "tutorial-infographics", "icon": "🧭", "label_en": "Tutorial Infographics", "label_zh": "步骤教程信息图", "desc_en": "Step-by-step how-to infographics and recipe cards.", "desc_zh": "分步教程长图、流程说明与食谱卡。" },
-    { "id": "portrait", "icon": "📸", "label_en": "Portrait", "label_zh": "人像摄影", "desc_en": "Cinematic and editorial portraits.", "desc_zh": "电影感与杂志感人像。" },
-    { "id": "product-still", "icon": "📦", "label_en": "Product & Still Life", "label_zh": "产品与静物", "desc_en": "Commercial product shots and macro still life.", "desc_zh": "商业产品图与微距静物。" },
+    { "id": "portrait", "icon": "📸", "label_en": "Portrait", "label_zh": "人像摄影", "desc_en": "Cinematic, editorial and lifestyle portraits.", "desc_zh": "电影感、杂志感与生活感人像。" },
+    { "id": "product-still", "icon": "📦", "label_en": "Product & Still Life", "label_zh": "产品与静物", "desc_en": "Commercial product shots, still life and interiors.", "desc_zh": "商业产品图、静物与室内空间。" },
     { "id": "anime-illustration", "icon": "🎌", "label_en": "Anime & Manga", "label_zh": "动漫插画", "desc_en": "Slice-of-life and narrative anime illustration.", "desc_zh": "生活系与叙事系动漫插画。" },
     { "id": "poster-typography", "icon": "🖼️", "label_en": "Poster & Typography", "label_zh": "海报与文字排版", "desc_en": "Posters and layouts with crisp text rendering.", "desc_zh": "海报设计与精准文字排版。" },
+    { "id": "fashion-editorial", "icon": "👗", "label_en": "Fashion Editorial", "label_zh": "时尚与穿搭", "desc_en": "Luxury-flavored posters, ads and outfit collages.", "desc_zh": "奢华海报、创意广告与穿搭拼贴。" },
     { "id": "pets-animals", "icon": "🐾", "label_en": "Pets & Animals", "label_zh": "宠物与动物", "desc_en": "Heartwarming pets and wildlife scenes.", "desc_zh": "治愈系宠物与动物场景。" },
     { "id": "pixel-retro", "icon": "🕹️", "label_en": "Pixel & Retro", "label_zh": "像素与复古", "desc_en": "8-bit pixel art and retro game aesthetics.", "desc_zh": "8-bit 像素风与复古游戏质感。" },
     { "id": "fantasy-concept", "icon": "🧙", "label_en": "Fantasy & Concept", "label_zh": "奇幻与概念", "desc_en": "Epic fantasy worlds and concept art.", "desc_zh": "史诗奇幻世界与概念设计。" },
-    { "id": "food", "icon": "🍽️", "label_en": "Food", "label_zh": "美食", "desc_en": "Editorial food photography and culinary scenes.", "desc_zh": "美食大片与烹饪场景。" }
+    { "id": "food", "icon": "🍽️", "label_en": "Food", "label_zh": "美食", "desc_en": "Editorial food photography and culinary scenes.", "desc_zh": "美食大片与烹饪场景。" },
+    { "id": "chinese-aesthetic", "icon": "🏮", "label_en": "Chinese Aesthetics", "label_zh": "国风美学", "desc_en": "Hanfu portraits, ink landscapes and classical mood.", "desc_zh": "汉服人像、水墨山水与古典意境。" },
+    { "id": "landscape-travel", "icon": "🏞️", "label_en": "Landscape & Travel", "label_zh": "风光与旅行", "desc_en": "Cityscapes, water towns and quiet nature.", "desc_zh": "城市风光、水乡古镇与自然静谧。" },
+    { "id": "isometric-3d", "icon": "🧊", "label_en": "Isometric 3D", "label_zh": "等距 3D 微缩", "desc_en": "Cute miniature dioramas and isometric scenes.", "desc_zh": "Q 版微缩场景与等距 3D 世界。" }
   ]
 }

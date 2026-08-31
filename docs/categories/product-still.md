@@ -1,8 +1,8 @@
 # 📦 Product & Still Life · 产品与静物
 
-Commercial product shots and macro still life.
+Commercial product shots, still life and interiors.
 
-1 prompts · [← README](../../README.md)
+4 prompts · [← README](../../README.md)
 
 ## 1. Velvet Letter Cube in Roses
 
@@ -24,12 +24,78 @@ A cinematic macro still life: a white velvet cube at center, a golden letter "A"
 
 [⬆ Back to top](#categories)
 
+---
+
+## 2. Zodiac Plush Toy Grid
+
+Product & Still Life · `16:9` · `zodiac-plush-grid`
+
+<p align="center"><a href="https://gmimage.app/general/image-generation?prompt=%E5%B9%B2%E5%87%80%E6%98%8E%E4%BA%AE%E7%9A%84%E6%B5%85%E7%B1%B3%E8%89%B2%E8%83%8C%E6%99%AF%E5%89%8D%EF%BC%8C%E5%8D%81%E4%BA%8C%E5%8F%AA%E6%AF%9B%E7%BB%92%E7%8E%A9%E5%85%B7%E6%95%B4%E9%BD%90%E6%8E%92%E6%88%90%203%C3%974%20%E7%BD%91%E6%A0%BC%EF%BC%9A%E7%AC%AC%E4%B8%80%E8%A1%8C%E6%98%AF%E9%BC%A0%E3%80%81%E7%89%9B%E3%80%81%E8%99%8E%E3%80%81%E5%85%94%EF%BC%8C%E7%AC%AC%E4%BA%8C%E8%A1%8C%E6%98%AF%E9%BE%99%E3%80%81%E8%9B%87%E3%80%81%E9%A9%AC%E3%80%81%E7%BE%8A%EF%BC%8C%E7%AC%AC%E4%B8%89%E8%A1%8C%E6%98%AF%E7%8C%B4%E3%80%81%E9%B8%A1%E3%80%81%E7%8B%97%E3%80%81%E7%8C%AA%E3%80%82%E6%AF%8F%E5%8F%AA%E7%8E%A9%E5%85%B7%E9%83%BD%E7%94%B1%E6%9F%94%E8%BD%AF%E7%BB%92%E5%B8%83%E5%88%B6%E6%88%90%EF%BC%8C%E8%A1%A8%E9%9D%A2%E5%B8%A6%E7%BB%86%E8%85%BB%E7%BB%92%E6%AF%9B%E8%B4%A8%E6%84%9F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%B8%A9%E5%92%8C%E5%8F%8B%E5%96%84%EF%BC%9B%E9%85%8D%E8%89%B2%E6%9F%94%E5%92%8C%E5%88%86%E5%B1%82%EF%BC%8C%E9%87%87%E7%94%A8%E5%92%8C%E8%B0%90%E7%9A%84%E7%B2%89%E5%BD%A9%E8%89%B2%E7%B3%BB%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%BD%B1%E6%A3%9A%E5%85%89%E6%8F%90%E4%BA%AE%E7%BB%87%E7%89%A9%E7%BA%B9%E7%90%86%EF%BC%8C%E8%90%A5%E9%80%A0%E6%B8%A9%E6%9A%96%E5%8F%AF%E4%BA%B2%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E9%AB%98%E8%B4%A8%E9%87%8F%E5%86%99%E5%AE%9E%E9%9D%99%E7%89%A9%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%E3%80%82&amp;utm_source=github&amp;utm_content=zodiac-plush-grid&amp;utm_campaign=awesome-glm-image-prompts"><img src="images/product-still/zodiac-plush-grid.webp" alt="Zodiac Plush Toy Grid" width="640" /></a></p>
+
+```text
+干净明亮的浅米色背景前，十二只毛绒玩具整齐排成 3×4 网格：第一行是鼠、牛、虎、兔，第二行是龙、蛇、马、羊，第三行是猴、鸡、狗、猪。每只玩具都由柔软绒布制成，表面带细腻绒毛质感，表情温和友善；配色柔和分层，采用和谐的粉彩色系。柔和的漫射影棚光提亮织物纹理，营造温暖可亲的氛围，高质量写实静物摄影风格。
+```
+
+**English version**
+
+```text
+Against a clean light-beige backdrop, twelve plush toys line up in a 3×4 grid: row one a rat, ox, tiger and rabbit; row two a dragon, snake, horse and sheep; row three a monkey, rooster, dog and pig. Each toy is cut from soft fabric with a fuzzy finish and gentle, friendly faces; colors are soft and layered in a harmonious pastel palette. Diffused studio light lifts the fabric texture into a warm, inviting mood — high-quality realistic still-life photography.
+```
+
+🎨 [Try this prompt →](https://gmimage.app/general/image-generation?prompt=%E5%B9%B2%E5%87%80%E6%98%8E%E4%BA%AE%E7%9A%84%E6%B5%85%E7%B1%B3%E8%89%B2%E8%83%8C%E6%99%AF%E5%89%8D%EF%BC%8C%E5%8D%81%E4%BA%8C%E5%8F%AA%E6%AF%9B%E7%BB%92%E7%8E%A9%E5%85%B7%E6%95%B4%E9%BD%90%E6%8E%92%E6%88%90%203%C3%974%20%E7%BD%91%E6%A0%BC%EF%BC%9A%E7%AC%AC%E4%B8%80%E8%A1%8C%E6%98%AF%E9%BC%A0%E3%80%81%E7%89%9B%E3%80%81%E8%99%8E%E3%80%81%E5%85%94%EF%BC%8C%E7%AC%AC%E4%BA%8C%E8%A1%8C%E6%98%AF%E9%BE%99%E3%80%81%E8%9B%87%E3%80%81%E9%A9%AC%E3%80%81%E7%BE%8A%EF%BC%8C%E7%AC%AC%E4%B8%89%E8%A1%8C%E6%98%AF%E7%8C%B4%E3%80%81%E9%B8%A1%E3%80%81%E7%8B%97%E3%80%81%E7%8C%AA%E3%80%82%E6%AF%8F%E5%8F%AA%E7%8E%A9%E5%85%B7%E9%83%BD%E7%94%B1%E6%9F%94%E8%BD%AF%E7%BB%92%E5%B8%83%E5%88%B6%E6%88%90%EF%BC%8C%E8%A1%A8%E9%9D%A2%E5%B8%A6%E7%BB%86%E8%85%BB%E7%BB%92%E6%AF%9B%E8%B4%A8%E6%84%9F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%B8%A9%E5%92%8C%E5%8F%8B%E5%96%84%EF%BC%9B%E9%85%8D%E8%89%B2%E6%9F%94%E5%92%8C%E5%88%86%E5%B1%82%EF%BC%8C%E9%87%87%E7%94%A8%E5%92%8C%E8%B0%90%E7%9A%84%E7%B2%89%E5%BD%A9%E8%89%B2%E7%B3%BB%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%BD%B1%E6%A3%9A%E5%85%89%E6%8F%90%E4%BA%AE%E7%BB%87%E7%89%A9%E7%BA%B9%E7%90%86%EF%BC%8C%E8%90%A5%E9%80%A0%E6%B8%A9%E6%9A%96%E5%8F%AF%E4%BA%B2%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E9%AB%98%E8%B4%A8%E9%87%8F%E5%86%99%E5%AE%9E%E9%9D%99%E7%89%A9%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%E3%80%82&utm_source=github&utm_content=zodiac-plush-grid&utm_campaign=awesome-glm-image-prompts)
+
+[⬆ Back to top](#categories)
+
+---
+
+## 3. Soda Bottle in Zero Gravity
+
+Product & Still Life · `16:9` · `soda-bottle-zero-g`
+
+<p align="center"><a href="https://gmimage.app/general/image-generation?prompt=%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%86%99%E5%AE%9E%203D%20%E5%95%86%E4%B8%9A%E8%A7%86%E8%A7%89%EF%BC%9A%E4%B8%80%E6%94%AF%E7%BB%8F%E5%85%B8%E6%9B%B2%E7%BA%BF%E7%8E%BB%E7%92%83%E6%B1%BD%E6%B0%B4%E7%93%B6%E4%B8%BA%E5%94%AF%E4%B8%80%E4%B8%BB%E4%BD%93%EF%BC%8C%E7%93%B6%E8%BA%AB%E6%AF%94%E4%BE%8B%E7%9C%9F%E5%AE%9E%EF%BC%8C%E9%80%8F%E6%98%8E%E5%8E%9A%E5%A3%81%E4%B8%8A%E5%AF%86%E5%B8%83%E7%BB%86%E5%B0%8F%E6%B8%85%E6%99%B0%E7%9A%84%E5%86%B7%E5%87%9D%E6%B0%B4%E7%8F%A0%EF%BC%8C%E5%BC%BA%E8%83%8C%E5%85%89%E4%B8%8B%E6%8A%98%E5%B0%84%E5%87%BA%E9%94%90%E5%88%A9%E9%AB%98%E5%85%89%EF%BC%8C%E8%B4%A8%E6%84%9F%E5%86%B0%E5%86%B7%E8%AF%B1%E4%BA%BA%E3%80%82%E5%9C%BA%E6%99%AF%E6%98%AF%E6%8A%BD%E8%B1%A1%E7%9A%84%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%86%B0%E5%9F%9F%E7%A9%BA%E9%97%B4%EF%BC%9A%E5%A4%9A%E9%9D%A2%E4%BD%93%E5%86%B0%E6%99%B6%E4%B8%8E%E9%94%8B%E5%88%A9%E7%A2%8E%E5%86%B0%E6%BC%82%E6%B5%AE%E4%BA%8E%E5%89%8D%E5%90%8E%E6%99%AF%EF%BC%8C%E8%BE%B9%E7%BC%98%E6%B3%9B%E5%86%B7%E8%93%9D%E5%85%89%E6%B3%BD%EF%BC%8C%E7%A9%BA%E9%97%B4%E5%B1%82%E6%AC%A1%E6%B7%B1%E8%BF%9C%E3%80%82%E7%93%B6%E5%86%85%E6%B7%B1%E7%84%A6%E7%B3%96%E8%89%B2%E6%B1%BD%E6%B0%B4%E5%89%A7%E7%83%88%E7%BF%BB%E6%B6%8C%E6%88%90%E6%BC%A9%E6%B6%A1%EF%BC%8C%E8%87%AA%E7%93%B6%E5%8F%A3%E8%BF%B8%E5%8F%91%EF%BC%8C%E4%B8%8E%E7%BB%86%E5%AF%86%E6%B0%94%E6%B3%A1%E3%80%81%E9%A3%9E%E6%95%A3%E5%86%B0%E5%B1%91%E4%BA%A4%E7%BB%87%EF%BC%8C%E5%8A%A8%E5%8A%BF%E5%BC%A0%E5%8A%9B%E5%8D%81%E8%B6%B3%EF%BC%9B%E5%91%A8%E5%9B%B4%E7%82%B9%E7%BC%80%E6%95%B0%E6%9E%9A%E7%BA%A2%E8%89%B2%E9%87%91%E5%B1%9E%E7%90%83%EF%BC%8C%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84%E5%87%BA%E7%93%B6%E8%BA%AB%E4%B8%8E%E5%85%89%E6%9D%9F%E7%9A%84%E6%89%AD%E6%9B%B2%E5%80%92%E5%BD%B1%EF%BC%9B%E5%86%B7%E9%9B%BE%E8%87%AA%E7%93%B6%E5%8F%A3%E5%8D%87%E8%85%BE%E3%80%82%E9%AB%98%E9%80%9F%E7%8E%AF%E7%BB%95%E6%9C%BA%E4%BD%8D%E5%B8%A6%E6%9D%A5%E6%99%AF%E6%B7%B1%E5%8F%98%E5%8C%96%E4%B8%8E%E5%8A%A8%E6%84%9F%E6%A8%A1%E7%B3%8A%EF%BC%8C%E5%BC%BA%E8%83%8C%E5%85%89%E5%9C%A8%E6%9A%97%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%88%87%E5%87%BA%E4%BD%93%E7%A7%AF%E5%85%89%E6%9D%9F%EF%BC%9B%E9%AB%98%E5%AF%B9%E6%AF%94%E7%BA%A2%E9%87%91%E4%B8%BB%E8%B0%83%EF%BC%8C%E5%86%B7%E5%86%BD%E9%94%8B%E5%88%A9%E7%9A%84%208K%20%E7%BA%A7%E5%95%86%E4%B8%9A%20CG%20%E8%B4%A8%E6%84%9F%E3%80%82&amp;utm_source=github&amp;utm_content=soda-bottle-zero-g&amp;utm_campaign=awesome-glm-image-prompts"><img src="images/product-still/soda-bottle-zero-g.webp" alt="Soda Bottle in Zero Gravity" width="640" /></a></p>
+
+```text
+电影级写实 3D 商业视觉：一支经典曲线玻璃汽水瓶为唯一主体，瓶身比例真实，透明厚壁上密布细小清晰的冷凝水珠，强背光下折射出锐利高光，质感冰冷诱人。场景是抽象的零重力冰域空间：多面体冰晶与锋利碎冰漂浮于前后景，边缘泛冷蓝光泽，空间层次深远。瓶内深焦糖色汽水剧烈翻涌成漩涡，自瓶口迸发，与细密气泡、飞散冰屑交织，动势张力十足；周围点缀数枚红色金属球，镜面反射出瓶身与光束的扭曲倒影；冷雾自瓶口升腾。高速环绕机位带来景深变化与动感模糊，强背光在暗环境中切出体积光束；高对比红金主调，冷冽锋利的 8K 级商业 CG 质感。
+```
+
+**English version**
+
+```text
+Cinematic photoreal 3D commercial art: a single classic curvy glass soda bottle as the only subject, true to proportion, its thick transparent walls beaded with fine condensation throwing sharp highlights under strong backlight — icy and enticing. The set is an abstract zero-gravity ice field: polyhedral crystals and blade-like shards drifting fore and aft with cold-blue glints, deep spatial layers. Inside, dark caramel soda surges into a vortex bursting from the mouth, weaving with fine bubbles and flying ice chips; several red chrome spheres float nearby, their mirrors warping bottle and beams; cold mist exhales from the neck. A fast orbiting camera delivers shifting focus and motion blur; hard backlight carves volumetric beams through the dark. High-contrast red-and-gold, razor-sharp 8K commercial CG.
+```
+
+🎨 [Try this prompt →](https://gmimage.app/general/image-generation?prompt=%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%86%99%E5%AE%9E%203D%20%E5%95%86%E4%B8%9A%E8%A7%86%E8%A7%89%EF%BC%9A%E4%B8%80%E6%94%AF%E7%BB%8F%E5%85%B8%E6%9B%B2%E7%BA%BF%E7%8E%BB%E7%92%83%E6%B1%BD%E6%B0%B4%E7%93%B6%E4%B8%BA%E5%94%AF%E4%B8%80%E4%B8%BB%E4%BD%93%EF%BC%8C%E7%93%B6%E8%BA%AB%E6%AF%94%E4%BE%8B%E7%9C%9F%E5%AE%9E%EF%BC%8C%E9%80%8F%E6%98%8E%E5%8E%9A%E5%A3%81%E4%B8%8A%E5%AF%86%E5%B8%83%E7%BB%86%E5%B0%8F%E6%B8%85%E6%99%B0%E7%9A%84%E5%86%B7%E5%87%9D%E6%B0%B4%E7%8F%A0%EF%BC%8C%E5%BC%BA%E8%83%8C%E5%85%89%E4%B8%8B%E6%8A%98%E5%B0%84%E5%87%BA%E9%94%90%E5%88%A9%E9%AB%98%E5%85%89%EF%BC%8C%E8%B4%A8%E6%84%9F%E5%86%B0%E5%86%B7%E8%AF%B1%E4%BA%BA%E3%80%82%E5%9C%BA%E6%99%AF%E6%98%AF%E6%8A%BD%E8%B1%A1%E7%9A%84%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%86%B0%E5%9F%9F%E7%A9%BA%E9%97%B4%EF%BC%9A%E5%A4%9A%E9%9D%A2%E4%BD%93%E5%86%B0%E6%99%B6%E4%B8%8E%E9%94%8B%E5%88%A9%E7%A2%8E%E5%86%B0%E6%BC%82%E6%B5%AE%E4%BA%8E%E5%89%8D%E5%90%8E%E6%99%AF%EF%BC%8C%E8%BE%B9%E7%BC%98%E6%B3%9B%E5%86%B7%E8%93%9D%E5%85%89%E6%B3%BD%EF%BC%8C%E7%A9%BA%E9%97%B4%E5%B1%82%E6%AC%A1%E6%B7%B1%E8%BF%9C%E3%80%82%E7%93%B6%E5%86%85%E6%B7%B1%E7%84%A6%E7%B3%96%E8%89%B2%E6%B1%BD%E6%B0%B4%E5%89%A7%E7%83%88%E7%BF%BB%E6%B6%8C%E6%88%90%E6%BC%A9%E6%B6%A1%EF%BC%8C%E8%87%AA%E7%93%B6%E5%8F%A3%E8%BF%B8%E5%8F%91%EF%BC%8C%E4%B8%8E%E7%BB%86%E5%AF%86%E6%B0%94%E6%B3%A1%E3%80%81%E9%A3%9E%E6%95%A3%E5%86%B0%E5%B1%91%E4%BA%A4%E7%BB%87%EF%BC%8C%E5%8A%A8%E5%8A%BF%E5%BC%A0%E5%8A%9B%E5%8D%81%E8%B6%B3%EF%BC%9B%E5%91%A8%E5%9B%B4%E7%82%B9%E7%BC%80%E6%95%B0%E6%9E%9A%E7%BA%A2%E8%89%B2%E9%87%91%E5%B1%9E%E7%90%83%EF%BC%8C%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84%E5%87%BA%E7%93%B6%E8%BA%AB%E4%B8%8E%E5%85%89%E6%9D%9F%E7%9A%84%E6%89%AD%E6%9B%B2%E5%80%92%E5%BD%B1%EF%BC%9B%E5%86%B7%E9%9B%BE%E8%87%AA%E7%93%B6%E5%8F%A3%E5%8D%87%E8%85%BE%E3%80%82%E9%AB%98%E9%80%9F%E7%8E%AF%E7%BB%95%E6%9C%BA%E4%BD%8D%E5%B8%A6%E6%9D%A5%E6%99%AF%E6%B7%B1%E5%8F%98%E5%8C%96%E4%B8%8E%E5%8A%A8%E6%84%9F%E6%A8%A1%E7%B3%8A%EF%BC%8C%E5%BC%BA%E8%83%8C%E5%85%89%E5%9C%A8%E6%9A%97%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%88%87%E5%87%BA%E4%BD%93%E7%A7%AF%E5%85%89%E6%9D%9F%EF%BC%9B%E9%AB%98%E5%AF%B9%E6%AF%94%E7%BA%A2%E9%87%91%E4%B8%BB%E8%B0%83%EF%BC%8C%E5%86%B7%E5%86%BD%E9%94%8B%E5%88%A9%E7%9A%84%208K%20%E7%BA%A7%E5%95%86%E4%B8%9A%20CG%20%E8%B4%A8%E6%84%9F%E3%80%82&utm_source=github&utm_content=soda-bottle-zero-g&utm_campaign=awesome-glm-image-prompts)
+
+[⬆ Back to top](#categories)
+
+---
+
+## 4. Minimal Interior, Dried Flowers
+
+Product & Still Life · `3:4` · `minimal-interior-vase`
+
+<p align="center"><a href="https://gmimage.app/general/image-generation?prompt=%E6%9E%81%E7%AE%80%E9%A3%8E%E6%A0%BC%E5%AE%A4%E5%86%85%E5%9C%BA%E6%99%AF%EF%BC%9A%E7%A9%BA%E9%97%B4%E5%BC%80%E9%98%94%E3%80%81%E5%B8%83%E5%B1%80%E7%AE%80%E6%B4%81%EF%BC%8C%E6%B0%9B%E5%9B%B4%E5%AE%81%E9%9D%99%E8%88%92%E9%80%82%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%BC%A0%E6%B7%B1%E8%89%B2%E6%9C%A8%E8%B4%A8%E9%A4%90%E6%A1%8C%EF%BC%8C%E6%A1%8C%E9%9D%A2%E5%85%89%E6%BB%91%E7%BB%86%E8%85%BB%E3%80%81%E6%9C%A8%E7%BA%B9%E6%B8%85%E6%99%B0%EF%BC%8C%E6%95%A3%E5%8F%91%E8%87%AA%E7%84%B6%E6%B8%A9%E6%9A%96%E8%B4%A8%E6%84%9F%EF%BC%9B%E6%A1%8C%E4%B8%8A%E7%BD%AE%E4%B8%80%E5%8F%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%99%BD%E8%89%B2%E9%99%B6%E7%93%B7%E8%8A%B1%E7%93%B6%EF%BC%8C%E7%93%B6%E8%BA%AB%E5%85%89%E6%B4%81%E3%80%81%E7%BA%BF%E6%9D%A1%E5%88%A9%E8%90%BD%EF%BC%8C%E7%93%B6%E4%B8%AD%E5%87%A0%E6%94%AF%E5%B9%B2%E8%8A%B1%EF%BC%8C%E8%8A%B1%E7%93%A3%E5%BE%AE%E5%BE%AE%E8%9C%B7%E6%9B%B2%EF%BC%8C%E6%B2%89%E6%B7%80%E7%9D%80%E5%B2%81%E6%9C%88%E7%9A%84%E7%BE%8E%E6%84%9F%E3%80%82%E8%87%AA%E7%84%B6%E5%85%89%E8%87%AA%E7%AA%97%E5%A4%96%E6%B4%92%E5%85%A5%EF%BC%8C%E6%9F%94%E5%92%8C%E5%9D%87%E5%8C%80%EF%BC%8C%E4%B8%BA%E7%A9%BA%E9%97%B4%E6%B7%BB%E4%B8%80%E5%B1%82%E9%80%9A%E9%80%8F%E4%B8%8E%E5%AE%81%E9%9D%99%EF%BC%9B%E5%A2%99%E9%9D%A2%E8%A2%AB%E6%8A%95%E4%B8%8B%E6%9F%94%E5%92%8C%E7%9A%84%E7%9F%A9%E5%BD%A2%E5%85%89%E5%BD%B1%EF%BC%8C%E4%B8%8E%E6%B5%85%E8%89%B2%E5%A2%99%E9%9D%A2%E5%BD%A2%E6%88%90%E5%92%8C%E8%B0%90%E5%AF%B9%E6%AF%94%EF%BC%9B%E5%A2%99%E4%B8%8A%E9%9A%90%E7%BA%A6%E5%8F%AF%E8%A7%81%E6%A4%8D%E7%89%A9%E5%89%AA%E5%BD%B1%EF%BC%8C%E7%89%B5%E8%B5%B7%E5%AE%A4%E5%86%85%E5%A4%96%E7%9A%84%E8%87%AA%E7%84%B6%E8%81%94%E7%B3%BB%E3%80%82%E4%B8%AD%E6%80%A7%E8%89%B2%E4%B8%BB%E8%B0%83%EF%BC%8C%E6%B7%B1%E8%89%B2%E5%AE%B6%E5%85%B7%E4%B8%8E%E6%B5%85%E8%89%B2%E5%A2%99%E9%9D%A2%E5%AF%B9%E6%AF%94%EF%BC%8C%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%EF%BC%8C%E4%BD%8E%E8%B0%83%E8%80%8C%E9%AB%98%E7%BA%A7%E3%80%82&amp;utm_source=github&amp;utm_content=minimal-interior-vase&amp;utm_campaign=awesome-glm-image-prompts"><img src="images/product-still/minimal-interior-vase.webp" alt="Minimal Interior, Dried Flowers" width="640" /></a></p>
+
+```text
+极简风格室内场景：空间开阔、布局简洁，氛围宁静舒适。画面中央一张深色木质餐桌，桌面光滑细腻、木纹清晰，散发自然温暖质感；桌上置一只优雅的白色陶瓷花瓶，瓶身光洁、线条利落，瓶中几支干花，花瓣微微蜷曲，沉淀着岁月的美感。自然光自窗外洒入，柔和均匀，为空间添一层通透与宁静；墙面被投下柔和的矩形光影，与浅色墙面形成和谐对比；墙上隐约可见植物剪影，牵起室内外的自然联系。中性色主调，深色家具与浅色墙面对比，现代极简主义，低调而高级。
+```
+
+**English version**
+
+```text
+A minimalist interior: open, uncluttered, quietly comfortable. Center frame, a dark wood dining table — its top smooth and fine-grained, warm with natural texture; upon it an elegant white ceramic vase, glossy and clean-lined, holding a few dried flowers whose petals curl faintly with time. Daylight leans in through the window, soft and even, lending the room translucence and calm; a gentle rectangular shadow rests on the pale wall in harmonious contrast, a ghost of foliage hinted above it. Neutral palette, dark furniture against light walls — modern minimalism, understated and premium.
+```
+
+🎨 [Try this prompt →](https://gmimage.app/general/image-generation?prompt=%E6%9E%81%E7%AE%80%E9%A3%8E%E6%A0%BC%E5%AE%A4%E5%86%85%E5%9C%BA%E6%99%AF%EF%BC%9A%E7%A9%BA%E9%97%B4%E5%BC%80%E9%98%94%E3%80%81%E5%B8%83%E5%B1%80%E7%AE%80%E6%B4%81%EF%BC%8C%E6%B0%9B%E5%9B%B4%E5%AE%81%E9%9D%99%E8%88%92%E9%80%82%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%BC%A0%E6%B7%B1%E8%89%B2%E6%9C%A8%E8%B4%A8%E9%A4%90%E6%A1%8C%EF%BC%8C%E6%A1%8C%E9%9D%A2%E5%85%89%E6%BB%91%E7%BB%86%E8%85%BB%E3%80%81%E6%9C%A8%E7%BA%B9%E6%B8%85%E6%99%B0%EF%BC%8C%E6%95%A3%E5%8F%91%E8%87%AA%E7%84%B6%E6%B8%A9%E6%9A%96%E8%B4%A8%E6%84%9F%EF%BC%9B%E6%A1%8C%E4%B8%8A%E7%BD%AE%E4%B8%80%E5%8F%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%99%BD%E8%89%B2%E9%99%B6%E7%93%B7%E8%8A%B1%E7%93%B6%EF%BC%8C%E7%93%B6%E8%BA%AB%E5%85%89%E6%B4%81%E3%80%81%E7%BA%BF%E6%9D%A1%E5%88%A9%E8%90%BD%EF%BC%8C%E7%93%B6%E4%B8%AD%E5%87%A0%E6%94%AF%E5%B9%B2%E8%8A%B1%EF%BC%8C%E8%8A%B1%E7%93%A3%E5%BE%AE%E5%BE%AE%E8%9C%B7%E6%9B%B2%EF%BC%8C%E6%B2%89%E6%B7%80%E7%9D%80%E5%B2%81%E6%9C%88%E7%9A%84%E7%BE%8E%E6%84%9F%E3%80%82%E8%87%AA%E7%84%B6%E5%85%89%E8%87%AA%E7%AA%97%E5%A4%96%E6%B4%92%E5%85%A5%EF%BC%8C%E6%9F%94%E5%92%8C%E5%9D%87%E5%8C%80%EF%BC%8C%E4%B8%BA%E7%A9%BA%E9%97%B4%E6%B7%BB%E4%B8%80%E5%B1%82%E9%80%9A%E9%80%8F%E4%B8%8E%E5%AE%81%E9%9D%99%EF%BC%9B%E5%A2%99%E9%9D%A2%E8%A2%AB%E6%8A%95%E4%B8%8B%E6%9F%94%E5%92%8C%E7%9A%84%E7%9F%A9%E5%BD%A2%E5%85%89%E5%BD%B1%EF%BC%8C%E4%B8%8E%E6%B5%85%E8%89%B2%E5%A2%99%E9%9D%A2%E5%BD%A2%E6%88%90%E5%92%8C%E8%B0%90%E5%AF%B9%E6%AF%94%EF%BC%9B%E5%A2%99%E4%B8%8A%E9%9A%90%E7%BA%A6%E5%8F%AF%E8%A7%81%E6%A4%8D%E7%89%A9%E5%89%AA%E5%BD%B1%EF%BC%8C%E7%89%B5%E8%B5%B7%E5%AE%A4%E5%86%85%E5%A4%96%E7%9A%84%E8%87%AA%E7%84%B6%E8%81%94%E7%B3%BB%E3%80%82%E4%B8%AD%E6%80%A7%E8%89%B2%E4%B8%BB%E8%B0%83%EF%BC%8C%E6%B7%B1%E8%89%B2%E5%AE%B6%E5%85%B7%E4%B8%8E%E6%B5%85%E8%89%B2%E5%A2%99%E9%9D%A2%E5%AF%B9%E6%AF%94%EF%BC%8C%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%EF%BC%8C%E4%BD%8E%E8%B0%83%E8%80%8C%E9%AB%98%E7%BA%A7%E3%80%82&utm_source=github&utm_content=minimal-interior-vase&utm_campaign=awesome-glm-image-prompts)
+
+[⬆ Back to top](#categories)
+
 
 ---
 
 # 产品与静物
 
-商业产品图与微距静物。
+商业产品图、静物与室内空间。
 
 ## 1. 天鹅绒字母方块
 
@@ -48,6 +114,72 @@ A cinematic macro still life: a white velvet cube at center, a golden letter "A"
 ```
 
 🎨 [用这个提示词一键生成 →](https://gmimage.app/general/image-generation?prompt=%E7%94%B5%E5%BD%B1%E6%84%9F%E5%BE%AE%E8%B7%9D%E9%9D%99%E7%89%A9%E6%91%84%E5%BD%B1%EF%BC%9A%E4%B8%80%E6%9E%9A%E8%A7%A6%E6%84%9F%E7%BB%86%E8%85%BB%E7%9A%84%E7%99%BD%E8%89%B2%E5%A4%A9%E9%B9%85%E7%BB%92%E7%AB%8B%E6%96%B9%E4%BD%93%E5%B1%85%E4%B8%AD%E6%91%86%E6%94%BE%EF%BC%8C%E9%A1%B6%E9%9D%A2%E7%AB%8B%E7%9D%80%E4%B8%80%E4%B8%AA%E9%97%AA%E7%9D%80%E9%87%91%E8%89%B2%E5%85%89%E6%B3%BD%E7%9A%84%E5%AD%97%E6%AF%8D%E3%80%8CA%E3%80%8D%E3%80%82%E7%AB%8B%E6%96%B9%E4%BD%93%E8%A2%AB%E5%B1%82%E5%B1%82%E7%B0%87%E6%8B%A5%E7%9A%84%E6%B7%B1%E7%BA%A2%E8%89%B2%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%8E%AF%E7%BB%95%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%E6%8A%8A%E5%9B%9B%E5%91%A8%E8%8A%B1%E7%93%A3%E8%99%9A%E5%8C%96%E6%88%90%E5%A5%B6%E6%B2%B9%E8%88%AC%E7%9A%84%E6%9F%94%E5%92%8C%E5%85%89%E6%96%91%EF%BC%8C%E8%A7%86%E7%BA%BF%E8%A2%AB%E7%89%A2%E7%89%A2%E9%94%81%E5%9C%A8%E4%B8%AD%E5%A4%AE%E5%AD%97%E6%AF%8D%E4%B8%8A%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%85%89%E7%BB%86%E8%87%B4%E5%8B%BE%E5%8B%92%E5%87%BA%E7%BB%92%E9%9D%A2%E7%BA%B9%E7%90%86%E4%B8%8E%E8%8A%B1%E7%93%A3%E8%84%89%E7%BB%9C%EF%BC%8C%E7%94%BB%E9%9D%A2%E5%A5%A2%E5%8D%8E%E8%80%8C%E6%B5%AA%E6%BC%AB%EF%BC%8C%E5%86%99%E5%AE%9E%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%EF%BC%8C%E7%BB%86%E8%8A%82%E4%B8%B0%E5%AF%8C%E5%A6%82%208K%20%E7%94%BB%E8%B4%A8%E3%80%82&utm_source=github&utm_content=velvet-letter-cube&utm_campaign=awesome-glm-image-prompts)
+
+[⬆ Back to top](#目录)
+
+---
+
+## 2. 生肖毛绒玩具全家福
+
+产品与静物 · `16:9` · `zodiac-plush-grid`
+
+<p align="center"><a href="https://gmimage.app/general/image-generation?prompt=%E5%B9%B2%E5%87%80%E6%98%8E%E4%BA%AE%E7%9A%84%E6%B5%85%E7%B1%B3%E8%89%B2%E8%83%8C%E6%99%AF%E5%89%8D%EF%BC%8C%E5%8D%81%E4%BA%8C%E5%8F%AA%E6%AF%9B%E7%BB%92%E7%8E%A9%E5%85%B7%E6%95%B4%E9%BD%90%E6%8E%92%E6%88%90%203%C3%974%20%E7%BD%91%E6%A0%BC%EF%BC%9A%E7%AC%AC%E4%B8%80%E8%A1%8C%E6%98%AF%E9%BC%A0%E3%80%81%E7%89%9B%E3%80%81%E8%99%8E%E3%80%81%E5%85%94%EF%BC%8C%E7%AC%AC%E4%BA%8C%E8%A1%8C%E6%98%AF%E9%BE%99%E3%80%81%E8%9B%87%E3%80%81%E9%A9%AC%E3%80%81%E7%BE%8A%EF%BC%8C%E7%AC%AC%E4%B8%89%E8%A1%8C%E6%98%AF%E7%8C%B4%E3%80%81%E9%B8%A1%E3%80%81%E7%8B%97%E3%80%81%E7%8C%AA%E3%80%82%E6%AF%8F%E5%8F%AA%E7%8E%A9%E5%85%B7%E9%83%BD%E7%94%B1%E6%9F%94%E8%BD%AF%E7%BB%92%E5%B8%83%E5%88%B6%E6%88%90%EF%BC%8C%E8%A1%A8%E9%9D%A2%E5%B8%A6%E7%BB%86%E8%85%BB%E7%BB%92%E6%AF%9B%E8%B4%A8%E6%84%9F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%B8%A9%E5%92%8C%E5%8F%8B%E5%96%84%EF%BC%9B%E9%85%8D%E8%89%B2%E6%9F%94%E5%92%8C%E5%88%86%E5%B1%82%EF%BC%8C%E9%87%87%E7%94%A8%E5%92%8C%E8%B0%90%E7%9A%84%E7%B2%89%E5%BD%A9%E8%89%B2%E7%B3%BB%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%BD%B1%E6%A3%9A%E5%85%89%E6%8F%90%E4%BA%AE%E7%BB%87%E7%89%A9%E7%BA%B9%E7%90%86%EF%BC%8C%E8%90%A5%E9%80%A0%E6%B8%A9%E6%9A%96%E5%8F%AF%E4%BA%B2%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E9%AB%98%E8%B4%A8%E9%87%8F%E5%86%99%E5%AE%9E%E9%9D%99%E7%89%A9%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%E3%80%82&amp;utm_source=github&amp;utm_content=zodiac-plush-grid&amp;utm_campaign=awesome-glm-image-prompts"><img src="images/product-still/zodiac-plush-grid.webp" alt="生肖毛绒玩具全家福" width="640" /></a></p>
+
+```text
+干净明亮的浅米色背景前，十二只毛绒玩具整齐排成 3×4 网格：第一行是鼠、牛、虎、兔，第二行是龙、蛇、马、羊，第三行是猴、鸡、狗、猪。每只玩具都由柔软绒布制成，表面带细腻绒毛质感，表情温和友善；配色柔和分层，采用和谐的粉彩色系。柔和的漫射影棚光提亮织物纹理，营造温暖可亲的氛围，高质量写实静物摄影风格。
+```
+
+**英文版 · English**
+
+```text
+Against a clean light-beige backdrop, twelve plush toys line up in a 3×4 grid: row one a rat, ox, tiger and rabbit; row two a dragon, snake, horse and sheep; row three a monkey, rooster, dog and pig. Each toy is cut from soft fabric with a fuzzy finish and gentle, friendly faces; colors are soft and layered in a harmonious pastel palette. Diffused studio light lifts the fabric texture into a warm, inviting mood — high-quality realistic still-life photography.
+```
+
+🎨 [用这个提示词一键生成 →](https://gmimage.app/general/image-generation?prompt=%E5%B9%B2%E5%87%80%E6%98%8E%E4%BA%AE%E7%9A%84%E6%B5%85%E7%B1%B3%E8%89%B2%E8%83%8C%E6%99%AF%E5%89%8D%EF%BC%8C%E5%8D%81%E4%BA%8C%E5%8F%AA%E6%AF%9B%E7%BB%92%E7%8E%A9%E5%85%B7%E6%95%B4%E9%BD%90%E6%8E%92%E6%88%90%203%C3%974%20%E7%BD%91%E6%A0%BC%EF%BC%9A%E7%AC%AC%E4%B8%80%E8%A1%8C%E6%98%AF%E9%BC%A0%E3%80%81%E7%89%9B%E3%80%81%E8%99%8E%E3%80%81%E5%85%94%EF%BC%8C%E7%AC%AC%E4%BA%8C%E8%A1%8C%E6%98%AF%E9%BE%99%E3%80%81%E8%9B%87%E3%80%81%E9%A9%AC%E3%80%81%E7%BE%8A%EF%BC%8C%E7%AC%AC%E4%B8%89%E8%A1%8C%E6%98%AF%E7%8C%B4%E3%80%81%E9%B8%A1%E3%80%81%E7%8B%97%E3%80%81%E7%8C%AA%E3%80%82%E6%AF%8F%E5%8F%AA%E7%8E%A9%E5%85%B7%E9%83%BD%E7%94%B1%E6%9F%94%E8%BD%AF%E7%BB%92%E5%B8%83%E5%88%B6%E6%88%90%EF%BC%8C%E8%A1%A8%E9%9D%A2%E5%B8%A6%E7%BB%86%E8%85%BB%E7%BB%92%E6%AF%9B%E8%B4%A8%E6%84%9F%EF%BC%8C%E8%A1%A8%E6%83%85%E6%B8%A9%E5%92%8C%E5%8F%8B%E5%96%84%EF%BC%9B%E9%85%8D%E8%89%B2%E6%9F%94%E5%92%8C%E5%88%86%E5%B1%82%EF%BC%8C%E9%87%87%E7%94%A8%E5%92%8C%E8%B0%90%E7%9A%84%E7%B2%89%E5%BD%A9%E8%89%B2%E7%B3%BB%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%BD%B1%E6%A3%9A%E5%85%89%E6%8F%90%E4%BA%AE%E7%BB%87%E7%89%A9%E7%BA%B9%E7%90%86%EF%BC%8C%E8%90%A5%E9%80%A0%E6%B8%A9%E6%9A%96%E5%8F%AF%E4%BA%B2%E7%9A%84%E6%B0%9B%E5%9B%B4%EF%BC%8C%E9%AB%98%E8%B4%A8%E9%87%8F%E5%86%99%E5%AE%9E%E9%9D%99%E7%89%A9%E6%91%84%E5%BD%B1%E9%A3%8E%E6%A0%BC%E3%80%82&utm_source=github&utm_content=zodiac-plush-grid&utm_campaign=awesome-glm-image-prompts)
+
+[⬆ Back to top](#目录)
+
+---
+
+## 3. 零重力汽水瓶·商业CG
+
+产品与静物 · `16:9` · `soda-bottle-zero-g`
+
+<p align="center"><a href="https://gmimage.app/general/image-generation?prompt=%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%86%99%E5%AE%9E%203D%20%E5%95%86%E4%B8%9A%E8%A7%86%E8%A7%89%EF%BC%9A%E4%B8%80%E6%94%AF%E7%BB%8F%E5%85%B8%E6%9B%B2%E7%BA%BF%E7%8E%BB%E7%92%83%E6%B1%BD%E6%B0%B4%E7%93%B6%E4%B8%BA%E5%94%AF%E4%B8%80%E4%B8%BB%E4%BD%93%EF%BC%8C%E7%93%B6%E8%BA%AB%E6%AF%94%E4%BE%8B%E7%9C%9F%E5%AE%9E%EF%BC%8C%E9%80%8F%E6%98%8E%E5%8E%9A%E5%A3%81%E4%B8%8A%E5%AF%86%E5%B8%83%E7%BB%86%E5%B0%8F%E6%B8%85%E6%99%B0%E7%9A%84%E5%86%B7%E5%87%9D%E6%B0%B4%E7%8F%A0%EF%BC%8C%E5%BC%BA%E8%83%8C%E5%85%89%E4%B8%8B%E6%8A%98%E5%B0%84%E5%87%BA%E9%94%90%E5%88%A9%E9%AB%98%E5%85%89%EF%BC%8C%E8%B4%A8%E6%84%9F%E5%86%B0%E5%86%B7%E8%AF%B1%E4%BA%BA%E3%80%82%E5%9C%BA%E6%99%AF%E6%98%AF%E6%8A%BD%E8%B1%A1%E7%9A%84%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%86%B0%E5%9F%9F%E7%A9%BA%E9%97%B4%EF%BC%9A%E5%A4%9A%E9%9D%A2%E4%BD%93%E5%86%B0%E6%99%B6%E4%B8%8E%E9%94%8B%E5%88%A9%E7%A2%8E%E5%86%B0%E6%BC%82%E6%B5%AE%E4%BA%8E%E5%89%8D%E5%90%8E%E6%99%AF%EF%BC%8C%E8%BE%B9%E7%BC%98%E6%B3%9B%E5%86%B7%E8%93%9D%E5%85%89%E6%B3%BD%EF%BC%8C%E7%A9%BA%E9%97%B4%E5%B1%82%E6%AC%A1%E6%B7%B1%E8%BF%9C%E3%80%82%E7%93%B6%E5%86%85%E6%B7%B1%E7%84%A6%E7%B3%96%E8%89%B2%E6%B1%BD%E6%B0%B4%E5%89%A7%E7%83%88%E7%BF%BB%E6%B6%8C%E6%88%90%E6%BC%A9%E6%B6%A1%EF%BC%8C%E8%87%AA%E7%93%B6%E5%8F%A3%E8%BF%B8%E5%8F%91%EF%BC%8C%E4%B8%8E%E7%BB%86%E5%AF%86%E6%B0%94%E6%B3%A1%E3%80%81%E9%A3%9E%E6%95%A3%E5%86%B0%E5%B1%91%E4%BA%A4%E7%BB%87%EF%BC%8C%E5%8A%A8%E5%8A%BF%E5%BC%A0%E5%8A%9B%E5%8D%81%E8%B6%B3%EF%BC%9B%E5%91%A8%E5%9B%B4%E7%82%B9%E7%BC%80%E6%95%B0%E6%9E%9A%E7%BA%A2%E8%89%B2%E9%87%91%E5%B1%9E%E7%90%83%EF%BC%8C%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84%E5%87%BA%E7%93%B6%E8%BA%AB%E4%B8%8E%E5%85%89%E6%9D%9F%E7%9A%84%E6%89%AD%E6%9B%B2%E5%80%92%E5%BD%B1%EF%BC%9B%E5%86%B7%E9%9B%BE%E8%87%AA%E7%93%B6%E5%8F%A3%E5%8D%87%E8%85%BE%E3%80%82%E9%AB%98%E9%80%9F%E7%8E%AF%E7%BB%95%E6%9C%BA%E4%BD%8D%E5%B8%A6%E6%9D%A5%E6%99%AF%E6%B7%B1%E5%8F%98%E5%8C%96%E4%B8%8E%E5%8A%A8%E6%84%9F%E6%A8%A1%E7%B3%8A%EF%BC%8C%E5%BC%BA%E8%83%8C%E5%85%89%E5%9C%A8%E6%9A%97%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%88%87%E5%87%BA%E4%BD%93%E7%A7%AF%E5%85%89%E6%9D%9F%EF%BC%9B%E9%AB%98%E5%AF%B9%E6%AF%94%E7%BA%A2%E9%87%91%E4%B8%BB%E8%B0%83%EF%BC%8C%E5%86%B7%E5%86%BD%E9%94%8B%E5%88%A9%E7%9A%84%208K%20%E7%BA%A7%E5%95%86%E4%B8%9A%20CG%20%E8%B4%A8%E6%84%9F%E3%80%82&amp;utm_source=github&amp;utm_content=soda-bottle-zero-g&amp;utm_campaign=awesome-glm-image-prompts"><img src="images/product-still/soda-bottle-zero-g.webp" alt="零重力汽水瓶·商业CG" width="640" /></a></p>
+
+```text
+电影级写实 3D 商业视觉：一支经典曲线玻璃汽水瓶为唯一主体，瓶身比例真实，透明厚壁上密布细小清晰的冷凝水珠，强背光下折射出锐利高光，质感冰冷诱人。场景是抽象的零重力冰域空间：多面体冰晶与锋利碎冰漂浮于前后景，边缘泛冷蓝光泽，空间层次深远。瓶内深焦糖色汽水剧烈翻涌成漩涡，自瓶口迸发，与细密气泡、飞散冰屑交织，动势张力十足；周围点缀数枚红色金属球，镜面反射出瓶身与光束的扭曲倒影；冷雾自瓶口升腾。高速环绕机位带来景深变化与动感模糊，强背光在暗环境中切出体积光束；高对比红金主调，冷冽锋利的 8K 级商业 CG 质感。
+```
+
+**英文版 · English**
+
+```text
+Cinematic photoreal 3D commercial art: a single classic curvy glass soda bottle as the only subject, true to proportion, its thick transparent walls beaded with fine condensation throwing sharp highlights under strong backlight — icy and enticing. The set is an abstract zero-gravity ice field: polyhedral crystals and blade-like shards drifting fore and aft with cold-blue glints, deep spatial layers. Inside, dark caramel soda surges into a vortex bursting from the mouth, weaving with fine bubbles and flying ice chips; several red chrome spheres float nearby, their mirrors warping bottle and beams; cold mist exhales from the neck. A fast orbiting camera delivers shifting focus and motion blur; hard backlight carves volumetric beams through the dark. High-contrast red-and-gold, razor-sharp 8K commercial CG.
+```
+
+🎨 [用这个提示词一键生成 →](https://gmimage.app/general/image-generation?prompt=%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%86%99%E5%AE%9E%203D%20%E5%95%86%E4%B8%9A%E8%A7%86%E8%A7%89%EF%BC%9A%E4%B8%80%E6%94%AF%E7%BB%8F%E5%85%B8%E6%9B%B2%E7%BA%BF%E7%8E%BB%E7%92%83%E6%B1%BD%E6%B0%B4%E7%93%B6%E4%B8%BA%E5%94%AF%E4%B8%80%E4%B8%BB%E4%BD%93%EF%BC%8C%E7%93%B6%E8%BA%AB%E6%AF%94%E4%BE%8B%E7%9C%9F%E5%AE%9E%EF%BC%8C%E9%80%8F%E6%98%8E%E5%8E%9A%E5%A3%81%E4%B8%8A%E5%AF%86%E5%B8%83%E7%BB%86%E5%B0%8F%E6%B8%85%E6%99%B0%E7%9A%84%E5%86%B7%E5%87%9D%E6%B0%B4%E7%8F%A0%EF%BC%8C%E5%BC%BA%E8%83%8C%E5%85%89%E4%B8%8B%E6%8A%98%E5%B0%84%E5%87%BA%E9%94%90%E5%88%A9%E9%AB%98%E5%85%89%EF%BC%8C%E8%B4%A8%E6%84%9F%E5%86%B0%E5%86%B7%E8%AF%B1%E4%BA%BA%E3%80%82%E5%9C%BA%E6%99%AF%E6%98%AF%E6%8A%BD%E8%B1%A1%E7%9A%84%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%86%B0%E5%9F%9F%E7%A9%BA%E9%97%B4%EF%BC%9A%E5%A4%9A%E9%9D%A2%E4%BD%93%E5%86%B0%E6%99%B6%E4%B8%8E%E9%94%8B%E5%88%A9%E7%A2%8E%E5%86%B0%E6%BC%82%E6%B5%AE%E4%BA%8E%E5%89%8D%E5%90%8E%E6%99%AF%EF%BC%8C%E8%BE%B9%E7%BC%98%E6%B3%9B%E5%86%B7%E8%93%9D%E5%85%89%E6%B3%BD%EF%BC%8C%E7%A9%BA%E9%97%B4%E5%B1%82%E6%AC%A1%E6%B7%B1%E8%BF%9C%E3%80%82%E7%93%B6%E5%86%85%E6%B7%B1%E7%84%A6%E7%B3%96%E8%89%B2%E6%B1%BD%E6%B0%B4%E5%89%A7%E7%83%88%E7%BF%BB%E6%B6%8C%E6%88%90%E6%BC%A9%E6%B6%A1%EF%BC%8C%E8%87%AA%E7%93%B6%E5%8F%A3%E8%BF%B8%E5%8F%91%EF%BC%8C%E4%B8%8E%E7%BB%86%E5%AF%86%E6%B0%94%E6%B3%A1%E3%80%81%E9%A3%9E%E6%95%A3%E5%86%B0%E5%B1%91%E4%BA%A4%E7%BB%87%EF%BC%8C%E5%8A%A8%E5%8A%BF%E5%BC%A0%E5%8A%9B%E5%8D%81%E8%B6%B3%EF%BC%9B%E5%91%A8%E5%9B%B4%E7%82%B9%E7%BC%80%E6%95%B0%E6%9E%9A%E7%BA%A2%E8%89%B2%E9%87%91%E5%B1%9E%E7%90%83%EF%BC%8C%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84%E5%87%BA%E7%93%B6%E8%BA%AB%E4%B8%8E%E5%85%89%E6%9D%9F%E7%9A%84%E6%89%AD%E6%9B%B2%E5%80%92%E5%BD%B1%EF%BC%9B%E5%86%B7%E9%9B%BE%E8%87%AA%E7%93%B6%E5%8F%A3%E5%8D%87%E8%85%BE%E3%80%82%E9%AB%98%E9%80%9F%E7%8E%AF%E7%BB%95%E6%9C%BA%E4%BD%8D%E5%B8%A6%E6%9D%A5%E6%99%AF%E6%B7%B1%E5%8F%98%E5%8C%96%E4%B8%8E%E5%8A%A8%E6%84%9F%E6%A8%A1%E7%B3%8A%EF%BC%8C%E5%BC%BA%E8%83%8C%E5%85%89%E5%9C%A8%E6%9A%97%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%88%87%E5%87%BA%E4%BD%93%E7%A7%AF%E5%85%89%E6%9D%9F%EF%BC%9B%E9%AB%98%E5%AF%B9%E6%AF%94%E7%BA%A2%E9%87%91%E4%B8%BB%E8%B0%83%EF%BC%8C%E5%86%B7%E5%86%BD%E9%94%8B%E5%88%A9%E7%9A%84%208K%20%E7%BA%A7%E5%95%86%E4%B8%9A%20CG%20%E8%B4%A8%E6%84%9F%E3%80%82&utm_source=github&utm_content=soda-bottle-zero-g&utm_campaign=awesome-glm-image-prompts)
+
+[⬆ Back to top](#目录)
+
+---
+
+## 4. 极简室内·桌与干花
+
+产品与静物 · `3:4` · `minimal-interior-vase`
+
+<p align="center"><a href="https://gmimage.app/general/image-generation?prompt=%E6%9E%81%E7%AE%80%E9%A3%8E%E6%A0%BC%E5%AE%A4%E5%86%85%E5%9C%BA%E6%99%AF%EF%BC%9A%E7%A9%BA%E9%97%B4%E5%BC%80%E9%98%94%E3%80%81%E5%B8%83%E5%B1%80%E7%AE%80%E6%B4%81%EF%BC%8C%E6%B0%9B%E5%9B%B4%E5%AE%81%E9%9D%99%E8%88%92%E9%80%82%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%BC%A0%E6%B7%B1%E8%89%B2%E6%9C%A8%E8%B4%A8%E9%A4%90%E6%A1%8C%EF%BC%8C%E6%A1%8C%E9%9D%A2%E5%85%89%E6%BB%91%E7%BB%86%E8%85%BB%E3%80%81%E6%9C%A8%E7%BA%B9%E6%B8%85%E6%99%B0%EF%BC%8C%E6%95%A3%E5%8F%91%E8%87%AA%E7%84%B6%E6%B8%A9%E6%9A%96%E8%B4%A8%E6%84%9F%EF%BC%9B%E6%A1%8C%E4%B8%8A%E7%BD%AE%E4%B8%80%E5%8F%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%99%BD%E8%89%B2%E9%99%B6%E7%93%B7%E8%8A%B1%E7%93%B6%EF%BC%8C%E7%93%B6%E8%BA%AB%E5%85%89%E6%B4%81%E3%80%81%E7%BA%BF%E6%9D%A1%E5%88%A9%E8%90%BD%EF%BC%8C%E7%93%B6%E4%B8%AD%E5%87%A0%E6%94%AF%E5%B9%B2%E8%8A%B1%EF%BC%8C%E8%8A%B1%E7%93%A3%E5%BE%AE%E5%BE%AE%E8%9C%B7%E6%9B%B2%EF%BC%8C%E6%B2%89%E6%B7%80%E7%9D%80%E5%B2%81%E6%9C%88%E7%9A%84%E7%BE%8E%E6%84%9F%E3%80%82%E8%87%AA%E7%84%B6%E5%85%89%E8%87%AA%E7%AA%97%E5%A4%96%E6%B4%92%E5%85%A5%EF%BC%8C%E6%9F%94%E5%92%8C%E5%9D%87%E5%8C%80%EF%BC%8C%E4%B8%BA%E7%A9%BA%E9%97%B4%E6%B7%BB%E4%B8%80%E5%B1%82%E9%80%9A%E9%80%8F%E4%B8%8E%E5%AE%81%E9%9D%99%EF%BC%9B%E5%A2%99%E9%9D%A2%E8%A2%AB%E6%8A%95%E4%B8%8B%E6%9F%94%E5%92%8C%E7%9A%84%E7%9F%A9%E5%BD%A2%E5%85%89%E5%BD%B1%EF%BC%8C%E4%B8%8E%E6%B5%85%E8%89%B2%E5%A2%99%E9%9D%A2%E5%BD%A2%E6%88%90%E5%92%8C%E8%B0%90%E5%AF%B9%E6%AF%94%EF%BC%9B%E5%A2%99%E4%B8%8A%E9%9A%90%E7%BA%A6%E5%8F%AF%E8%A7%81%E6%A4%8D%E7%89%A9%E5%89%AA%E5%BD%B1%EF%BC%8C%E7%89%B5%E8%B5%B7%E5%AE%A4%E5%86%85%E5%A4%96%E7%9A%84%E8%87%AA%E7%84%B6%E8%81%94%E7%B3%BB%E3%80%82%E4%B8%AD%E6%80%A7%E8%89%B2%E4%B8%BB%E8%B0%83%EF%BC%8C%E6%B7%B1%E8%89%B2%E5%AE%B6%E5%85%B7%E4%B8%8E%E6%B5%85%E8%89%B2%E5%A2%99%E9%9D%A2%E5%AF%B9%E6%AF%94%EF%BC%8C%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%EF%BC%8C%E4%BD%8E%E8%B0%83%E8%80%8C%E9%AB%98%E7%BA%A7%E3%80%82&amp;utm_source=github&amp;utm_content=minimal-interior-vase&amp;utm_campaign=awesome-glm-image-prompts"><img src="images/product-still/minimal-interior-vase.webp" alt="极简室内·桌与干花" width="640" /></a></p>
+
+```text
+极简风格室内场景：空间开阔、布局简洁，氛围宁静舒适。画面中央一张深色木质餐桌，桌面光滑细腻、木纹清晰，散发自然温暖质感；桌上置一只优雅的白色陶瓷花瓶，瓶身光洁、线条利落，瓶中几支干花，花瓣微微蜷曲，沉淀着岁月的美感。自然光自窗外洒入，柔和均匀，为空间添一层通透与宁静；墙面被投下柔和的矩形光影，与浅色墙面形成和谐对比；墙上隐约可见植物剪影，牵起室内外的自然联系。中性色主调，深色家具与浅色墙面对比，现代极简主义，低调而高级。
+```
+
+**英文版 · English**
+
+```text
+A minimalist interior: open, uncluttered, quietly comfortable. Center frame, a dark wood dining table — its top smooth and fine-grained, warm with natural texture; upon it an elegant white ceramic vase, glossy and clean-lined, holding a few dried flowers whose petals curl faintly with time. Daylight leans in through the window, soft and even, lending the room translucence and calm; a gentle rectangular shadow rests on the pale wall in harmonious contrast, a ghost of foliage hinted above it. Neutral palette, dark furniture against light walls — modern minimalism, understated and premium.
+```
+
+🎨 [用这个提示词一键生成 →](https://gmimage.app/general/image-generation?prompt=%E6%9E%81%E7%AE%80%E9%A3%8E%E6%A0%BC%E5%AE%A4%E5%86%85%E5%9C%BA%E6%99%AF%EF%BC%9A%E7%A9%BA%E9%97%B4%E5%BC%80%E9%98%94%E3%80%81%E5%B8%83%E5%B1%80%E7%AE%80%E6%B4%81%EF%BC%8C%E6%B0%9B%E5%9B%B4%E5%AE%81%E9%9D%99%E8%88%92%E9%80%82%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%BC%A0%E6%B7%B1%E8%89%B2%E6%9C%A8%E8%B4%A8%E9%A4%90%E6%A1%8C%EF%BC%8C%E6%A1%8C%E9%9D%A2%E5%85%89%E6%BB%91%E7%BB%86%E8%85%BB%E3%80%81%E6%9C%A8%E7%BA%B9%E6%B8%85%E6%99%B0%EF%BC%8C%E6%95%A3%E5%8F%91%E8%87%AA%E7%84%B6%E6%B8%A9%E6%9A%96%E8%B4%A8%E6%84%9F%EF%BC%9B%E6%A1%8C%E4%B8%8A%E7%BD%AE%E4%B8%80%E5%8F%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%99%BD%E8%89%B2%E9%99%B6%E7%93%B7%E8%8A%B1%E7%93%B6%EF%BC%8C%E7%93%B6%E8%BA%AB%E5%85%89%E6%B4%81%E3%80%81%E7%BA%BF%E6%9D%A1%E5%88%A9%E8%90%BD%EF%BC%8C%E7%93%B6%E4%B8%AD%E5%87%A0%E6%94%AF%E5%B9%B2%E8%8A%B1%EF%BC%8C%E8%8A%B1%E7%93%A3%E5%BE%AE%E5%BE%AE%E8%9C%B7%E6%9B%B2%EF%BC%8C%E6%B2%89%E6%B7%80%E7%9D%80%E5%B2%81%E6%9C%88%E7%9A%84%E7%BE%8E%E6%84%9F%E3%80%82%E8%87%AA%E7%84%B6%E5%85%89%E8%87%AA%E7%AA%97%E5%A4%96%E6%B4%92%E5%85%A5%EF%BC%8C%E6%9F%94%E5%92%8C%E5%9D%87%E5%8C%80%EF%BC%8C%E4%B8%BA%E7%A9%BA%E9%97%B4%E6%B7%BB%E4%B8%80%E5%B1%82%E9%80%9A%E9%80%8F%E4%B8%8E%E5%AE%81%E9%9D%99%EF%BC%9B%E5%A2%99%E9%9D%A2%E8%A2%AB%E6%8A%95%E4%B8%8B%E6%9F%94%E5%92%8C%E7%9A%84%E7%9F%A9%E5%BD%A2%E5%85%89%E5%BD%B1%EF%BC%8C%E4%B8%8E%E6%B5%85%E8%89%B2%E5%A2%99%E9%9D%A2%E5%BD%A2%E6%88%90%E5%92%8C%E8%B0%90%E5%AF%B9%E6%AF%94%EF%BC%9B%E5%A2%99%E4%B8%8A%E9%9A%90%E7%BA%A6%E5%8F%AF%E8%A7%81%E6%A4%8D%E7%89%A9%E5%89%AA%E5%BD%B1%EF%BC%8C%E7%89%B5%E8%B5%B7%E5%AE%A4%E5%86%85%E5%A4%96%E7%9A%84%E8%87%AA%E7%84%B6%E8%81%94%E7%B3%BB%E3%80%82%E4%B8%AD%E6%80%A7%E8%89%B2%E4%B8%BB%E8%B0%83%EF%BC%8C%E6%B7%B1%E8%89%B2%E5%AE%B6%E5%85%B7%E4%B8%8E%E6%B5%85%E8%89%B2%E5%A2%99%E9%9D%A2%E5%AF%B9%E6%AF%94%EF%BC%8C%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%EF%BC%8C%E4%BD%8E%E8%B0%83%E8%80%8C%E9%AB%98%E7%BA%A7%E3%80%82&utm_source=github&utm_content=minimal-interior-vase&utm_campaign=awesome-glm-image-prompts)
 
 [⬆ Back to top](#目录)
 
