@@ -52,11 +52,17 @@ const title = (p, lang) => (lang === 'zh' ? p.title_zh : p.title_en);
 
 function grid(entries, columns, lang) {
   const rows = [];
+  // Grid cells prefer the square crop (images/grid/<id>.webp) so mixed native
+  // aspect ratios render as an even table; category pages keep full images.
+  const gridSrc = (p) =>
+    fs.existsSync(path.join(repoDir, 'images', 'grid', `${p.id}.webp`))
+      ? `images/grid/${p.id}.webp`
+      : p.image;
   for (let i = 0; i < entries.length; i += columns) {
     const cells = entries.slice(i, i + columns).map((p) =>
-      `<td align="center" width="${Math.floor(600 / columns)}">
+      `<td align="center" valign="top" width="${Math.floor(600 / columns)}">
   <a href="${escAttr(cta(p))}" title="${escAttr(title(p, lang))}">
-    <img src="${escAttr(p.image)}" alt="${escAttr(title(p, lang))}" width="${Math.floor(560 / columns)}" />
+    <img src="${escAttr(gridSrc(p))}" alt="${escAttr(title(p, lang))}" width="${Math.floor(560 / columns)}" />
   </a>
   <br /><sub><b>${escAttr(title(p, lang))}</b></sub>
 </td>`
