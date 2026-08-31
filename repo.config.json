@@ -4,20 +4,20 @@
  "org": "GLMImage",
  "tagline_en": "A curated library of long-form prompts for GLM-Image — bilingual, with preview images and one-click generation.",
  "tagline_zh": "为 GLM-Image 精心整理的长文提示词库 —— 中英双语、配示例图、一键生成。",
- "site": "https://gmimage.app",
- "site_host": "gmimage.app",
+ "site": "https://glmimage.app",
+ "site_host": "glmimage.app",
  "model": {
   "name": "GLM-Image",
   "vendor": "Zhipu AI (Z.ai)"
  },
- "ctaBase": "https://gmimage.app/general/image-generation",
+ "ctaBase": "https://glmimage.app/general/image-generation",
  "utm": {
   "source": "github",
   "campaign": "awesome-glm-image-prompts"
  },
  "about": {
-  "description": "59 curated GLM-Image prompts — bilingual long-form prompts with preview images, one-click generation at gmimage.app",
-  "website": "https://gmimage.app",
+  "description": "59 curated GLM-Image prompts — bilingual long-form prompts with preview images, one-click generation at glmimage.app",
+  "website": "https://glmimage.app",
   "topics": [
    "prompts",
    "ai-prompts",
