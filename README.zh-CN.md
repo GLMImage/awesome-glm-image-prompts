@@ -118,6 +118,6 @@ English | **简体中文**
 
 <div align="center">
 
-<sub>由 [gmimage.app](https://gmimage.app) · 更多模型提示词库即将上线</sub>
+<sub>由 [gmimage.app](https://gmimage.app) · [ERNIE Image Prompts](https://github.com/GLMImage/awesome-ernie-image-prompts)</sub>
 
 </div>

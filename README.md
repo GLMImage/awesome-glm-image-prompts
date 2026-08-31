@@ -118,6 +118,6 @@ Prompts and preview images are licensed [CC BY 4.0](LICENSE). Preview images are
 
 <div align="center">
 
-<sub>Curated by [gmimage.app](https://gmimage.app) · More prompt libraries coming soon</sub>
+<sub>Curated by [gmimage.app](https://gmimage.app) · [ERNIE Image Prompts](https://github.com/GLMImage/awesome-ernie-image-prompts)</sub>
 
 </div>

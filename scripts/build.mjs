@@ -85,6 +85,11 @@ function promptSection(p, index, lang) {
   const enBlock = p.prompt_en
     ? `${lang === 'zh' ? '**英文版 · English**' : '**English version**'}\n\n${fence(p.prompt_en)}\n\n`
     : '';
+  const creditBlock = p.credit?.url
+    ? `${lang === 'zh'
+        ? `👤 来源：[@${p.credit.author}](${p.credit.url}) · 由原作者公开发布`
+        : `👤 Credit: [@${p.credit.author}](${p.credit.url}) · shared publicly by the original author`}\n\n`
+    : '';
   return `## ${index}. ${title(p, lang)}
 
 ${catLabel} · \`${p.aspectRatio || '1:1'}\` · \`${p.id}\`
@@ -93,7 +98,7 @@ ${img}
 
 ${fence(p.prompt)}
 
-${enBlock}${tryIt}
+${enBlock}${creditBlock}${tryIt}
 
 [⬆ Back to top](#${lang === 'zh' ? '目录' : 'categories'})
 `;
@@ -165,7 +170,7 @@ ${L(
 
 <div align="center">
 
-<sub>${L('Curated by', '由')} [${cfg.site_host}](${cfg.site}) ${L('· More prompt libraries coming soon', '· 更多模型提示词库即将上线')}</sub>
+<sub>${L('Curated by', '由')} [${cfg.site_host}](${cfg.site})${cfg.siblings?.length ? ' · ' + cfg.siblings.map((s) => `[${s.label}](${s.url})`).join(' · ') : ''}</sub>
 
 </div>
 `;
