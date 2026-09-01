@@ -69,7 +69,27 @@ function grid(entries, columns, lang) {
     );
     rows.push('<tr>\n' + cells.join('\n') + '\n</tr>');
   }
-  return `<table>\n${rows.join('\n')}\n</table>`;
+  return `<table align="center">\n${rows.join('\n')}\n</table>`;
+}
+
+function categoriesTable(lang) {
+  const zh = lang === 'zh';
+  const rows = [];
+  for (const c of cfg.categories) {
+    const list = prompts.filter((p) => p.category === c.id);
+    if (!list.length) continue;
+    const thumb = fs.existsSync(path.join(repoDir, 'images', 'grid', `${list[0].id}.webp`))
+      ? `images/grid/${list[0].id}.webp`
+      : list[0].image;
+    rows.push(`<tr>
+<td align="center" width="84"><a href="docs/categories/${c.id}.md"><img src="${escAttr(thumb)}" alt="${escAttr(c.label_en)}" width="72" /></a></td>
+<td><a href="docs/categories/${c.id}.md"><b>${c.icon} ${escAttr(zh ? c.label_zh : c.label_en)}</b></a><br /><sub>${zh ? c.label_en : c.label_zh}</sub></td>
+<td><sub>${escAttr(zh ? c.desc_zh : c.desc_en)}</sub></td>
+<td align="center"><a href="docs/categories/${c.id}.md"><b>${list.length}</b></a></td>
+</tr>`);
+  }
+  const head = zh ? '预览' : 'Preview', cat = zh ? '分类' : 'Category', desc = zh ? '说明' : 'Description', num = zh ? '条数' : 'Prompts';
+  return `<table align="center">\n<tr><th width="84">${head}</th><th align="left">${cat}</th><th align="left">${desc}</th><th>${num}</th></tr>\n${rows.join('\n')}\n</table>`;
 }
 
 function promptSection(p, index, lang) {
@@ -113,62 +133,74 @@ function readme(lang) {
     : withImage
   ).slice(0, cfg.grid.featured);
 
-  const catRows = cfg.categories
-    .map((c) => {
-      const n = prompts.filter((p) => p.category === c.id).length;
-      if (!n) return null;
-      return `| ${c.icon} | ${zh ? c.label_zh : c.label_en} | ${zh ? c.desc_zh : c.desc_en} | ${n} | [${L('Open', '查看')}](docs/categories/${c.id}.md) |`;
-    })
-    .filter(Boolean)
-    .join('\n');
+  const hasBanner = fs.existsSync(path.join(repoDir, 'images', 'banner.webp'));
+  const badgeBase = `https://img.shields.io/badge`;
+  const badges = [
+    `![Prompts](${badgeBase}/prompts-${prompts.length}-blue)`,
+    `![Images](${badgeBase}/preview%20images-${withImage.length}-green)`,
+    `[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)`,
+    `[![GitHub Stars](https://img.shields.io/github/stars/${cfg.org}/${cfg.repo}?style=flat&color=yellow)](https://github.com/${cfg.org}/${cfg.repo}/stargazers)`,
+    `[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)`,
+  ].join('\n');
 
-  return `<div align="center">
+  const ctaButtons = [
+    `[${L('🎨 Generate at ' + cfg.site_host, '🎨 去 ' + cfg.site_host + ' 生成')}](${cfg.site})`,
+    ...(cfg.siblings || []).map((s) => `[${s.label}](${s.url})`),
+  ].join(' · ');
+
+  return `${hasBanner ? `<img src="images/banner.webp" alt="${escAttr(cfg.repo_badge_name || cfg.repo)}" width="896" />\n\n` : ''}<div align="center">
 
 # ${cfg.repo_badge_name || cfg.repo}
 
 **${zh ? cfg.tagline_zh : cfg.tagline_en}**
 
-${prompts.length} ${L('prompts', '条提示词')} · ${withImage.length} ${L('preview images', '张示例图')} · ${L('one-click generation', '一键生成')}
+${badges}
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-${zh ? `English | **简体中文**` : `**English** | [简体中文](README.zh-CN.md)`}
+${zh ? `[**English**](README.md) | 简体中文` : `English | [**简体中文**](README.zh-CN.md)`}
 
-**[${L('🎨 Generate images at ' + cfg.site_host, '🎨 到 ' + cfg.site_host + ' 一键生成图片')}](${cfg.site})**
+**${ctaButtons}**
 
 </div>
 
 ---
 
-## ${L('Featured', '精选')}
+## ${L('✨ Featured', '✨ 精选')}
 
-${L('Click any image to open the generator with the prompt pre-filled.', '点击任意图片即可打开生成器，提示词已自动填好。')}
+<div align="center"><sub>${L('Click any image to open the generator with the prompt pre-filled.', '点击任意图片即可打开生成器，提示词已自动填好。')}</sub></div>
+
+<br />
 
 ${grid(featured, cfg.grid.columns, lang)}
 
-## ${L('Categories', '分类目录')}
+<br />
 
-| | ${L('Category', '分类')} | ${L('Description', '说明')} | ${L('Prompts', '数量')} | |
-|---|---|---|---|---|
-${catRows}
+## ${L('📚 Categories', '📚 分类目录')}
 
-## ${L('How to use', '使用方法')}
+${categoriesTable(lang)}
+
+<br />
+
+## ${L('🚀 How to use', '🚀 使用方法')}
 
 1. ${L('Browse a category above and copy any prompt.', '在上方分类中浏览并复制任意提示词。')}
 2. ${L('Or simply click a preview image — it opens ' + cfg.site_host + ' with that prompt already in the input box.', '或者直接点击示例图——会在 ' + cfg.site_host + ' 打开并自动填入该提示词。')}
 3. ${L('Tweak wording, aspect ratio or style to make it yours.', '按需修改措辞、比例或风格，变成你自己的版本。')}
 
-## ${L('Contributing', '参与贡献')}
+## ${L('🤝 Contributing', '🤝 参与贡献')}
 
 ${L('New prompts are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).', '欢迎投稿新提示词！见 [CONTRIBUTING.md](CONTRIBUTING.md)。')}
 
-## ${L('License & attribution', '许可与署名')}
+## ${L('📄 License & attribution', '📄 许可与署名')}
 
 ${L(
   'Prompts and preview images are licensed [CC BY 4.0](LICENSE). Preview images are AI-generated. This is an independent community curation — not affiliated with or endorsed by ' + cfg.model.vendor + '. See [NOTICE.md](NOTICE.md).',
   '提示词与示例图采用 [CC BY 4.0](LICENSE) 许可。示例图均为 AI 生成。本仓库为独立社区策展，与 ' + cfg.model.vendor + ' 无官方关联，详见 [NOTICE.md](NOTICE.md)。')}
 
+---
+
 <div align="center">
+
+${L('⭐ Star this repo if it helps you', '⭐ 觉得有用就点个 Star 吧')}
 
 <sub>${L('Curated by', '由')} [${cfg.site_host}](${cfg.site})${cfg.siblings?.length ? ' · ' + cfg.siblings.map((s) => `[${s.label}](${s.url})`).join(' · ') : ''}</sub>
 

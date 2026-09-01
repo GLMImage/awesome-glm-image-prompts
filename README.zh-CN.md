@@ -1,26 +1,32 @@
+<img src="images/banner.webp" alt="Awesome GLM-Image Prompts" width="896" />
+
 <div align="center">
 
 # Awesome GLM-Image Prompts
 
 **为 GLM-Image 精心整理的长文提示词库 —— 中英双语、配示例图、一键生成。**
 
-59 条提示词 · 59 张示例图 · 一键生成
-
+![Prompts](https://img.shields.io/badge/prompts-59-blue)
+![Images](https://img.shields.io/badge/preview%20images-59-green)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/GLMImage/awesome-glm-image-prompts?style=flat&color=yellow)](https://github.com/GLMImage/awesome-glm-image-prompts/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-English | **简体中文**
 
-**[🎨 到 glmimage.app 一键生成图片](https://glmimage.app)**
+[**English**](README.md) | 简体中文
+
+**[🎨 去 glmimage.app 生成](https://glmimage.app) · [ERNIE Image Prompts](https://github.com/GLMImage/awesome-ernie-image-prompts)**
 
 </div>
 
 ---
 
-## 精选
+## ✨ 精选
 
-点击任意图片即可打开生成器，提示词已自动填好。
+<div align="center"><sub>点击任意图片即可打开生成器，提示词已自动填好。</sub></div>
 
-<table>
+<br />
+
+<table align="center">
 <tr>
 <td align="center" valign="top" width="200">
   <a href="https://glmimage.app/general/image-generation?prompt=%E5%AE%A4%E5%86%85%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1%EF%BC%9A%E4%B8%80%E4%BD%8D%E4%BA%8C%E5%8D%81%E4%BA%94%E5%85%AD%E5%B2%81%E7%9A%84%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7%EF%BC%8C%E8%BA%AB%E7%9D%80%E7%B4%A0%E8%89%B2%E8%BD%BB%E8%96%84%E8%A1%A3%E8%A1%AB%EF%BC%8C%E9%95%BF%E5%8F%91%E8%A2%AB%E7%A9%BF%E5%A0%82%E9%A3%8E%E8%BD%BB%E8%BD%BB%E6%89%AC%E8%B5%B7%E3%80%82%E5%A5%B9%E5%BE%AE%E5%BE%AE%E4%BE%A7%E8%BA%AB%E3%80%81%E7%9B%AE%E5%85%89%E5%AE%89%E9%9D%99%E5%9C%B0%E6%9C%9B%E5%90%91%E9%95%9C%E5%A4%B4%EF%BC%8C%E7%A5%9E%E6%83%85%E6%85%B5%E6%87%92%E8%80%8C%E6%B8%A9%E6%9F%94%E3%80%82%E5%8D%88%E5%90%8E%E9%98%B3%E5%85%89%E7%A9%BF%E8%BF%87%E7%AA%97%E5%A4%96%E6%91%87%E6%9B%B3%E7%9A%84%E6%9E%9D%E5%8F%B6%EF%BC%8C%E5%9C%A8%E8%84%B8%E9%A2%8A%E4%B8%8E%E8%82%A9%E5%A4%B4%E6%8A%95%E4%B8%8B%E6%96%91%E9%A9%B3%E6%A0%91%E5%BD%B1%EF%BC%8C%E5%BD%A2%E6%88%90%E6%9F%94%E5%92%8C%E7%9A%84%E8%BD%AE%E5%BB%93%E5%85%89%E3%80%82%E8%82%A4%E8%B4%A8%E6%B8%85%E9%80%8F%E7%BB%86%E8%85%BB%EF%BC%8C%E9%AB%98%E5%85%89%E4%B8%8E%E6%9A%97%E9%83%A8%E7%9A%84%E5%BC%BA%E5%AF%B9%E6%AF%94%E4%B8%AD%E4%BF%9D%E7%95%99%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B8%AD%E7%94%BB%E5%B9%85%E8%83%B6%E7%89%87%E9%A2%97%E7%B2%92%E6%84%9F%E3%80%82%E8%83%8C%E6%99%AF%E4%B8%BA%E7%AE%80%E6%B4%81%E5%AE%A4%E5%86%85%EF%BC%8C%E8%BA%AB%E5%90%8E%E5%9E%82%E8%90%BD%E4%B8%80%E5%B1%82%E8%96%84%E7%BA%B1%EF%BC%8C%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E6%9C%A6%E8%83%A7%E8%AF%97%E6%84%8F%EF%BC%8C%E5%A6%82%E5%93%88%E8%8B%8F%E7%9B%B8%E6%9C%BA%E5%87%BA%E7%89%87%E8%B4%A8%E6%84%9F%E3%80%82&amp;utm_source=github&amp;utm_content=window-light-film-portrait&amp;utm_campaign=awesome-glm-image-prompts" title="窗影胶片人像">
@@ -83,40 +89,119 @@ English | **简体中文**
 </tr>
 </table>
 
-## 分类目录
+<br />
 
-| | 分类 | 说明 | 数量 | |
-|---|---|---|---|---|
-| 📚 | 教育知识卡片 | 面向课堂与儿童的知识卡片、科普挂图。 | 9 | [查看](docs/categories/education-cards.md) |
-| 🧭 | 步骤教程信息图 | 分步教程长图、流程说明与食谱卡。 | 3 | [查看](docs/categories/tutorial-infographics.md) |
-| 📸 | 人像摄影 | 电影感、杂志感与生活感人像。 | 10 | [查看](docs/categories/portrait.md) |
-| 📦 | 产品与静物 | 商业产品图、静物与室内空间。 | 4 | [查看](docs/categories/product-still.md) |
-| 🎌 | 动漫插画 | 生活系与叙事系动漫插画。 | 2 | [查看](docs/categories/anime-illustration.md) |
-| 🖼️ | 海报与文字排版 | 海报设计与精准文字排版。 | 5 | [查看](docs/categories/poster-typography.md) |
-| 👗 | 时尚与穿搭 | 奢华海报、创意广告与穿搭拼贴。 | 5 | [查看](docs/categories/fashion-editorial.md) |
-| 🐾 | 宠物与动物 | 治愈系宠物与动物场景。 | 2 | [查看](docs/categories/pets-animals.md) |
-| 🕹️ | 像素与复古 | 8-bit 像素风与复古游戏质感。 | 1 | [查看](docs/categories/pixel-retro.md) |
-| 🧙 | 奇幻与概念 | 史诗奇幻世界与概念设计。 | 2 | [查看](docs/categories/fantasy-concept.md) |
-| 🍽️ | 美食 | 美食大片与烹饪场景。 | 2 | [查看](docs/categories/food.md) |
-| 🏮 | 国风美学 | 汉服人像、水墨山水与古典意境。 | 4 | [查看](docs/categories/chinese-aesthetic.md) |
-| 🏞️ | 风光与旅行 | 城市风光、水乡古镇与自然静谧。 | 7 | [查看](docs/categories/landscape-travel.md) |
-| 🧊 | 等距 3D 微缩 | Q 版微缩场景与等距 3D 世界。 | 3 | [查看](docs/categories/isometric-3d.md) |
+## 📚 分类目录
 
-## 使用方法
+<table align="center">
+<tr><th width="84">预览</th><th align="left">分类</th><th align="left">说明</th><th>条数</th></tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/education-cards.md"><img src="images/grid/tnr-cat-care-card.webp" alt="Educational Cards" width="72" /></a></td>
+<td><a href="docs/categories/education-cards.md"><b>📚 教育知识卡片</b></a><br /><sub>Educational Cards</sub></td>
+<td><sub>面向课堂与儿童的知识卡片、科普挂图。</sub></td>
+<td align="center"><a href="docs/categories/education-cards.md"><b>9</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/tutorial-infographics.md"><img src="images/grid/mooncake-steps-journal.webp" alt="Tutorial Infographics" width="72" /></a></td>
+<td><a href="docs/categories/tutorial-infographics.md"><b>🧭 步骤教程信息图</b></a><br /><sub>Tutorial Infographics</sub></td>
+<td><sub>分步教程长图、流程说明与食谱卡。</sub></td>
+<td align="center"><a href="docs/categories/tutorial-infographics.md"><b>3</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/portrait.md"><img src="images/grid/window-light-film-portrait.webp" alt="Portrait" width="72" /></a></td>
+<td><a href="docs/categories/portrait.md"><b>📸 人像摄影</b></a><br /><sub>Portrait</sub></td>
+<td><sub>电影感、杂志感与生活感人像。</sub></td>
+<td align="center"><a href="docs/categories/portrait.md"><b>10</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/product-still.md"><img src="images/grid/velvet-letter-cube.webp" alt="Product &amp; Still Life" width="72" /></a></td>
+<td><a href="docs/categories/product-still.md"><b>📦 产品与静物</b></a><br /><sub>Product & Still Life</sub></td>
+<td><sub>商业产品图、静物与室内空间。</sub></td>
+<td align="center"><a href="docs/categories/product-still.md"><b>4</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/anime-illustration.md"><img src="images/grid/rainy-store-giraffe.webp" alt="Anime &amp; Manga" width="72" /></a></td>
+<td><a href="docs/categories/anime-illustration.md"><b>🎌 动漫插画</b></a><br /><sub>Anime & Manga</sub></td>
+<td><sub>生活系与叙事系动漫插画。</sub></td>
+<td align="center"><a href="docs/categories/anime-illustration.md"><b>2</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/poster-typography.md"><img src="images/grid/bilingual-summit-poster.webp" alt="Poster &amp; Typography" width="72" /></a></td>
+<td><a href="docs/categories/poster-typography.md"><b>🖼️ 海报与文字排版</b></a><br /><sub>Poster & Typography</sub></td>
+<td><sub>海报设计与精准文字排版。</sub></td>
+<td align="center"><a href="docs/categories/poster-typography.md"><b>5</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/fashion-editorial.md"><img src="images/grid/orchid-luxury-poster.webp" alt="Fashion Editorial" width="72" /></a></td>
+<td><a href="docs/categories/fashion-editorial.md"><b>👗 时尚与穿搭</b></a><br /><sub>Fashion Editorial</sub></td>
+<td><sub>奢华海报、创意广告与穿搭拼贴。</sub></td>
+<td align="center"><a href="docs/categories/fashion-editorial.md"><b>5</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/pets-animals.md"><img src="images/grid/golden-retriever-shoulder.webp" alt="Pets &amp; Animals" width="72" /></a></td>
+<td><a href="docs/categories/pets-animals.md"><b>🐾 宠物与动物</b></a><br /><sub>Pets & Animals</sub></td>
+<td><sub>治愈系宠物与动物场景。</sub></td>
+<td align="center"><a href="docs/categories/pets-animals.md"><b>2</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/pixel-retro.md"><img src="images/grid/pixel-wizard-fire.webp" alt="Pixel &amp; Retro" width="72" /></a></td>
+<td><a href="docs/categories/pixel-retro.md"><b>🕹️ 像素与复古</b></a><br /><sub>Pixel & Retro</sub></td>
+<td><sub>8-bit 像素风与复古游戏质感。</sub></td>
+<td align="center"><a href="docs/categories/pixel-retro.md"><b>1</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/fantasy-concept.md"><img src="images/grid/floating-isles-sunset.webp" alt="Fantasy &amp; Concept" width="72" /></a></td>
+<td><a href="docs/categories/fantasy-concept.md"><b>🧙 奇幻与概念</b></a><br /><sub>Fantasy & Concept</sub></td>
+<td><sub>史诗奇幻世界与概念设计。</sub></td>
+<td align="center"><a href="docs/categories/fantasy-concept.md"><b>2</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/food.md"><img src="images/grid/artisan-pizza-oven.webp" alt="Food" width="72" /></a></td>
+<td><a href="docs/categories/food.md"><b>🍽️ 美食</b></a><br /><sub>Food</sub></td>
+<td><sub>美食大片与烹饪场景。</sub></td>
+<td align="center"><a href="docs/categories/food.md"><b>2</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/chinese-aesthetic.md"><img src="images/grid/ink-wash-river-poem.webp" alt="Chinese Aesthetics" width="72" /></a></td>
+<td><a href="docs/categories/chinese-aesthetic.md"><b>🏮 国风美学</b></a><br /><sub>Chinese Aesthetics</sub></td>
+<td><sub>汉服人像、水墨山水与古典意境。</sub></td>
+<td align="center"><a href="docs/categories/chinese-aesthetic.md"><b>4</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/landscape-travel.md"><img src="images/grid/watertown-misty-morning.webp" alt="Landscape &amp; Travel" width="72" /></a></td>
+<td><a href="docs/categories/landscape-travel.md"><b>🏞️ 风光与旅行</b></a><br /><sub>Landscape & Travel</sub></td>
+<td><sub>城市风光、水乡古镇与自然静谧。</sub></td>
+<td align="center"><a href="docs/categories/landscape-travel.md"><b>7</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/isometric-3d.md"><img src="images/grid/beijing-isometric-weather.webp" alt="Isometric 3D" width="72" /></a></td>
+<td><a href="docs/categories/isometric-3d.md"><b>🧊 等距 3D 微缩</b></a><br /><sub>Isometric 3D</sub></td>
+<td><sub>Q 版微缩场景与等距 3D 世界。</sub></td>
+<td align="center"><a href="docs/categories/isometric-3d.md"><b>3</b></a></td>
+</tr>
+</table>
+
+<br />
+
+## 🚀 使用方法
 
 1. 在上方分类中浏览并复制任意提示词。
 2. 或者直接点击示例图——会在 glmimage.app 打开并自动填入该提示词。
 3. 按需修改措辞、比例或风格，变成你自己的版本。
 
-## 参与贡献
+## 🤝 参与贡献
 
 欢迎投稿新提示词！见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-## 许可与署名
+## 📄 许可与署名
 
 提示词与示例图采用 [CC BY 4.0](LICENSE) 许可。示例图均为 AI 生成。本仓库为独立社区策展，与 Zhipu AI (Z.ai) 无官方关联，详见 [NOTICE.md](NOTICE.md)。
 
+---
+
 <div align="center">
+
+⭐ 觉得有用就点个 Star 吧
 
 <sub>由 [glmimage.app](https://glmimage.app) · [ERNIE Image Prompts](https://github.com/GLMImage/awesome-ernie-image-prompts)</sub>
 

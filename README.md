@@ -1,26 +1,32 @@
+<img src="images/banner.webp" alt="Awesome GLM-Image Prompts" width="896" />
+
 <div align="center">
 
 # Awesome GLM-Image Prompts
 
 **A curated library of long-form prompts for GLM-Image — bilingual, with preview images and one-click generation.**
 
-59 prompts · 59 preview images · one-click generation
-
+![Prompts](https://img.shields.io/badge/prompts-59-blue)
+![Images](https://img.shields.io/badge/preview%20images-59-green)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/GLMImage/awesome-glm-image-prompts?style=flat&color=yellow)](https://github.com/GLMImage/awesome-glm-image-prompts/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-**English** | [简体中文](README.zh-CN.md)
 
-**[🎨 Generate images at glmimage.app](https://glmimage.app)**
+English | [**简体中文**](README.zh-CN.md)
+
+**[🎨 Generate at glmimage.app](https://glmimage.app) · [ERNIE Image Prompts](https://github.com/GLMImage/awesome-ernie-image-prompts)**
 
 </div>
 
 ---
 
-## Featured
+## ✨ Featured
 
-Click any image to open the generator with the prompt pre-filled.
+<div align="center"><sub>Click any image to open the generator with the prompt pre-filled.</sub></div>
 
-<table>
+<br />
+
+<table align="center">
 <tr>
 <td align="center" valign="top" width="200">
   <a href="https://glmimage.app/general/image-generation?prompt=%E5%AE%A4%E5%86%85%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1%EF%BC%9A%E4%B8%80%E4%BD%8D%E4%BA%8C%E5%8D%81%E4%BA%94%E5%85%AD%E5%B2%81%E7%9A%84%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7%EF%BC%8C%E8%BA%AB%E7%9D%80%E7%B4%A0%E8%89%B2%E8%BD%BB%E8%96%84%E8%A1%A3%E8%A1%AB%EF%BC%8C%E9%95%BF%E5%8F%91%E8%A2%AB%E7%A9%BF%E5%A0%82%E9%A3%8E%E8%BD%BB%E8%BD%BB%E6%89%AC%E8%B5%B7%E3%80%82%E5%A5%B9%E5%BE%AE%E5%BE%AE%E4%BE%A7%E8%BA%AB%E3%80%81%E7%9B%AE%E5%85%89%E5%AE%89%E9%9D%99%E5%9C%B0%E6%9C%9B%E5%90%91%E9%95%9C%E5%A4%B4%EF%BC%8C%E7%A5%9E%E6%83%85%E6%85%B5%E6%87%92%E8%80%8C%E6%B8%A9%E6%9F%94%E3%80%82%E5%8D%88%E5%90%8E%E9%98%B3%E5%85%89%E7%A9%BF%E8%BF%87%E7%AA%97%E5%A4%96%E6%91%87%E6%9B%B3%E7%9A%84%E6%9E%9D%E5%8F%B6%EF%BC%8C%E5%9C%A8%E8%84%B8%E9%A2%8A%E4%B8%8E%E8%82%A9%E5%A4%B4%E6%8A%95%E4%B8%8B%E6%96%91%E9%A9%B3%E6%A0%91%E5%BD%B1%EF%BC%8C%E5%BD%A2%E6%88%90%E6%9F%94%E5%92%8C%E7%9A%84%E8%BD%AE%E5%BB%93%E5%85%89%E3%80%82%E8%82%A4%E8%B4%A8%E6%B8%85%E9%80%8F%E7%BB%86%E8%85%BB%EF%BC%8C%E9%AB%98%E5%85%89%E4%B8%8E%E6%9A%97%E9%83%A8%E7%9A%84%E5%BC%BA%E5%AF%B9%E6%AF%94%E4%B8%AD%E4%BF%9D%E7%95%99%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B8%AD%E7%94%BB%E5%B9%85%E8%83%B6%E7%89%87%E9%A2%97%E7%B2%92%E6%84%9F%E3%80%82%E8%83%8C%E6%99%AF%E4%B8%BA%E7%AE%80%E6%B4%81%E5%AE%A4%E5%86%85%EF%BC%8C%E8%BA%AB%E5%90%8E%E5%9E%82%E8%90%BD%E4%B8%80%E5%B1%82%E8%96%84%E7%BA%B1%EF%BC%8C%E6%95%B4%E4%BD%93%E6%B0%9B%E5%9B%B4%E6%9C%A6%E8%83%A7%E8%AF%97%E6%84%8F%EF%BC%8C%E5%A6%82%E5%93%88%E8%8B%8F%E7%9B%B8%E6%9C%BA%E5%87%BA%E7%89%87%E8%B4%A8%E6%84%9F%E3%80%82&amp;utm_source=github&amp;utm_content=window-light-film-portrait&amp;utm_campaign=awesome-glm-image-prompts" title="Window-Light Film Portrait">
@@ -83,40 +89,119 @@ Click any image to open the generator with the prompt pre-filled.
 </tr>
 </table>
 
-## Categories
+<br />
 
-| | Category | Description | Prompts | |
-|---|---|---|---|---|
-| 📚 | Educational Cards | Kid-friendly knowledge cards and classroom posters. | 9 | [Open](docs/categories/education-cards.md) |
-| 🧭 | Tutorial Infographics | Step-by-step how-to infographics and recipe cards. | 3 | [Open](docs/categories/tutorial-infographics.md) |
-| 📸 | Portrait | Cinematic, editorial and lifestyle portraits. | 10 | [Open](docs/categories/portrait.md) |
-| 📦 | Product & Still Life | Commercial product shots, still life and interiors. | 4 | [Open](docs/categories/product-still.md) |
-| 🎌 | Anime & Manga | Slice-of-life and narrative anime illustration. | 2 | [Open](docs/categories/anime-illustration.md) |
-| 🖼️ | Poster & Typography | Posters and layouts with crisp text rendering. | 5 | [Open](docs/categories/poster-typography.md) |
-| 👗 | Fashion Editorial | Luxury-flavored posters, ads and outfit collages. | 5 | [Open](docs/categories/fashion-editorial.md) |
-| 🐾 | Pets & Animals | Heartwarming pets and wildlife scenes. | 2 | [Open](docs/categories/pets-animals.md) |
-| 🕹️ | Pixel & Retro | 8-bit pixel art and retro game aesthetics. | 1 | [Open](docs/categories/pixel-retro.md) |
-| 🧙 | Fantasy & Concept | Epic fantasy worlds and concept art. | 2 | [Open](docs/categories/fantasy-concept.md) |
-| 🍽️ | Food | Editorial food photography and culinary scenes. | 2 | [Open](docs/categories/food.md) |
-| 🏮 | Chinese Aesthetics | Hanfu portraits, ink landscapes and classical mood. | 4 | [Open](docs/categories/chinese-aesthetic.md) |
-| 🏞️ | Landscape & Travel | Cityscapes, water towns and quiet nature. | 7 | [Open](docs/categories/landscape-travel.md) |
-| 🧊 | Isometric 3D | Cute miniature dioramas and isometric scenes. | 3 | [Open](docs/categories/isometric-3d.md) |
+## 📚 Categories
 
-## How to use
+<table align="center">
+<tr><th width="84">Preview</th><th align="left">Category</th><th align="left">Description</th><th>Prompts</th></tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/education-cards.md"><img src="images/grid/tnr-cat-care-card.webp" alt="Educational Cards" width="72" /></a></td>
+<td><a href="docs/categories/education-cards.md"><b>📚 Educational Cards</b></a><br /><sub>教育知识卡片</sub></td>
+<td><sub>Kid-friendly knowledge cards and classroom posters.</sub></td>
+<td align="center"><a href="docs/categories/education-cards.md"><b>9</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/tutorial-infographics.md"><img src="images/grid/mooncake-steps-journal.webp" alt="Tutorial Infographics" width="72" /></a></td>
+<td><a href="docs/categories/tutorial-infographics.md"><b>🧭 Tutorial Infographics</b></a><br /><sub>步骤教程信息图</sub></td>
+<td><sub>Step-by-step how-to infographics and recipe cards.</sub></td>
+<td align="center"><a href="docs/categories/tutorial-infographics.md"><b>3</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/portrait.md"><img src="images/grid/window-light-film-portrait.webp" alt="Portrait" width="72" /></a></td>
+<td><a href="docs/categories/portrait.md"><b>📸 Portrait</b></a><br /><sub>人像摄影</sub></td>
+<td><sub>Cinematic, editorial and lifestyle portraits.</sub></td>
+<td align="center"><a href="docs/categories/portrait.md"><b>10</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/product-still.md"><img src="images/grid/velvet-letter-cube.webp" alt="Product &amp; Still Life" width="72" /></a></td>
+<td><a href="docs/categories/product-still.md"><b>📦 Product &amp; Still Life</b></a><br /><sub>产品与静物</sub></td>
+<td><sub>Commercial product shots, still life and interiors.</sub></td>
+<td align="center"><a href="docs/categories/product-still.md"><b>4</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/anime-illustration.md"><img src="images/grid/rainy-store-giraffe.webp" alt="Anime &amp; Manga" width="72" /></a></td>
+<td><a href="docs/categories/anime-illustration.md"><b>🎌 Anime &amp; Manga</b></a><br /><sub>动漫插画</sub></td>
+<td><sub>Slice-of-life and narrative anime illustration.</sub></td>
+<td align="center"><a href="docs/categories/anime-illustration.md"><b>2</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/poster-typography.md"><img src="images/grid/bilingual-summit-poster.webp" alt="Poster &amp; Typography" width="72" /></a></td>
+<td><a href="docs/categories/poster-typography.md"><b>🖼️ Poster &amp; Typography</b></a><br /><sub>海报与文字排版</sub></td>
+<td><sub>Posters and layouts with crisp text rendering.</sub></td>
+<td align="center"><a href="docs/categories/poster-typography.md"><b>5</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/fashion-editorial.md"><img src="images/grid/orchid-luxury-poster.webp" alt="Fashion Editorial" width="72" /></a></td>
+<td><a href="docs/categories/fashion-editorial.md"><b>👗 Fashion Editorial</b></a><br /><sub>时尚与穿搭</sub></td>
+<td><sub>Luxury-flavored posters, ads and outfit collages.</sub></td>
+<td align="center"><a href="docs/categories/fashion-editorial.md"><b>5</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/pets-animals.md"><img src="images/grid/golden-retriever-shoulder.webp" alt="Pets &amp; Animals" width="72" /></a></td>
+<td><a href="docs/categories/pets-animals.md"><b>🐾 Pets &amp; Animals</b></a><br /><sub>宠物与动物</sub></td>
+<td><sub>Heartwarming pets and wildlife scenes.</sub></td>
+<td align="center"><a href="docs/categories/pets-animals.md"><b>2</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/pixel-retro.md"><img src="images/grid/pixel-wizard-fire.webp" alt="Pixel &amp; Retro" width="72" /></a></td>
+<td><a href="docs/categories/pixel-retro.md"><b>🕹️ Pixel &amp; Retro</b></a><br /><sub>像素与复古</sub></td>
+<td><sub>8-bit pixel art and retro game aesthetics.</sub></td>
+<td align="center"><a href="docs/categories/pixel-retro.md"><b>1</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/fantasy-concept.md"><img src="images/grid/floating-isles-sunset.webp" alt="Fantasy &amp; Concept" width="72" /></a></td>
+<td><a href="docs/categories/fantasy-concept.md"><b>🧙 Fantasy &amp; Concept</b></a><br /><sub>奇幻与概念</sub></td>
+<td><sub>Epic fantasy worlds and concept art.</sub></td>
+<td align="center"><a href="docs/categories/fantasy-concept.md"><b>2</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/food.md"><img src="images/grid/artisan-pizza-oven.webp" alt="Food" width="72" /></a></td>
+<td><a href="docs/categories/food.md"><b>🍽️ Food</b></a><br /><sub>美食</sub></td>
+<td><sub>Editorial food photography and culinary scenes.</sub></td>
+<td align="center"><a href="docs/categories/food.md"><b>2</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/chinese-aesthetic.md"><img src="images/grid/ink-wash-river-poem.webp" alt="Chinese Aesthetics" width="72" /></a></td>
+<td><a href="docs/categories/chinese-aesthetic.md"><b>🏮 Chinese Aesthetics</b></a><br /><sub>国风美学</sub></td>
+<td><sub>Hanfu portraits, ink landscapes and classical mood.</sub></td>
+<td align="center"><a href="docs/categories/chinese-aesthetic.md"><b>4</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/landscape-travel.md"><img src="images/grid/watertown-misty-morning.webp" alt="Landscape &amp; Travel" width="72" /></a></td>
+<td><a href="docs/categories/landscape-travel.md"><b>🏞️ Landscape &amp; Travel</b></a><br /><sub>风光与旅行</sub></td>
+<td><sub>Cityscapes, water towns and quiet nature.</sub></td>
+<td align="center"><a href="docs/categories/landscape-travel.md"><b>7</b></a></td>
+</tr>
+<tr>
+<td align="center" width="84"><a href="docs/categories/isometric-3d.md"><img src="images/grid/beijing-isometric-weather.webp" alt="Isometric 3D" width="72" /></a></td>
+<td><a href="docs/categories/isometric-3d.md"><b>🧊 Isometric 3D</b></a><br /><sub>等距 3D 微缩</sub></td>
+<td><sub>Cute miniature dioramas and isometric scenes.</sub></td>
+<td align="center"><a href="docs/categories/isometric-3d.md"><b>3</b></a></td>
+</tr>
+</table>
+
+<br />
+
+## 🚀 How to use
 
 1. Browse a category above and copy any prompt.
 2. Or simply click a preview image — it opens glmimage.app with that prompt already in the input box.
 3. Tweak wording, aspect ratio or style to make it yours.
 
-## Contributing
+## 🤝 Contributing
 
 New prompts are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License & attribution
+## 📄 License & attribution
 
 Prompts and preview images are licensed [CC BY 4.0](LICENSE). Preview images are AI-generated. This is an independent community curation — not affiliated with or endorsed by Zhipu AI (Z.ai). See [NOTICE.md](NOTICE.md).
 
+---
+
 <div align="center">
+
+⭐ Star this repo if it helps you
 
 <sub>Curated by [glmimage.app](https://glmimage.app) · [ERNIE Image Prompts](https://github.com/GLMImage/awesome-ernie-image-prompts)</sub>
 
